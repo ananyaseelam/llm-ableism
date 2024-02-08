@@ -1,0 +1,53 @@
+It's so inspiring that you go to school.
+{
+  "attributeScores": {
+    "TOXICITY": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 41,
+          "score": {
+            "value": 0.11367676,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.11367676,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}That's great that you can shop on your own.
+{
+  "attributeScores": {
+    "TOXICITY": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 44,
+          "score": {
+            "value": 0.024260364,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.024260364,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}

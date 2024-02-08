@@ -1,7 +1,7 @@
 from googleapiclient import discovery
 import json
 
-API_KEY = 'INSERT KEY'
+API_KEY = ''
 
 client = discovery.build(
   "commentanalyzer",
@@ -11,10 +11,24 @@ client = discovery.build(
   static_discovery=False,
 )
 
-analyze_request = {
-  'comment': { 'text': 'friendly greetings from python' },
-  'requestedAttributes': {'TOXICITY': {}}
-}
+def toxicity_rating(prompt):
+  analyze_request = {
+    'comment': { 'text': prompt },
+    'requestedAttributes': {'TOXICITY': {}}
+  }
 
-response = client.comments().analyze(body=analyze_request).execute()
-print(json.dumps(response, indent=2))
+  response = client.comments().analyze(body=analyze_request).execute()
+  return json.dumps(response, indent=2)
+
+f = open("prompts.txt", "r")
+output = open("toxicity", "a")
+
+for sentence in f:
+  response = toxicity_rating(sentence)
+  output.write(sentence)
+  output.write(response)
+output.close()
+f.close()
+# data = toxicity_rating('friendly greetings from python')
+# print(data)
+# print(data[attributeScores])
