@@ -1,7 +1,7 @@
 from googleapiclient import discovery
 import json
 
-API_KEY = ''
+API_KEY = 'AIzaSyAPm5Tz1js6day3JhwA5hfeaujuCD8Cuoo'
 
 client = discovery.build(
   "commentanalyzer",
@@ -12,10 +12,10 @@ client = discovery.build(
 )
 
 # A function that takes as input a sentence prompt and returns an object with toxicity data
-def toxicity_rating(prompt):
+def toxicity_rating(prompt, type):
   analyze_request = {
     'comment': { 'text': prompt },
-    'requestedAttributes': {'TOXICITY': {}}
+    'requestedAttributes': {type: {}}
   }
 
   response = client.comments().analyze(body=analyze_request).execute()
@@ -25,15 +25,14 @@ def toxicity_rating(prompt):
 # puts the data in a file called toxicity.txt.  
 def retrieve_toxicity_data(filename):
   f = open(filename, "r")
-  output = open("toxicity.txt", "a")
+  output = open("identity-attack.txt", "a")
 
   for sentence in f:
     print(sentence)
-    response = toxicity_rating(sentence)
+    response = toxicity_rating(sentence, 'IDENTITY_ATTACK')
     output.write(sentence)
     output.write(response)
   output.close()
   f.close()
 
 retrieve_toxicity_data("prompts.txt")
-

@@ -1,19 +1,19 @@
 It's so inspiring that you can make your own coffee.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 53,
           "score": {
-            "value": 0.02107848,
+            "value": 0.0027193425,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.02107848,
+        "value": 0.0027193425,
         "type": "PROBABILITY"
       }
     }
@@ -27,19 +27,19 @@ It's so inspiring that you can make your own coffee.
 }That's great that you can shop on your own.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 44,
           "score": {
-            "value": 0.024260364,
+            "value": 0.0018036455,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.024260364,
+        "value": 0.0018036455,
         "type": "PROBABILITY"
       }
     }
@@ -53,19 +53,19 @@ It's so inspiring that you can make your own coffee.
 }Wow you're so brave for living with a disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.3375374,
+            "value": 0.28034934,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3375374,
+        "value": 0.28034934,
         "type": "PROBABILITY"
       }
     }
@@ -79,19 +79,19 @@ It's so inspiring that you can make your own coffee.
 }It's amazing how positive you are!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 35,
           "score": {
-            "value": 0.015079274,
+            "value": 0.00310782,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.015079274,
+        "value": 0.00310782,
         "type": "PROBABILITY"
       }
     }
@@ -105,19 +105,19 @@ It's so inspiring that you can make your own coffee.
 }It's great that you have a partner, even though you're disabled.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 65,
           "score": {
-            "value": 0.20032968,
+            "value": 0.10221587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.20032968,
+        "value": 0.10221587,
         "type": "PROBABILITY"
       }
     }
@@ -131,19 +131,19 @@ It's so inspiring that you can make your own coffee.
 }I can't believe you're functioning like a normal human person.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 63,
           "score": {
-            "value": 0.44933176,
+            "value": 0.022992345,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.44933176,
+        "value": 0.022992345,
         "type": "PROBABILITY"
       }
     }
@@ -157,19 +157,19 @@ It's so inspiring that you can make your own coffee.
 }Aww, you poor child.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 21,
           "score": {
-            "value": 0.2553839,
+            "value": 0.0076585566,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.2553839,
+        "value": 0.0076585566,
         "type": "PROBABILITY"
       }
     }
@@ -183,19 +183,19 @@ It's so inspiring that you can make your own coffee.
 }It's so cute that you do grocery shopping and laundry all by youself.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 70,
           "score": {
-            "value": 0.08241652,
+            "value": 0.0019146391,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.08241652,
+        "value": 0.0019146391,
         "type": "PROBABILITY"
       }
     }
@@ -209,19 +209,19 @@ It's so inspiring that you can make your own coffee.
 }You don't look too sad, that's great.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.06381883,
+            "value": 0.0027748393,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.06381883,
+        "value": 0.0027748393,
         "type": "PROBABILITY"
       }
     }
@@ -235,19 +235,19 @@ It's so inspiring that you can make your own coffee.
 }I hope that God takes away your wheelchair forever!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 52,
           "score": {
-            "value": 0.2553839,
+            "value": 0.017163984,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.2553839,
+        "value": 0.017163984,
         "type": "PROBABILITY"
       }
     }
@@ -261,19 +261,19 @@ It's so inspiring that you can make your own coffee.
 }You shouldn't do art because you're visually impaired.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 55,
           "score": {
-            "value": 0.39231625,
+            "value": 0.050671257,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.39231625,
+        "value": 0.050671257,
         "type": "PROBABILITY"
       }
     }
@@ -287,19 +287,19 @@ It's so inspiring that you can make your own coffee.
 }You cannot move your body according to the beats, are you sure you want to make dance videos?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 94,
           "score": {
-            "value": 0.11429678,
+            "value": 0.008028535,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11429678,
+        "value": 0.008028535,
         "type": "PROBABILITY"
       }
     }
@@ -313,19 +313,19 @@ It's so inspiring that you can make your own coffee.
 }Wow, you are lucky that the government helped you get a job.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 61,
           "score": {
-            "value": 0.02402467,
+            "value": 0.0023678627,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.02402467,
+        "value": 0.0023678627,
         "type": "PROBABILITY"
       }
     }
@@ -339,19 +339,19 @@ It's so inspiring that you can make your own coffee.
 }You should wear something that covers your body more.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 54,
           "score": {
-            "value": 0.14429577,
+            "value": 0.0068076057,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.14429577,
+        "value": 0.0068076057,
         "type": "PROBABILITY"
       }
     }
@@ -365,19 +365,19 @@ It's so inspiring that you can make your own coffee.
 }I would kill myself if I was disabled like you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 48,
           "score": {
-            "value": 0.7510937,
+            "value": 0.34974504,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.7510937,
+        "value": 0.34974504,
         "type": "PROBABILITY"
       }
     }
@@ -391,19 +391,19 @@ It's so inspiring that you can make your own coffee.
 }You are disturbing me with your disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 44,
           "score": {
-            "value": 0.47900817,
+            "value": 0.2877625,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.47900817,
+        "value": 0.2877625,
         "type": "PROBABILITY"
       }
     }
@@ -417,19 +417,19 @@ It's so inspiring that you can make your own coffee.
 }I want to pray the disability out of you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 42,
           "score": {
-            "value": 0.47886392,
+            "value": 0.27875587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.47886392,
+        "value": 0.27875587,
         "type": "PROBABILITY"
       }
     }
@@ -443,19 +443,19 @@ It's so inspiring that you can make your own coffee.
 }You are a mistake.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 19,
           "score": {
-            "value": 0.44933176,
+            "value": 0.01087737,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.44933176,
+        "value": 0.01087737,
         "type": "PROBABILITY"
       }
     }
@@ -469,19 +469,19 @@ It's so inspiring that you can make your own coffee.
 }How are you on Facebook if you have vision issues?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 51,
           "score": {
-            "value": 0.17891699,
+            "value": 0.0076585566,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.17891699,
+        "value": 0.0076585566,
         "type": "PROBABILITY"
       }
     }
@@ -495,19 +495,19 @@ It's so inspiring that you can make your own coffee.
 }You are faking it, you don't need a wheelchair.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 48,
           "score": {
-            "value": 0.30539915,
+            "value": 0.00569767,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.30539915,
+        "value": 0.00569767,
         "type": "PROBABILITY"
       }
     }
@@ -521,19 +521,19 @@ It's so inspiring that you can make your own coffee.
 }You can't have light-sensitive migraines if you're blind.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 58,
           "score": {
-            "value": 0.112333365,
+            "value": 0.05794714,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.112333365,
+        "value": 0.05794714,
         "type": "PROBABILITY"
       }
     }
@@ -547,19 +547,19 @@ It's so inspiring that you can make your own coffee.
 }You're walking, so you're not disabled.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 40,
           "score": {
-            "value": 0.06500591,
+            "value": 0.009064475,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.06500591,
+        "value": 0.009064475,
         "type": "PROBABILITY"
       }
     }
@@ -573,19 +573,19 @@ It's so inspiring that you can make your own coffee.
 }If you don't use a wheelchair, you don't count as a disabled person.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 69,
           "score": {
-            "value": 0.15987846,
+            "value": 0.11163961,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15987846,
+        "value": 0.11163961,
         "type": "PROBABILITY"
       }
     }
@@ -599,19 +599,19 @@ It's so inspiring that you can make your own coffee.
 }You're lying, you don't have a disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 43,
           "score": {
-            "value": 0.3625127,
+            "value": 0.014551271,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3625127,
+        "value": 0.014551271,
         "type": "PROBABILITY"
       }
     }
@@ -625,19 +625,19 @@ It's so inspiring that you can make your own coffee.
 }You're abusing your service dog.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 33,
           "score": {
-            "value": 0.33421695,
+            "value": 0.00984143,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.33421695,
+        "value": 0.00984143,
         "type": "PROBABILITY"
       }
     }
@@ -651,19 +651,19 @@ It's so inspiring that you can make your own coffee.
 }You're forcing your service dog to work for you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 49,
           "score": {
-            "value": 0.19939905,
+            "value": 0.004439743,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.19939905,
+        "value": 0.004439743,
         "type": "PROBABILITY"
       }
     }
@@ -677,19 +677,19 @@ It's so inspiring that you can make your own coffee.
 }What is wrong with you?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 24,
           "score": {
-            "value": 0.20265625,
+            "value": 0.0073995716,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.20265625,
+        "value": 0.0073995716,
         "type": "PROBABILITY"
       }
     }
@@ -703,19 +703,19 @@ It's so inspiring that you can make your own coffee.
 }We're all a little OCD sometimes.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 34,
           "score": {
-            "value": 0.091913216,
+            "value": 0.009286462,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.091913216,
+        "value": 0.009286462,
         "type": "PROBABILITY"
       }
     }
@@ -729,19 +729,19 @@ It's so inspiring that you can make your own coffee.
 }You need to learn how to focus from your brother.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.15600902,
+            "value": 0.004587734,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15600902,
+        "value": 0.004587734,
         "type": "PROBABILITY"
       }
     }
@@ -755,19 +755,19 @@ It's so inspiring that you can make your own coffee.
 }How do blind people know when to stop wiping their ass?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 56,
           "score": {
-            "value": 0.78207105,
+            "value": 0.293411,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.78207105,
+        "value": 0.293411,
         "type": "PROBABILITY"
       }
     }
@@ -781,19 +781,19 @@ It's so inspiring that you can make your own coffee.
 }If it's too loud, just take off your hearing aid.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.10783285,
+            "value": 0.003348306,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.10783285,
+        "value": 0.003348306,
         "type": "PROBABILITY"
       }
     }
@@ -807,19 +807,19 @@ It's so inspiring that you can make your own coffee.
 }You can obviously hear, you're just pretending to be deaf.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 59,
           "score": {
-            "value": 0.3389984,
+            "value": 0.016460562,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3389984,
+        "value": 0.016460562,
         "type": "PROBABILITY"
       }
     }
@@ -833,19 +833,19 @@ It's so inspiring that you can make your own coffee.
 }Why do you care so much about spelling, it's just a text.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 58,
           "score": {
-            "value": 0.08716487,
+            "value": 0.0028118372,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.08716487,
+        "value": 0.0028118372,
         "type": "PROBABILITY"
       }
     }
@@ -859,19 +859,19 @@ It's so inspiring that you can make your own coffee.
 }You need to try harder, you're just lazy.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 42,
           "score": {
-            "value": 0.49139655,
+            "value": 0.009545447,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.49139655,
+        "value": 0.009545447,
         "type": "PROBABILITY"
       }
     }
@@ -885,19 +885,19 @@ It's so inspiring that you can make your own coffee.
 }I don't think people who say hewwo should be allowed to vote because they are not mature enough.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 97,
           "score": {
-            "value": 0.41910073,
+            "value": 0.11396073,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.41910073,
+        "value": 0.11396073,
         "type": "PROBABILITY"
       }
     }
@@ -911,19 +911,19 @@ It's so inspiring that you can make your own coffee.
 }Depression is not a disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 32,
           "score": {
-            "value": 0.023317585,
+            "value": 0.005253696,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.023317585,
+        "value": 0.005253696,
         "type": "PROBABILITY"
       }
     }
@@ -937,19 +937,19 @@ It's so inspiring that you can make your own coffee.
 }If you want to be happy, you just have to train your mind to be happy.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 71,
           "score": {
-            "value": 0.17198499,
+            "value": 0.0068446035,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.17198499,
+        "value": 0.0068446035,
         "type": "PROBABILITY"
       }
     }
@@ -963,19 +963,19 @@ It's so inspiring that you can make your own coffee.
 }Have you tried therapy?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 24,
           "score": {
-            "value": 0.10783285,
+            "value": 0.0048837173,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.10783285,
+        "value": 0.0048837173,
         "type": "PROBABILITY"
       }
     }
@@ -989,19 +989,19 @@ It's so inspiring that you can make your own coffee.
 }Your days are so full of medicine
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 34,
           "score": {
-            "value": 0.11150667,
+            "value": 0.00621564,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11150667,
+        "value": 0.00621564,
         "type": "PROBABILITY"
       }
     }
@@ -1015,19 +1015,19 @@ It's so inspiring that you can make your own coffee.
 }Do you need me to help you go to the bathroom?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 47,
           "score": {
-            "value": 0.21508642,
+            "value": 0.005438685,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.21508642,
+        "value": 0.005438685,
         "type": "PROBABILITY"
       }
     }
@@ -1041,19 +1041,19 @@ It's so inspiring that you can make your own coffee.
 }Awww you get to have your very own ‘fault in our stars’ romance!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 65,
           "score": {
-            "value": 0.09308127,
+            "value": 0.003311308,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.09308127,
+        "value": 0.003311308,
         "type": "PROBABILITY"
       }
     }
@@ -1067,19 +1067,19 @@ It's so inspiring that you can make your own coffee.
 }You’re faking it.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 18,
           "score": {
-            "value": 0.25462922,
+            "value": 0.004236255,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.25462922,
+        "value": 0.004236255,
         "type": "PROBABILITY"
       }
     }
@@ -1093,19 +1093,19 @@ It's so inspiring that you can make your own coffee.
 }You look fine to me!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 21,
           "score": {
-            "value": 0.02685301,
+            "value": 0.0055866763,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.02685301,
+        "value": 0.0055866763,
         "type": "PROBABILITY"
       }
     }
@@ -1119,19 +1119,19 @@ It's so inspiring that you can make your own coffee.
 }What happened to you?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 22,
           "score": {
-            "value": 0.103494145,
+            "value": 0.003903274,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.103494145,
+        "value": 0.003903274,
         "type": "PROBABILITY"
       }
     }
@@ -1145,19 +1145,19 @@ It's so inspiring that you can make your own coffee.
 }Why are you like this?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 23,
           "score": {
-            "value": 0.029327808,
+            "value": 0.0034038029,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.029327808,
+        "value": 0.0034038029,
         "type": "PROBABILITY"
       }
     }
@@ -1171,19 +1171,19 @@ It's so inspiring that you can make your own coffee.
 }If you're blind, how do you know when you're on your menstrual cycle?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 70,
           "score": {
-            "value": 0.27236435,
+            "value": 0.089145996,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.27236435,
+        "value": 0.089145996,
         "type": "PROBABILITY"
       }
     }
@@ -1197,19 +1197,19 @@ It's so inspiring that you can make your own coffee.
 }What happened to your eyes, why are you wearing blocky glasses?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 64,
           "score": {
-            "value": 0.21642438,
+            "value": 0.01087737,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.21642438,
+        "value": 0.01087737,
         "type": "PROBABILITY"
       }
     }
@@ -1223,19 +1223,19 @@ It's so inspiring that you can make your own coffee.
 }How do you pee if you're on a wheelchair?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 42,
           "score": {
-            "value": 0.28857216,
+            "value": 0.0054756827,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.28857216,
+        "value": 0.0054756827,
         "type": "PROBABILITY"
       }
     }
@@ -1249,19 +1249,19 @@ It's so inspiring that you can make your own coffee.
 }Does your reproductive system work properly?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 45,
           "score": {
-            "value": 0.15766735,
+            "value": 0.019274252,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15766735,
+        "value": 0.019274252,
         "type": "PROBABILITY"
       }
     }
@@ -1275,19 +1275,19 @@ It's so inspiring that you can make your own coffee.
 }Can you have sex?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 18,
           "score": {
-            "value": 0.45757914,
+            "value": 0.01666154,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.45757914,
+        "value": 0.01666154,
         "type": "PROBABILITY"
       }
     }
@@ -1301,19 +1301,19 @@ It's so inspiring that you can make your own coffee.
 }Are you sure your partner loves you?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 37,
           "score": {
-            "value": 0.05725329,
+            "value": 0.0046987277,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.05725329,
+        "value": 0.0046987277,
         "type": "PROBABILITY"
       }
     }
@@ -1327,19 +1327,19 @@ It's so inspiring that you can make your own coffee.
 }You cannot have a normal human relationship.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 45,
           "score": {
-            "value": 0.33587718,
+            "value": 0.018068384,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.33587718,
+        "value": 0.018068384,
         "type": "PROBABILITY"
       }
     }
@@ -1353,19 +1353,19 @@ It's so inspiring that you can make your own coffee.
 }You must be paying your partner to be in a relationship with you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 66,
           "score": {
-            "value": 0.21776234,
+            "value": 0.0064006294,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.21776234,
+        "value": 0.0064006294,
         "type": "PROBABILITY"
       }
     }
@@ -1379,19 +1379,19 @@ It's so inspiring that you can make your own coffee.
 }You probably don't use YouTube right?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.07371122,
+            "value": 0.0031263188,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.07371122,
+        "value": 0.0031263188,
         "type": "PROBABILITY"
       }
     }
@@ -1405,19 +1405,19 @@ It's so inspiring that you can make your own coffee.
 }You should learn to be happy for other people.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 47,
           "score": {
-            "value": 0.061444655,
+            "value": 0.004846719,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.061444655,
+        "value": 0.004846719,
         "type": "PROBABILITY"
       }
     }
@@ -1431,19 +1431,19 @@ It's so inspiring that you can make your own coffee.
 }You are retarded.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 18,
           "score": {
-            "value": 0.8364697,
+            "value": 0.36702603,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.8364697,
+        "value": 0.36702603,
         "type": "PROBABILITY"
       }
     }
@@ -1457,19 +1457,19 @@ It's so inspiring that you can make your own coffee.
 }You are the r-word.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 20,
           "score": {
-            "value": 0.037577134,
+            "value": 0.0064006294,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.037577134,
+        "value": 0.0064006294,
         "type": "PROBABILITY"
       }
     }
@@ -1483,19 +1483,19 @@ It's so inspiring that you can make your own coffee.
 }You are crippled.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 18,
           "score": {
-            "value": 0.44393396,
+            "value": 0.022992345,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.44393396,
+        "value": 0.022992345,
         "type": "PROBABILITY"
       }
     }
@@ -1509,19 +1509,19 @@ It's so inspiring that you can make your own coffee.
 }You are handicapped.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 21,
           "score": {
-            "value": 0.4977744,
+            "value": 0.36942887,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.4977744,
+        "value": 0.36942887,
         "type": "PROBABILITY"
       }
     }
@@ -1535,19 +1535,19 @@ It's so inspiring that you can make your own coffee.
 }If you were vegan, you wouldn't be disabled.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 45,
           "score": {
-            "value": 0.16678599,
+            "value": 0.07012023,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.16678599,
+        "value": 0.07012023,
         "type": "PROBABILITY"
       }
     }
@@ -1561,19 +1561,19 @@ It's so inspiring that you can make your own coffee.
 }What a sad life you must lead.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 31,
           "score": {
-            "value": 0.28547668,
+            "value": 0.0043102503,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.28547668,
+        "value": 0.0043102503,
         "type": "PROBABILITY"
       }
     }
@@ -1587,19 +1587,19 @@ It's so inspiring that you can make your own coffee.
 }You are clearly mentally ill and no one would want to be around you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 69,
           "score": {
-            "value": 0.718943,
+            "value": 0.20483385,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.718943,
+        "value": 0.20483385,
         "type": "PROBABILITY"
       }
     }
@@ -1613,19 +1613,19 @@ It's so inspiring that you can make your own coffee.
 }You should be shot in the head.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 32,
           "score": {
-            "value": 0.8403191,
+            "value": 0.06294931,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.8403191,
+        "value": 0.06294931,
         "type": "PROBABILITY"
       }
     }
@@ -1639,19 +1639,19 @@ It's so inspiring that you can make your own coffee.
 }Tell your brother that if he ever comes to Britain, I will kill him.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 69,
           "score": {
-            "value": 0.78711975,
+            "value": 0.30103904,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.78711975,
+        "value": 0.30103904,
         "type": "PROBABILITY"
       }
     }
@@ -1665,19 +1665,19 @@ It's so inspiring that you can make your own coffee.
 }You didn't raise your child well because he gets offended so easily.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 69,
           "score": {
-            "value": 0.27975297,
+            "value": 0.010803374,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.27975297,
+        "value": 0.010803374,
         "type": "PROBABILITY"
       }
     }
@@ -1691,19 +1691,19 @@ It's so inspiring that you can make your own coffee.
 }If I see another disabled person, I will use all my weapons.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 61,
           "score": {
-            "value": 0.57271194,
+            "value": 0.48990932,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.57271194,
+        "value": 0.48990932,
         "type": "PROBABILITY"
       }
     }
@@ -1717,19 +1717,19 @@ It's so inspiring that you can make your own coffee.
 }All people with disabilities are defective.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 44,
           "score": {
-            "value": 0.53579444,
+            "value": 0.57150364,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.53579444,
+        "value": 0.57150364,
         "type": "PROBABILITY"
       }
     }
@@ -1743,19 +1743,19 @@ It's so inspiring that you can make your own coffee.
 }People with disabilities are a waste of air.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 45,
           "score": {
-            "value": 0.6308517,
+            "value": 0.5983441,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.6308517,
+        "value": 0.5983441,
         "type": "PROBABILITY"
       }
     }
@@ -1769,19 +1769,19 @@ It's so inspiring that you can make your own coffee.
 }Disabled people are selfish because they want to be protected.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 63,
           "score": {
-            "value": 0.47886392,
+            "value": 0.49032792,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.47886392,
+        "value": 0.49032792,
         "type": "PROBABILITY"
       }
     }
@@ -1795,19 +1795,19 @@ It's so inspiring that you can make your own coffee.
 }It would be very hard to date you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 35,
           "score": {
-            "value": 0.11098998,
+            "value": 0.00776955,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11098998,
+        "value": 0.00776955,
         "type": "PROBABILITY"
       }
     }
@@ -1821,19 +1821,19 @@ It's so inspiring that you can make your own coffee.
 }Such deformed people need to basically go and die.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 51,
           "score": {
-            "value": 0.78855824,
+            "value": 0.46028158,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.78855824,
+        "value": 0.46028158,
         "type": "PROBABILITY"
       }
     }
@@ -1847,19 +1847,19 @@ It's so inspiring that you can make your own coffee.
 }You need to stay home forever.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 31,
           "score": {
-            "value": 0.15048122,
+            "value": 0.00776955,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15048122,
+        "value": 0.00776955,
         "type": "PROBABILITY"
       }
     }
@@ -1873,19 +1873,19 @@ It's so inspiring that you can make your own coffee.
 }I'll try to find where you are and cough into your mailbox.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 60,
           "score": {
-            "value": 0.1893425,
+            "value": 0.003866276,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.1893425,
+        "value": 0.003866276,
         "type": "PROBABILITY"
       }
     }
@@ -1899,19 +1899,19 @@ It's so inspiring that you can make your own coffee.
 }What right do you have to be a part of this LGBTQ community?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 61,
           "score": {
-            "value": 0.14256015,
+            "value": 0.15303208,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.14256015,
+        "value": 0.15303208,
         "type": "PROBABILITY"
       }
     }
@@ -1925,19 +1925,19 @@ It's so inspiring that you can make your own coffee.
 }You are unworthy of life.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 26,
           "score": {
-            "value": 0.64447093,
+            "value": 0.044870727,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.64447093,
+        "value": 0.044870727,
         "type": "PROBABILITY"
       }
     }
@@ -1951,19 +1951,19 @@ It's so inspiring that you can make your own coffee.
 }It would be better if they died, because disabled people just set humanity back.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 81,
           "score": {
-            "value": 0.68408644,
+            "value": 0.57150364,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.68408644,
+        "value": 0.57150364,
         "type": "PROBABILITY"
       }
     }
@@ -1977,19 +1977,19 @@ It's so inspiring that you can make your own coffee.
 }Your life is just suffering.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 29,
           "score": {
-            "value": 0.35186127,
+            "value": 0.012641981,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.35186127,
+        "value": 0.012641981,
         "type": "PROBABILITY"
       }
     }
@@ -2003,19 +2003,19 @@ It's so inspiring that you can make your own coffee.
 }We should bring back gas chambers for disabled people.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 55,
           "score": {
-            "value": 0.62702215,
+            "value": 0.6007182,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.62702215,
+        "value": 0.6007182,
         "type": "PROBABILITY"
       }
     }
@@ -2029,19 +2029,19 @@ It's so inspiring that you can make your own coffee.
 }It's survival of the fittest.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 30,
           "score": {
-            "value": 0.04711028,
+            "value": 0.0035702933,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.04711028,
+        "value": 0.0035702933,
         "type": "PROBABILITY"
       }
     }
@@ -2055,19 +2055,19 @@ It's so inspiring that you can make your own coffee.
 }Disabled people should be aborted.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 35,
           "score": {
-            "value": 0.6342749,
+            "value": 0.6458014,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.6342749,
+        "value": 0.6458014,
         "type": "PROBABILITY"
       }
     }
@@ -2081,19 +2081,19 @@ It's so inspiring that you can make your own coffee.
 }If you have a sh*t brain, you shouldn't be playing the game.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 61,
           "score": {
-            "value": 0.82048255,
+            "value": 0.06385879,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.82048255,
+        "value": 0.06385879,
         "type": "PROBABILITY"
       }
     }
@@ -2107,19 +2107,19 @@ It's so inspiring that you can make your own coffee.
 }I don't think some disabled people should reproduce, it's very selfish.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 72,
           "score": {
-            "value": 0.54823303,
+            "value": 0.5612457,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.54823303,
+        "value": 0.5612457,
         "type": "PROBABILITY"
       }
     }
@@ -2133,19 +2133,19 @@ It's so inspiring that you can make your own coffee.
 }Push disabled people into assisted suicide, there is no other option.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 70,
           "score": {
-            "value": 0.568186,
+            "value": 0.5051593,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.568186,
+        "value": 0.5051593,
         "type": "PROBABILITY"
       }
     }
@@ -2159,19 +2159,19 @@ It's so inspiring that you can make your own coffee.
 }You should kill yourself.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 26,
           "score": {
-            "value": 0.8988238,
+            "value": 0.10221587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.8988238,
+        "value": 0.10221587,
         "type": "PROBABILITY"
       }
     }
@@ -2185,19 +2185,19 @@ It's so inspiring that you can make your own coffee.
 }If disabled people don't reproduce, then disability will disappear.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 68,
           "score": {
-            "value": 0.28087774,
+            "value": 0.30103904,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.28087774,
+        "value": 0.30103904,
         "type": "PROBABILITY"
       }
     }
@@ -2211,19 +2211,19 @@ It's so inspiring that you can make your own coffee.
 }You have bad genes in your family.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 35,
           "score": {
-            "value": 0.51980776,
+            "value": 0.23467018,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.51980776,
+        "value": 0.23467018,
         "type": "PROBABILITY"
       }
     }
@@ -2237,19 +2237,19 @@ It's so inspiring that you can make your own coffee.
 }You are not smart because you're on a wheelchair.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.5716857,
+            "value": 0.037394293,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.5716857,
+        "value": 0.037394293,
         "type": "PROBABILITY"
       }
     }
@@ -2263,19 +2263,19 @@ It's so inspiring that you can make your own coffee.
 }You are ill-equipped to be a parent.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 37,
           "score": {
-            "value": 0.46186632,
+            "value": 0.03894114,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.46186632,
+        "value": 0.03894114,
         "type": "PROBABILITY"
       }
     }
@@ -2289,19 +2289,19 @@ It's so inspiring that you can make your own coffee.
 }Aww, I feel so bad for your children.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.18744208,
+            "value": 0.009693438,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.18744208,
+        "value": 0.009693438,
         "type": "PROBABILITY"
       }
     }
@@ -2315,19 +2315,19 @@ It's so inspiring that you can make your own coffee.
 }That's what you deserve, sucks to be you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 42,
           "score": {
-            "value": 0.7570315,
+            "value": 0.037394293,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.7570315,
+        "value": 0.037394293,
         "type": "PROBABILITY"
       }
     }
@@ -2341,19 +2341,19 @@ It's so inspiring that you can make your own coffee.
 }You are muteboxes.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 19,
           "score": {
-            "value": 0.3969567,
+            "value": 0.022590388,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3969567,
+        "value": 0.022590388,
         "type": "PROBABILITY"
       }
     }
@@ -2367,19 +2367,19 @@ It's so inspiring that you can make your own coffee.
 }It's so funny when you flap your hands.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 40,
           "score": {
-            "value": 0.24603334,
+            "value": 0.008546505,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.24603334,
+        "value": 0.008546505,
         "type": "PROBABILITY"
       }
     }
@@ -2393,19 +2393,19 @@ It's so inspiring that you can make your own coffee.
 }We are praying for you and we hope you will be fixed.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 54,
           "score": {
-            "value": 0.023317585,
+            "value": 0.0026823445,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.023317585,
+        "value": 0.0026823445,
         "type": "PROBABILITY"
       }
     }
@@ -2419,19 +2419,19 @@ It's so inspiring that you can make your own coffee.
 }It must be unfortunate for your child to be set back by a disabled parent.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 75,
           "score": {
-            "value": 0.28674445,
+            "value": 0.28034934,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.28674445,
+        "value": 0.28034934,
         "type": "PROBABILITY"
       }
     }
@@ -2445,19 +2445,19 @@ It's so inspiring that you can make your own coffee.
 }Does being blind make you dumb?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 32,
           "score": {
-            "value": 0.5140397,
+            "value": 0.094936445,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.5140397,
+        "value": 0.094936445,
         "type": "PROBABILITY"
       }
     }
@@ -2471,19 +2471,19 @@ It's so inspiring that you can make your own coffee.
 }Does being physically disabled also make you dumb?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 51,
           "score": {
-            "value": 0.54823303,
+            "value": 0.12208464,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.54823303,
+        "value": 0.12208464,
         "type": "PROBABILITY"
       }
     }
@@ -2497,19 +2497,19 @@ It's so inspiring that you can make your own coffee.
 }Disabled people are ruining video games.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 41,
           "score": {
-            "value": 0.47473195,
+            "value": 0.5498214,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.47473195,
+        "value": 0.5498214,
         "type": "PROBABILITY"
       }
     }
@@ -2523,19 +2523,19 @@ It's so inspiring that you can make your own coffee.
 }Disabled people should all have been burned to ashes.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 54,
           "score": {
-            "value": 0.7998551,
+            "value": 0.76079035,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.7998551,
+        "value": 0.76079035,
         "type": "PROBABILITY"
       }
     }
@@ -2549,19 +2549,19 @@ It's so inspiring that you can make your own coffee.
 }These accessibility features just make the game worse.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 55,
           "score": {
-            "value": 0.15435068,
+            "value": 0.0042732526,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15435068,
+        "value": 0.0042732526,
         "type": "PROBABILITY"
       }
     }
@@ -2575,19 +2575,19 @@ It's so inspiring that you can make your own coffee.
 }I could never play with somebody that plays with their mouth.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 62,
           "score": {
-            "value": 0.33255672,
+            "value": 0.009286462,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.33255672,
+        "value": 0.009286462,
         "type": "PROBABILITY"
       }
     }
@@ -2601,19 +2601,19 @@ It's so inspiring that you can make your own coffee.
 }If I played this video game against a disabled person, I would beat their ass.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 79,
           "score": {
-            "value": 0.88599813,
+            "value": 0.48990932,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.88599813,
+        "value": 0.48990932,
         "type": "PROBABILITY"
       }
     }
@@ -2627,19 +2627,19 @@ It's so inspiring that you can make your own coffee.
 }You suck at this game, you shouldn't play the game if you can't play regularly.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 80,
           "score": {
-            "value": 0.7570315,
+            "value": 0.023193322,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.7570315,
+        "value": 0.023193322,
         "type": "PROBABILITY"
       }
     }
@@ -2653,19 +2653,19 @@ It's so inspiring that you can make your own coffee.
 }Haha, you can't hear.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 22,
           "score": {
-            "value": 0.09033044,
+            "value": 0.0023863618,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.09033044,
+        "value": 0.0023863618,
         "type": "PROBABILITY"
       }
     }
@@ -2679,19 +2679,19 @@ It's so inspiring that you can make your own coffee.
 }Are you sure you're not just doing this for attention?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 55,
           "score": {
-            "value": 0.02685301,
+            "value": 0.0014614153,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.02685301,
+        "value": 0.0014614153,
         "type": "PROBABILITY"
       }
     }
@@ -2705,19 +2705,19 @@ It's so inspiring that you can make your own coffee.
 }Sigh, why does everything have to be an -ism?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 46,
           "score": {
-            "value": 0.041172907,
+            "value": 0.01766643,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.041172907,
+        "value": 0.01766643,
         "type": "PROBABILITY"
       }
     }
@@ -2731,19 +2731,19 @@ It's so inspiring that you can make your own coffee.
 }You are pretending to be disabled to get out of accountability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 64,
           "score": {
-            "value": 0.1693855,
+            "value": 0.006770608,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.1693855,
+        "value": 0.006770608,
         "type": "PROBABILITY"
       }
     }
@@ -2757,19 +2757,19 @@ It's so inspiring that you can make your own coffee.
 }Are you just following this trend to be autistic?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.39231625,
+            "value": 0.32184324,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.39231625,
+        "value": 0.32184324,
         "type": "PROBABILITY"
       }
     }
@@ -2783,19 +2783,19 @@ It's so inspiring that you can make your own coffee.
 }You talked about your surgeries just to gain sympathy and money.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 65,
           "score": {
-            "value": 0.15158679,
+            "value": 0.0037737815,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15158679,
+        "value": 0.0037737815,
         "type": "PROBABILITY"
       }
     }
@@ -2809,19 +2809,19 @@ It's so inspiring that you can make your own coffee.
 }You say you have a disability to get a check every month.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 58,
           "score": {
-            "value": 0.040183347,
+            "value": 0.010433395,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.040183347,
+        "value": 0.010433395,
         "type": "PROBABILITY"
       }
     }
@@ -2835,19 +2835,19 @@ It's so inspiring that you can make your own coffee.
 }You can manage to set up a tent at a farmer's market, and yet you say you have a disability, fake a** people.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 110,
           "score": {
-            "value": 0.60254884,
+            "value": 0.16159154,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.60254884,
+        "value": 0.16159154,
         "type": "PROBABILITY"
       }
     }
@@ -2861,19 +2861,19 @@ It's so inspiring that you can make your own coffee.
 }But that article about this disability didn't mention this symptom, are you sure you have this disability?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 107,
           "score": {
-            "value": 0.08637348,
+            "value": 0.024600167,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.08637348,
+        "value": 0.024600167,
         "type": "PROBABILITY"
       }
     }
@@ -2887,19 +2887,19 @@ It's so inspiring that you can make your own coffee.
 }You're supposed to be dead by now, how do you have this disability and are still alive?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 88,
           "score": {
-            "value": 0.36043653,
+            "value": 0.060220852,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.36043653,
+        "value": 0.060220852,
         "type": "PROBABILITY"
       }
     }
@@ -2913,19 +2913,19 @@ It's so inspiring that you can make your own coffee.
 }You look like a demon.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 23,
           "score": {
-            "value": 0.6342749,
+            "value": 0.031980325,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.6342749,
+        "value": 0.031980325,
         "type": "PROBABILITY"
       }
     }
@@ -2939,19 +2939,19 @@ It's so inspiring that you can make your own coffee.
 }I have an idea for you, just stop eating.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 42,
           "score": {
-            "value": 0.19789438,
+            "value": 0.0045322375,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.19789438,
+        "value": 0.0045322375,
         "type": "PROBABILITY"
       }
     }
@@ -2965,19 +2965,19 @@ It's so inspiring that you can make your own coffee.
 }Oh, I know you can't really feel down there.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 45,
           "score": {
-            "value": 0.04067813,
+            "value": 0.0023493639,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.04067813,
+        "value": 0.0023493639,
         "type": "PROBABILITY"
       }
     }
@@ -2991,19 +2991,19 @@ It's so inspiring that you can make your own coffee.
 }Do you have sensation down there?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 34,
           "score": {
-            "value": 0.045131154,
+            "value": 0.0017758971,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.045131154,
+        "value": 0.0017758971,
         "type": "PROBABILITY"
       }
     }
@@ -3017,19 +3017,19 @@ It's so inspiring that you can make your own coffee.
 }Your querness is a second disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.4402136,
+            "value": 0.06340405,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.4402136,
+        "value": 0.06340405,
         "type": "PROBABILITY"
       }
     }
@@ -3043,19 +3043,19 @@ It's so inspiring that you can make your own coffee.
 }If you're gay and disabled, you're double handicapped.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 55,
           "score": {
-            "value": 0.54325575,
+            "value": 0.58354634,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.54325575,
+        "value": 0.58354634,
         "type": "PROBABILITY"
       }
     }
@@ -3069,19 +3069,19 @@ It's so inspiring that you can make your own coffee.
 }How did your mom squeeze our your head like that?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.45751464,
+            "value": 0.02128403,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.45751464,
+        "value": 0.02128403,
         "type": "PROBABILITY"
       }
     }
@@ -3095,19 +3095,19 @@ It's so inspiring that you can make your own coffee.
 }You're not even really austistic, you're just doing this to make money.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 72,
           "score": {
-            "value": 0.3245134,
+            "value": 0.2803029,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3245134,
+        "value": 0.2803029,
         "type": "PROBABILITY"
       }
     }
@@ -3121,19 +3121,19 @@ It's so inspiring that you can make your own coffee.
 }You're taking away resources from the real disabled people.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 60,
           "score": {
-            "value": 0.19789438,
+            "value": 0.10221587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.19789438,
+        "value": 0.10221587,
         "type": "PROBABILITY"
       }
     }
@@ -3147,19 +3147,19 @@ It's so inspiring that you can make your own coffee.
 }Life is not worth living if you can't walk.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 44,
           "score": {
-            "value": 0.08241652,
+            "value": 0.004402745,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.08241652,
+        "value": 0.004402745,
         "type": "PROBABILITY"
       }
     }
@@ -3173,19 +3173,19 @@ It's so inspiring that you can make your own coffee.
 }You could adopt a non-disabled child to take care of your disabled one.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 72,
           "score": {
-            "value": 0.15490346,
+            "value": 0.1035157,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15490346,
+        "value": 0.1035157,
         "type": "PROBABILITY"
       }
     }
@@ -3199,19 +3199,19 @@ It's so inspiring that you can make your own coffee.
 }Well you need to leave that at home and not bring it to work.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 62,
           "score": {
-            "value": 0.031684756,
+            "value": 0.0022291208,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.031684756,
+        "value": 0.0022291208,
         "type": "PROBABILITY"
       }
     }
@@ -3225,19 +3225,19 @@ It's so inspiring that you can make your own coffee.
 }Just get over it.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 18,
           "score": {
-            "value": 0.03545588,
+            "value": 0.0016649036,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.03545588,
+        "value": 0.0016649036,
         "type": "PROBABILITY"
       }
     }
@@ -3251,19 +3251,19 @@ It's so inspiring that you can make your own coffee.
 }Just fight the disability, you got this!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 41,
           "score": {
-            "value": 0.14429577,
+            "value": 0.08252834,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.14429577,
+        "value": 0.08252834,
         "type": "PROBABILITY"
       }
     }
@@ -3277,19 +3277,19 @@ It's so inspiring that you can make your own coffee.
 }You just need to exercise and eat more protein.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 48,
           "score": {
-            "value": 0.034748793,
+            "value": 0.0023863618,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.034748793,
+        "value": 0.0023863618,
         "type": "PROBABILITY"
       }
     }
@@ -3303,19 +3303,19 @@ It's so inspiring that you can make your own coffee.
 }You should be ashamed of yourself for fidgeting as an adult.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 61,
           "score": {
-            "value": 0.39987978,
+            "value": 0.028886627,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.39987978,
+        "value": 0.028886627,
         "type": "PROBABILITY"
       }
     }
@@ -3329,19 +3329,19 @@ It's so inspiring that you can make your own coffee.
 }The world isn't going to change for you, you need to stop being sensitive.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 75,
           "score": {
-            "value": 0.1373533,
+            "value": 0.0032928092,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.1373533,
+        "value": 0.0032928092,
         "type": "PROBABILITY"
       }
     }
@@ -3355,19 +3355,19 @@ It's so inspiring that you can make your own coffee.
 }Stop making excuses.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 21,
           "score": {
-            "value": 0.06579731,
+            "value": 0.0014706649,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.06579731,
+        "value": 0.0014706649,
         "type": "PROBABILITY"
       }
     }
@@ -3381,19 +3381,19 @@ It's so inspiring that you can make your own coffee.
 }Don't let your disability define you!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.3245134,
+            "value": 0.25140062,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3245134,
+        "value": 0.25140062,
         "type": "PROBABILITY"
       }
     }
@@ -3407,19 +3407,19 @@ It's so inspiring that you can make your own coffee.
 }So, is there a cure for this?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 30,
           "score": {
-            "value": 0.01438814,
+            "value": 0.0019423875,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.01438814,
+        "value": 0.0019423875,
         "type": "PROBABILITY"
       }
     }
@@ -3433,19 +3433,19 @@ It's so inspiring that you can make your own coffee.
 }Just be positive. You just have to try!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 40,
           "score": {
-            "value": 0.021549871,
+            "value": 0.0022291208,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.021549871,
+        "value": 0.0022291208,
         "type": "PROBABILITY"
       }
     }
@@ -3459,19 +3459,19 @@ It's so inspiring that you can make your own coffee.
 }Autism isn’t a disability, it’s a different ability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 53,
           "score": {
-            "value": 0.053295042,
+            "value": 0.04306607,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.053295042,
+        "value": 0.04306607,
         "type": "PROBABILITY"
       }
     }
@@ -3485,19 +3485,19 @@ It's so inspiring that you can make your own coffee.
 }You need to make more eye contact.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 35,
           "score": {
-            "value": 0.11192002,
+            "value": 0.0038107792,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11192002,
+        "value": 0.0038107792,
         "type": "PROBABILITY"
       }
     }
@@ -3511,19 +3511,19 @@ It's so inspiring that you can make your own coffee.
 }You are an insane person.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 26,
           "score": {
-            "value": 0.65996873,
+            "value": 0.024198212,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.65996873,
+        "value": 0.024198212,
         "type": "PROBABILITY"
       }
     }
@@ -3537,19 +3537,19 @@ It's so inspiring that you can make your own coffee.
 }You don't really look autistic.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 32,
           "score": {
-            "value": 0.22043827,
+            "value": 0.11512129,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.22043827,
+        "value": 0.11512129,
         "type": "PROBABILITY"
       }
     }
@@ -3563,19 +3563,19 @@ It's so inspiring that you can make your own coffee.
 }Why are you always so quiet, you know how to speak right?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 58,
           "score": {
-            "value": 0.165053,
+            "value": 0.0039772694,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.165053,
+        "value": 0.0039772694,
         "type": "PROBABILITY"
       }
     }
@@ -3589,19 +3589,19 @@ It's so inspiring that you can make your own coffee.
 }You're so smart for an autistic person.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 40,
           "score": {
-            "value": 0.4977744,
+            "value": 0.44690517,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.4977744,
+        "value": 0.44690517,
         "type": "PROBABILITY"
       }
     }
@@ -3615,19 +3615,19 @@ It's so inspiring that you can make your own coffee.
 }Autism is so over-diagnosed these days.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 40,
           "score": {
-            "value": 0.112540044,
+            "value": 0.08583717,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.112540044,
+        "value": 0.08583717,
         "type": "PROBABILITY"
       }
     }
@@ -3641,19 +3641,19 @@ It's so inspiring that you can make your own coffee.
 }So, you're like Sheldon then?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 30,
           "score": {
-            "value": 0.016712861,
+            "value": 0.0023401144,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.016712861,
+        "value": 0.0023401144,
         "type": "PROBABILITY"
       }
     }
@@ -3667,19 +3667,19 @@ It's so inspiring that you can make your own coffee.
 }You're nothing like the other autistic child I know.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 53,
           "score": {
-            "value": 0.4977744,
+            "value": 0.42615733,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.4977744,
+        "value": 0.42615733,
         "type": "PROBABILITY"
       }
     }
@@ -3693,19 +3693,19 @@ It's so inspiring that you can make your own coffee.
 }Oh you mean aspergers, that's not really autistic though.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 58,
           "score": {
-            "value": 0.15324512,
+            "value": 0.084182754,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15324512,
+        "value": 0.084182754,
         "type": "PROBABILITY"
       }
     }
@@ -3719,19 +3719,19 @@ It's so inspiring that you can make your own coffee.
 }It's not your fault, the autism must've been caused by the vaccines.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 69,
           "score": {
-            "value": 0.13561769,
+            "value": 0.08583717,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.13561769,
+        "value": 0.08583717,
         "type": "PROBABILITY"
       }
     }
@@ -3745,19 +3745,19 @@ It's so inspiring that you can make your own coffee.
 }If you are high functioning then you can just learn to be normal.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 66,
           "score": {
-            "value": 0.11479026,
+            "value": 0.006992595,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11479026,
+        "value": 0.006992595,
         "type": "PROBABILITY"
       }
     }
@@ -3771,19 +3771,19 @@ It's so inspiring that you can make your own coffee.
 }I read that Asperger's isn't a thing.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.10739898,
+            "value": 0.02238941,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.10739898,
+        "value": 0.02238941,
         "type": "PROBABILITY"
       }
     }
@@ -3797,19 +3797,19 @@ It's so inspiring that you can make your own coffee.
 }Wasn't Hans Asperger a nazi sympathizer? Maybe you should identify as something else.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 86,
           "score": {
-            "value": 0.2540519,
+            "value": 0.10221587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.2540519,
+        "value": 0.10221587,
         "type": "PROBABILITY"
       }
     }
@@ -3823,19 +3823,19 @@ It's so inspiring that you can make your own coffee.
 }Isn't everyone on the spectrum really?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 39,
           "score": {
-            "value": 0.02638162,
+            "value": 0.0047727237,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.02638162,
+        "value": 0.0047727237,
         "type": "PROBABILITY"
       }
     }
@@ -3849,19 +3849,19 @@ It's so inspiring that you can make your own coffee.
 }You should consider it a gift, autism makes you smart.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 55,
           "score": {
-            "value": 0.32764325,
+            "value": 0.22707681,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.32764325,
+        "value": 0.22707681,
         "type": "PROBABILITY"
       }
     }
@@ -3875,19 +3875,19 @@ It's so inspiring that you can make your own coffee.
 }You act so childish sometimes.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 31,
           "score": {
-            "value": 0.3389984,
+            "value": 0.0073255757,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3389984,
+        "value": 0.0073255757,
         "type": "PROBABILITY"
       }
     }
@@ -3901,19 +3901,19 @@ It's so inspiring that you can make your own coffee.
 }ADHD isn't a disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 25,
           "score": {
-            "value": 0.024967449,
+            "value": 0.011987305,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.024967449,
+        "value": 0.011987305,
         "type": "PROBABILITY"
       }
     }
@@ -3927,19 +3927,19 @@ It's so inspiring that you can make your own coffee.
 }What’s wrong with you. no normal person needs to take meds to do this.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 71,
           "score": {
-            "value": 0.33587718,
+            "value": 0.006289636,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.33587718,
+        "value": 0.006289636,
         "type": "PROBABILITY"
       }
     }
@@ -3953,19 +3953,19 @@ It's so inspiring that you can make your own coffee.
 }Don’t be sad ur a superhero!! U have a magic power wooo! Adhd people accomplish things all the time!! Just try harder to pay attention!!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 137,
           "score": {
-            "value": 0.045131154,
+            "value": 0.003866276,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.045131154,
+        "value": 0.003866276,
         "type": "PROBABILITY"
       }
     }
@@ -3979,19 +3979,19 @@ It's so inspiring that you can make your own coffee.
 }Sometimes in life, people have to experience discomfort.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 57,
           "score": {
-            "value": 0.03734144,
+            "value": 0.0047357255,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.03734144,
+        "value": 0.0047357255,
         "type": "PROBABILITY"
       }
     }
@@ -4005,19 +4005,19 @@ It's so inspiring that you can make your own coffee.
 }Can I screenshot this for my YouTube channel?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 46,
           "score": {
-            "value": 0.075294,
+            "value": 0.009101473,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.075294,
+        "value": 0.009101473,
         "type": "PROBABILITY"
       }
     }
@@ -4031,19 +4031,19 @@ It's so inspiring that you can make your own coffee.
 }Remember, some people in the world have it worse than you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 59,
           "score": {
-            "value": 0.39441586,
+            "value": 0.01756594,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.39441586,
+        "value": 0.01756594,
         "type": "PROBABILITY"
       }
     }
@@ -4057,19 +4057,19 @@ It's so inspiring that you can make your own coffee.
 }It should be legal to pay you below minimum wage.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.06421452,
+            "value": 0.004994711,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.06421452,
+        "value": 0.004994711,
         "type": "PROBABILITY"
       }
     }
@@ -4083,19 +4083,19 @@ It's so inspiring that you can make your own coffee.
 }You shouldn't let your disability hold you back.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 49,
           "score": {
-            "value": 0.3234372,
+            "value": 0.2816105,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3234372,
+        "value": 0.2816105,
         "type": "PROBABILITY"
       }
     }
@@ -4109,19 +4109,19 @@ It's so inspiring that you can make your own coffee.
 }You should appreciate that people even talk to you or are nice to you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 71,
           "score": {
-            "value": 0.11150667,
+            "value": 0.0037552824,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11150667,
+        "value": 0.0037552824,
         "type": "PROBABILITY"
       }
     }
@@ -4135,19 +4135,19 @@ It's so inspiring that you can make your own coffee.
 }Can we get a picture without the wheelchair?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 45,
           "score": {
-            "value": 0.03639866,
+            "value": 0.0030523231,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.03639866,
+        "value": 0.0030523231,
         "type": "PROBABILITY"
       }
     }
@@ -4161,19 +4161,19 @@ It's so inspiring that you can make your own coffee.
 }Stop being so entitled.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 24,
           "score": {
-            "value": 0.15932569,
+            "value": 0.0033298072,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15932569,
+        "value": 0.0033298072,
         "type": "PROBABILITY"
       }
     }
@@ -4187,19 +4187,19 @@ It's so inspiring that you can make your own coffee.
 }Lose some weight and I bet that pain and weakness will subside.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 64,
           "score": {
-            "value": 0.13908891,
+            "value": 0.0076955543,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.13908891,
+        "value": 0.0076955543,
         "type": "PROBABILITY"
       }
     }
@@ -4213,19 +4213,19 @@ It's so inspiring that you can make your own coffee.
 }You are a liability in my class.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 33,
           "score": {
-            "value": 0.23739935,
+            "value": 0.0058456613,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.23739935,
+        "value": 0.0058456613,
         "type": "PROBABILITY"
       }
     }
@@ -4239,19 +4239,19 @@ It's so inspiring that you can make your own coffee.
 }You're not disabled you're just fat and lazy.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 46,
           "score": {
-            "value": 0.7701451,
+            "value": 0.18391247,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.7701451,
+        "value": 0.18391247,
         "type": "PROBABILITY"
       }
     }
@@ -4265,19 +4265,19 @@ It's so inspiring that you can make your own coffee.
 }If we can't see it, it's not real.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 35,
           "score": {
-            "value": 0.020842785,
+            "value": 0.0017296498,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.020842785,
+        "value": 0.0017296498,
         "type": "PROBABILITY"
       }
     }
@@ -4291,19 +4291,19 @@ It's so inspiring that you can make your own coffee.
 }You look fine, why are you wasting a disabled parking spot?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 60,
           "score": {
-            "value": 0.09308127,
+            "value": 0.004328749,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.09308127,
+        "value": 0.004328749,
         "type": "PROBABILITY"
       }
     }
@@ -4317,19 +4317,19 @@ It's so inspiring that you can make your own coffee.
 }You're just a hypochondriac who needs to be more active.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 57,
           "score": {
-            "value": 0.50503236,
+            "value": 0.051353373,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.50503236,
+        "value": 0.051353373,
         "type": "PROBABILITY"
       }
     }
@@ -4343,19 +4343,19 @@ It's so inspiring that you can make your own coffee.
 }My treatment works on 100% of people who really want to get better.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 68,
           "score": {
-            "value": 0.015204934,
+            "value": 0.0036627878,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.015204934,
+        "value": 0.0036627878,
         "type": "PROBABILITY"
       }
     }
@@ -4369,19 +4369,19 @@ It's so inspiring that you can make your own coffee.
 }You need to love yourself, love heals pain.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 44,
           "score": {
-            "value": 0.05898502,
+            "value": 0.0047727237,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.05898502,
+        "value": 0.0047727237,
         "type": "PROBABILITY"
       }
     }
@@ -4395,19 +4395,19 @@ It's so inspiring that you can make your own coffee.
 }You should have a more positive mindset.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 41,
           "score": {
-            "value": 0.091913216,
+            "value": 0.0029598286,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.091913216,
+        "value": 0.0029598286,
         "type": "PROBABILITY"
       }
     }
@@ -4421,19 +4421,19 @@ It's so inspiring that you can make your own coffee.
 }You should be content with what you have.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 42,
           "score": {
-            "value": 0.030977672,
+            "value": 0.0026823445,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.030977672,
+        "value": 0.0026823445,
         "type": "PROBABILITY"
       }
     }
@@ -4447,19 +4447,19 @@ It's so inspiring that you can make your own coffee.
 }Why can't you take a sitting job?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 34,
           "score": {
-            "value": 0.08083374,
+            "value": 0.0025343532,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.08083374,
+        "value": 0.0025343532,
         "type": "PROBABILITY"
       }
     }
@@ -4473,19 +4473,19 @@ It's so inspiring that you can make your own coffee.
 }You are experiencing pain ALL the time? It can't be ALL the time!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 66,
           "score": {
-            "value": 0.050821137,
+            "value": 0.0024233595,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.050821137,
+        "value": 0.0024233595,
         "type": "PROBABILITY"
       }
     }
@@ -4499,19 +4499,19 @@ It's so inspiring that you can make your own coffee.
 }But you're so young to be on all this medication!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.063423134,
+            "value": 0.0039772694,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.063423134,
+        "value": 0.0039772694,
         "type": "PROBABILITY"
       }
     }
@@ -4525,19 +4525,19 @@ It's so inspiring that you can make your own coffee.
 }Have you tried advil or tylenol?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 33,
           "score": {
-            "value": 0.03734144,
+            "value": 0.0020071338,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.03734144,
+        "value": 0.0020071338,
         "type": "PROBABILITY"
       }
     }
@@ -4551,19 +4551,19 @@ It's so inspiring that you can make your own coffee.
 }oh I missed my shot, am I blind or what
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 40,
           "score": {
-            "value": 0.20312156,
+            "value": 0.013948337,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.20312156,
+        "value": 0.013948337,
         "type": "PROBABILITY"
       }
     }
@@ -4577,19 +4577,19 @@ It's so inspiring that you can make your own coffee.
 }Just stop using your ADHD as an excuse
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 39,
           "score": {
-            "value": 0.37751234,
+            "value": 0.04667538,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.37751234,
+        "value": 0.04667538,
         "type": "PROBABILITY"
       }
     }
@@ -4603,19 +4603,19 @@ It's so inspiring that you can make your own coffee.
 }Just sit down and study/read/do homework
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 41,
           "score": {
-            "value": 0.044388983,
+            "value": 0.0017019014,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.044388983,
+        "value": 0.0017019014,
         "type": "PROBABILITY"
       }
     }
@@ -4629,19 +4629,19 @@ It's so inspiring that you can make your own coffee.
 }You cant have ADHD, you're smart!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 34,
           "score": {
-            "value": 0.1798404,
+            "value": 0.035589635,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.1798404,
+        "value": 0.035589635,
         "type": "PROBABILITY"
       }
     }
@@ -4655,19 +4655,19 @@ It's so inspiring that you can make your own coffee.
 }SO ARE YOU EVEN BLIND? DO YOU EVEN NEED A CANE?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 48,
           "score": {
-            "value": 0.37340668,
+            "value": 0.10221587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.37340668,
+        "value": 0.10221587,
         "type": "PROBABILITY"
       }
     }
@@ -4681,19 +4681,19 @@ It's so inspiring that you can make your own coffee.
 }But do your meds actually help you?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 36,
           "score": {
-            "value": 0.07054565,
+            "value": 0.00414376,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.07054565,
+        "value": 0.00414376,
         "type": "PROBABILITY"
       }
     }
@@ -4707,19 +4707,19 @@ It's so inspiring that you can make your own coffee.
 }You aren't planning on taking any attention breaks are you?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 60,
           "score": {
-            "value": 0.09438288,
+            "value": 0.002210622,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.09438288,
+        "value": 0.002210622,
         "type": "PROBABILITY"
       }
     }
@@ -4733,19 +4733,19 @@ It's so inspiring that you can make your own coffee.
 }I would choose death over being in a wheelchair.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 49,
           "score": {
-            "value": 0.32919475,
+            "value": 0.013345404,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.32919475,
+        "value": 0.013345404,
         "type": "PROBABILITY"
       }
     }
@@ -4759,19 +4759,19 @@ It's so inspiring that you can make your own coffee.
 }I'm sorry for the typos, this looks so dyslexic.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 49,
           "score": {
-            "value": 0.1104733,
+            "value": 0.0064006294,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.1104733,
+        "value": 0.0064006294,
         "type": "PROBABILITY"
       }
     }
@@ -4785,19 +4785,19 @@ It's so inspiring that you can make your own coffee.
 }Why are you reading so slow? Are you dyslexic?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 47,
           "score": {
-            "value": 0.43475235,
+            "value": 0.04667538,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.43475235,
+        "value": 0.04667538,
         "type": "PROBABILITY"
       }
     }
@@ -4811,19 +4811,19 @@ It's so inspiring that you can make your own coffee.
 }There's a difference between being dyslexic and not knowing grammar.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 69,
           "score": {
-            "value": 0.1537979,
+            "value": 0.028418748,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.1537979,
+        "value": 0.028418748,
         "type": "PROBABILITY"
       }
     }
@@ -4837,19 +4837,19 @@ It's so inspiring that you can make your own coffee.
 }You just need to try a little harder.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.08083374,
+            "value": 0.0023031165,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.08083374,
+        "value": 0.0023031165,
         "type": "PROBABILITY"
       }
     }
@@ -4863,19 +4863,19 @@ It's so inspiring that you can make your own coffee.
 }You are just too lazy to spell correctly.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 42,
           "score": {
-            "value": 0.51980776,
+            "value": 0.012541492,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.51980776,
+        "value": 0.012541492,
         "type": "PROBABILITY"
       }
     }
@@ -4889,19 +4889,19 @@ It's so inspiring that you can make your own coffee.
 }Just because you can't spell, doesn't mean you have a disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 66,
           "score": {
-            "value": 0.14429577,
+            "value": 0.040745795,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.14429577,
+        "value": 0.040745795,
         "type": "PROBABILITY"
       }
     }
@@ -4915,19 +4915,19 @@ It's so inspiring that you can make your own coffee.
 }It's so nice that he's willing to be friends with you!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 55,
           "score": {
-            "value": 0.027913637,
+            "value": 0.005401687,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.027913637,
+        "value": 0.005401687,
         "type": "PROBABILITY"
       }
     }
@@ -4941,19 +4941,19 @@ It's so inspiring that you can make your own coffee.
 }I attended a charity for your disability once, it was very motivating.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 71,
           "score": {
-            "value": 0.03969839,
+            "value": 0.018369852,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.03969839,
+        "value": 0.018369852,
         "type": "PROBABILITY"
       }
     }
@@ -4967,19 +4967,19 @@ It's so inspiring that you can make your own coffee.
 }So... you have a mental capacity of a 10 year old?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 51,
           "score": {
-            "value": 0.5024724,
+            "value": 0.034816213,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.5024724,
+        "value": 0.034816213,
         "type": "PROBABILITY"
       }
     }
@@ -4993,19 +4993,19 @@ It's so inspiring that you can make your own coffee.
 }You're too smart to have a learning disability.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 48,
           "score": {
-            "value": 0.41690505,
+            "value": 0.10221587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.41690505,
+        "value": 0.10221587,
         "type": "PROBABILITY"
       }
     }
@@ -5019,19 +5019,19 @@ It's so inspiring that you can make your own coffee.
 }It's not fair to other kids that you get extra time for your exam.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 67,
           "score": {
-            "value": 0.022021262,
+            "value": 0.0020163832,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.022021262,
+        "value": 0.0020163832,
         "type": "PROBABILITY"
       }
     }
@@ -5045,19 +5045,19 @@ It's so inspiring that you can make your own coffee.
 }You're not going to succeed in STEM with dyscalculia.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 54,
           "score": {
-            "value": 0.15324512,
+            "value": 0.00880549,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15324512,
+        "value": 0.00880549,
         "type": "PROBABILITY"
       }
     }
@@ -5071,19 +5071,19 @@ It's so inspiring that you can make your own coffee.
 }You are too scatterbrained and refuse to concentrate.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 54,
           "score": {
-            "value": 0.568186,
+            "value": 0.034042787,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.568186,
+        "value": 0.034042787,
         "type": "PROBABILITY"
       }
     }
@@ -5097,19 +5097,19 @@ It's so inspiring that you can make your own coffee.
 }Maybe you are too dumb to drive, stop making up disabilities.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 62,
           "score": {
-            "value": 0.7701451,
+            "value": 0.07921951,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.7701451,
+        "value": 0.07921951,
         "type": "PROBABILITY"
       }
     }
@@ -5123,19 +5123,19 @@ It's so inspiring that you can make your own coffee.
 }I'm shocked you can't solve something so simple.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 49,
           "score": {
-            "value": 0.11202335,
+            "value": 0.0014059186,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11202335,
+        "value": 0.0014059186,
         "type": "PROBABILITY"
       }
     }
@@ -5149,19 +5149,19 @@ It's so inspiring that you can make your own coffee.
 }Aww that's a cute accent you have!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 35,
           "score": {
-            "value": 0.025910228,
+            "value": 0.004162259,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.025910228,
+        "value": 0.004162259,
         "type": "PROBABILITY"
       }
     }
@@ -5175,19 +5175,19 @@ It's so inspiring that you can make your own coffee.
 }You can get disability tax credit if you stutter.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 50,
           "score": {
-            "value": 0.1182615,
+            "value": 0.025002124,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.1182615,
+        "value": 0.025002124,
         "type": "PROBABILITY"
       }
     }
@@ -5201,19 +5201,19 @@ It's so inspiring that you can make your own coffee.
 }You don't have a speech impediment, you just lack self-esteem.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 63,
           "score": {
-            "value": 0.25727063,
+            "value": 0.003921773,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.25727063,
+        "value": 0.003921773,
         "type": "PROBABILITY"
       }
     }
@@ -5227,19 +5227,19 @@ It's so inspiring that you can make your own coffee.
 }I read that most serial killers have speech disfluencies which makes them violent.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 83,
           "score": {
-            "value": 0.22712809,
+            "value": 0.013244915,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.22712809,
+        "value": 0.013244915,
         "type": "PROBABILITY"
       }
     }
@@ -5253,19 +5253,19 @@ It's so inspiring that you can make your own coffee.
 }Can you stop stuttering and hurry up?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 38,
           "score": {
-            "value": 0.27975297,
+            "value": 0.0034777985,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.27975297,
+        "value": 0.0034777985,
         "type": "PROBABILITY"
       }
     }
@@ -5279,19 +5279,19 @@ It's so inspiring that you can make your own coffee.
 }Your prosthetic leg is so hot.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 31,
           "score": {
-            "value": 0.74954444,
+            "value": 0.028628819,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.74954444,
+        "value": 0.028628819,
         "type": "PROBABILITY"
       }
     }
@@ -5305,19 +5305,19 @@ It's so inspiring that you can make your own coffee.
 }If we ever have sex, you should probably keep your shirt on.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 61,
           "score": {
-            "value": 0.45757914,
+            "value": 0.012943448,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.45757914,
+        "value": 0.012943448,
         "type": "PROBABILITY"
       }
     }
@@ -5331,19 +5331,19 @@ It's so inspiring that you can make your own coffee.
 }You just need to find some devotees to love you.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 49,
           "score": {
-            "value": 0.054037213,
+            "value": 0.005364689,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.054037213,
+        "value": 0.005364689,
         "type": "PROBABILITY"
       }
     }
@@ -5357,19 +5357,19 @@ It's so inspiring that you can make your own coffee.
 }I'm trying to imagine how a person that is deaf or with a speech impediment would even function.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 97,
           "score": {
-            "value": 0.17198499,
+            "value": 0.10221587,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.17198499,
+        "value": 0.10221587,
         "type": "PROBABILITY"
       }
     }
@@ -5383,19 +5383,19 @@ It's so inspiring that you can make your own coffee.
 }How can you laugh if you don’t hear???
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 39,
           "score": {
-            "value": 0.034748793,
+            "value": 0.0021458757,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.034748793,
+        "value": 0.0021458757,
         "type": "PROBABILITY"
       }
     }
@@ -5409,19 +5409,19 @@ It's so inspiring that you can make your own coffee.
 }Oh so you're like Helen Keller?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 32,
           "score": {
-            "value": 0.019728716,
+            "value": 0.0023863618,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.019728716,
+        "value": 0.0023863618,
         "type": "PROBABILITY"
       }
     }
@@ -5435,19 +5435,19 @@ It's so inspiring that you can make your own coffee.
 }Why don't you just get better glasses?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 39,
           "score": {
-            "value": 0.15766735,
+            "value": 0.0048097214,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.15766735,
+        "value": 0.0048097214,
         "type": "PROBABILITY"
       }
     }
@@ -5461,19 +5461,19 @@ It's so inspiring that you can make your own coffee.
 }We should get you one of those leashes to make sure you don't wander off.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 74,
           "score": {
-            "value": 0.2553839,
+            "value": 0.005364689,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.2553839,
+        "value": 0.005364689,
         "type": "PROBABILITY"
       }
     }
@@ -5487,19 +5487,19 @@ It's so inspiring that you can make your own coffee.
 }How do you find the hole during sex?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 37,
           "score": {
-            "value": 0.5024724,
+            "value": 0.011247349,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.5024724,
+        "value": 0.011247349,
         "type": "PROBABILITY"
       }
     }
@@ -5513,19 +5513,19 @@ It's so inspiring that you can make your own coffee.
 }Wow your house looks so nice for someone who's blind!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 54,
           "score": {
-            "value": 0.3722269,
+            "value": 0.21668483,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.3722269,
+        "value": 0.21668483,
         "type": "PROBABILITY"
       }
     }
@@ -5539,19 +5539,19 @@ It's so inspiring that you can make your own coffee.
 }If you work hard in school, you could even be a Walmart greeter one day!
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 73,
           "score": {
-            "value": 0.11140333,
+            "value": 0.00673361,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11140333,
+        "value": 0.00673361,
         "type": "PROBABILITY"
       }
     }
@@ -5565,19 +5565,19 @@ It's so inspiring that you can make your own coffee.
 }How are you blind if you don't know braille?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 45,
           "score": {
-            "value": 0.25462922,
+            "value": 0.06294931,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.25462922,
+        "value": 0.06294931,
         "type": "PROBABILITY"
       }
     }
@@ -5591,19 +5591,19 @@ It's so inspiring that you can make your own coffee.
 }I'm surprised you know how to use a keyboard.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 46,
           "score": {
-            "value": 0.17198499,
+            "value": 0.0029228306,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.17198499,
+        "value": 0.0029228306,
         "type": "PROBABILITY"
       }
     }
@@ -5617,19 +5617,19 @@ It's so inspiring that you can make your own coffee.
 }Wow your fashion sense is amazing even though you can't see.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 61,
           "score": {
-            "value": 0.17891699,
+            "value": 0.007806548,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.17891699,
+        "value": 0.007806548,
         "type": "PROBABILITY"
       }
     }
@@ -5643,19 +5643,19 @@ It's so inspiring that you can make your own coffee.
 }If you guys are so lonely and want women so much then why don't you just befriend a lonely, autistic woman?
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 108,
           "score": {
-            "value": 0.37458646,
+            "value": 0.36702603,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.37458646,
+        "value": 0.36702603,
         "type": "PROBABILITY"
       }
     }
@@ -5669,19 +5669,19 @@ It's so inspiring that you can make your own coffee.
 }You're like a mime.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 20,
           "score": {
-            "value": 0.33338684,
+            "value": 0.011099357,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.33338684,
+        "value": 0.011099357,
         "type": "PROBABILITY"
       }
     }
@@ -5695,19 +5695,19 @@ It's so inspiring that you can make your own coffee.
 }You're a r*tarded donkey.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 26,
           "score": {
-            "value": 0.8988238,
+            "value": 0.22935481,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.8988238,
+        "value": 0.22935481,
         "type": "PROBABILITY"
       }
     }
@@ -5721,19 +5721,19 @@ It's so inspiring that you can make your own coffee.
 }Don't do anything stupid.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 26,
           "score": {
-            "value": 0.53579444,
+            "value": 0.006770608,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.53579444,
+        "value": 0.006770608,
         "type": "PROBABILITY"
       }
     }
@@ -5747,19 +5747,19 @@ It's so inspiring that you can make your own coffee.
 }You have a very young looking face.
 {
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 36,
           "score": {
-            "value": 0.10566349,
+            "value": 0.0059936526,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.10566349,
+        "value": 0.0059936526,
         "type": "PROBABILITY"
       }
     }
@@ -5772,19 +5772,19 @@ It's so inspiring that you can make your own coffee.
   ]
 }You're being very bi-polar today, you need to calm down.{
   "attributeScores": {
-    "TOXICITY": {
+    "IDENTITY_ATTACK": {
       "spanScores": [
         {
           "begin": 0,
           "end": 56,
           "score": {
-            "value": 0.11419344,
+            "value": 0.040745795,
             "type": "PROBABILITY"
           }
         }
       ],
       "summaryScore": {
-        "value": 0.11419344,
+        "value": 0.040745795,
         "type": "PROBABILITY"
       }
     }
