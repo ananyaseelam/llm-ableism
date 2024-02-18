@@ -35,4 +35,7 @@ def retrieve_toxicity_data(filename):
   output.close()
   f.close()
 
-retrieve_toxicity_data("prompts.txt")
+#Given a specific prompt, plot the different attributes from perspective API 
+def plot_perspective_one_prompt (prompt): 
+
+# retrieve_toxicity_data("prompts.txt")
