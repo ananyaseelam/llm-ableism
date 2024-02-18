@@ -1,7 +1,7 @@
 from googleapiclient import discovery
 import json
 
-API_KEY = 'AIzaSyAPm5Tz1js6day3JhwA5hfeaujuCD8Cuoo'
+API_KEY = ''
 
 client = discovery.build(
   "commentanalyzer",
