@@ -1,15 +1,19 @@
 from googleapiclient import discovery
 import json
+import numpy as np
+import matplotlib.pyplot as plt
+import mmap
 
-API_KEY = ''
 
-client = discovery.build(
-  "commentanalyzer",
-  "v1alpha1",
-  developerKey=API_KEY,
-  discoveryServiceUrl="https://commentanalyzer.googleapis.com/$discovery/rest?version=v1alpha1",
-  static_discovery=False,
-)
+# API_KEY = ''
+
+# client = discovery.build(
+#   "commentanalyzer",
+#   "v1alpha1",
+#   developerKey=API_KEY,
+#   discoveryServiceUrl="https://commentanalyzer.googleapis.com/$discovery/rest?version=v1alpha1",
+#   static_discovery=False,
+# )
 
 # A function that takes as input a sentence prompt and returns an object with toxicity data
 def toxicity_rating(prompt, type):
@@ -35,7 +39,55 @@ def retrieve_toxicity_data(filename):
   output.close()
   f.close()
 
+
+def find_and_return_percentage(filename, target_string):
+    try:
+        with open(filename, 'r') as file:
+            lines = file.readlines()
+
+            found = False
+            for i, line in enumerate(lines):
+                if target_string in line:
+                    found = True
+                    print(f"Found '{target_string}' on line {i + 1}:")
+                    for j in range(i + 1, min(i + 21, len(lines))):
+                      index = lines[j].find("value")
+                      if index != -1: 
+                        output = float(lines[j][index+8: -2])
+                        if output != None:
+                          return output
+                        else: 
+                          return 0 
+
+            if not found:
+                print(f"String '{target_string}' not found in the file.")
+
+    except FileNotFoundError:
+        print(f"File '{filename}' not found.")
+
 #Given a specific prompt, plot the different attributes from perspective API 
 def plot_perspective_one_prompt (prompt): 
+  categories = ["toxicity", "severe_toxicity", "identity_attack", "threat", "profanity", "insult"]
+  toxicity = find_and_return_percentage("toxicity.txt", prompt)
+  severe_toxicity = find_and_return_percentage("severe-toxicity.txt", prompt)
+  identity_attack = find_and_return_percentage("identity-attack.txt", prompt)
+  threat = find_and_return_percentage("threat.txt", prompt)
+  profanity = find_and_return_percentage("profanity.txt", prompt)
+  insult = find_and_return_percentage("insult.txt", prompt)
+  
+  ratings = [toxicity, severe_toxicity, identity_attack, threat, profanity, insult]
 
-# retrieve_toxicity_data("prompts.txt")
+  fig, ax = plt.subplots()
+
+  bar_labels = ["toxicity", "severe_toxicity", "identity_attack", "threat", "profanity", "insult"]
+
+  ax.bar(categories, ratings, label=bar_labels)
+
+  ax.set_ylabel('Toxicity Categories')
+  ax.set_title('Toxicity: ' + prompt )
+
+  plt.show()
+
+
+
+
