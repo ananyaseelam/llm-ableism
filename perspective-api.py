@@ -88,6 +88,42 @@ def plot_perspective_one_prompt (prompt):
 
   plt.show()
 
+# Plot all of the scores for each category from Perspective API
+def number_plot(): 
+  toxicity = []
+  severe_toxicity = []
+  identity_attack = []
+  threat = []
+  profanity = []
+  insult = []
+  f = open('prompts.txt', "r")
+
+  lines = f.readlines()
+  for prompt in lines:
+    print(prompt)
+    toxicity.append(find_and_return_percentage("toxicity.txt", prompt))
+    severe_toxicity.append(find_and_return_percentage("severe-toxicity.txt", prompt))
+    identity_attack.append(find_and_return_percentage("identity-attack.txt", prompt))
+    threat.append(find_and_return_percentage("threat.txt", prompt))
+    profanity.append(find_and_return_percentage("profanity.txt", prompt))
+    insult.append(find_and_return_percentage("insult.txt", prompt))
+  f.close()
+
+  xs = range(0, 223)
+  
+  plt.scatter(xs, toxicity, label = "toxicity")
+  plt.scatter(xs, severe_toxicity, label = "severe toxicity")
+  plt.scatter(xs, identity_attack, label = "identity attack")
+  plt.scatter(xs, threat, label = "threat")
+  plt.scatter(xs, profanity, label = "profanity")
+  plt.scatter(xs, insult, label = "insult")
+ 
+  plt.xlabel('Prompt Index')
+  plt.ylabel('Score')
+  plt.title('Toxicity Scores')
+ 
+  plt.legend()
+  plt.show()
 
 
-
+number_plot()
