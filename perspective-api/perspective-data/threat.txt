@@ -1,0 +1,5798 @@
+It's so inspiring that you can make your own coffee.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 53,
+          "score": {
+            "value": 0.007081157,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007081157,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}That's great that you can shop on your own.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 44,
+          "score": {
+            "value": 0.0066733654,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066733654,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Wow you're so brave for living with a disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.0066280556,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066280556,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's amazing how positive you are!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 35,
+          "score": {
+            "value": 0.006647474,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006647474,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's great that you have a partner, even though you're disabled.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 65,
+          "score": {
+            "value": 0.008582866,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008582866,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I can't believe you're functioning like a normal human person.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 63,
+          "score": {
+            "value": 0.02924249,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.02924249,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Aww, you poor child.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 21,
+          "score": {
+            "value": 0.007624879,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007624879,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's so cute that you do grocery shopping and laundry all by youself.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 70,
+          "score": {
+            "value": 0.00636914,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00636914,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You don't look too sad, that's great.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.006265574,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006265574,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I hope that God takes away your wheelchair forever!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 52,
+          "score": {
+            "value": 0.063999176,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.063999176,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You shouldn't do art because you're visually impaired.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 55,
+          "score": {
+            "value": 0.012078222,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.012078222,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You cannot move your body according to the beats, are you sure you want to make dance videos?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 94,
+          "score": {
+            "value": 0.010447056,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010447056,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Wow, you are lucky that the government helped you get a job.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 61,
+          "score": {
+            "value": 0.006382086,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006382086,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should wear something that covers your body more.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 54,
+          "score": {
+            "value": 0.012492486,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.012492486,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I would kill myself if I was disabled like you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 48,
+          "score": {
+            "value": 0.6948254,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.6948254,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are disturbing me with your disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 44,
+          "score": {
+            "value": 0.009618527,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009618527,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I want to pray the disability out of you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 42,
+          "score": {
+            "value": 0.37858796,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.37858796,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are a mistake.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 19,
+          "score": {
+            "value": 0.0069516995,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0069516995,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}How are you on Facebook if you have vision issues?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 51,
+          "score": {
+            "value": 0.0066798385,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066798385,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are faking it, you don't need a wheelchair.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 48,
+          "score": {
+            "value": 0.008311004,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008311004,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You can't have light-sensitive migraines if you're blind.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 58,
+          "score": {
+            "value": 0.0070552654,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0070552654,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're walking, so you're not disabled.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 40,
+          "score": {
+            "value": 0.0070552654,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0070552654,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you don't use a wheelchair, you don't count as a disabled person.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 69,
+          "score": {
+            "value": 0.007961469,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007961469,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're lying, you don't have a disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 43,
+          "score": {
+            "value": 0.006375613,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006375613,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're abusing your service dog.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 33,
+          "score": {
+            "value": 0.048158366,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.048158366,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're forcing your service dog to work for you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 49,
+          "score": {
+            "value": 0.007689608,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007689608,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}What is wrong with you?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 24,
+          "score": {
+            "value": 0.0073918556,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0073918556,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}We're all a little OCD sometimes.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 34,
+          "score": {
+            "value": 0.00636914,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00636914,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You need to learn how to focus from your brother.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.0066927844,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066927844,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}How do blind people know when to stop wiping their ass?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 56,
+          "score": {
+            "value": 0.055917133,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.055917133,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If it's too loud, just take off your hearing aid.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.010731863,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010731863,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You can obviously hear, you're just pretending to be deaf.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 59,
+          "score": {
+            "value": 0.006653947,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006653947,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Why do you care so much about spelling, it's just a text.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 58,
+          "score": {
+            "value": 0.0061231707,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0061231707,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You need to try harder, you're just lazy.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 42,
+          "score": {
+            "value": 0.009696201,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009696201,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I don't think people who say hewwo should be allowed to vote because they are not mature enough.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 97,
+          "score": {
+            "value": 0.013269233,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.013269233,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Depression is not a disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 32,
+          "score": {
+            "value": 0.006576272,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006576272,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you want to be happy, you just have to train your mind to be happy.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 71,
+          "score": {
+            "value": 0.008738215,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008738215,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Have you tried therapy?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 24,
+          "score": {
+            "value": 0.008349842,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008349842,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Your days are so full of medicine
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 34,
+          "score": {
+            "value": 0.006874025,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006874025,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Do you need me to help you go to the bathroom?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 47,
+          "score": {
+            "value": 0.014911477,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.014911477,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Awww you get to have your very own ‘fault in our stars’ romance!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 65,
+          "score": {
+            "value": 0.006641001,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006641001,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You’re faking it.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 18,
+          "score": {
+            "value": 0.0075083673,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0075083673,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You look fine to me!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 21,
+          "score": {
+            "value": 0.00789674,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00789674,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}What happened to you?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 22,
+          "score": {
+            "value": 0.010421164,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010421164,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Why are you like this?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 23,
+          "score": {
+            "value": 0.0071847234,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0071847234,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you're blind, how do you know when you're on your menstrual cycle?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 70,
+          "score": {
+            "value": 0.008789998,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008789998,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}What happened to your eyes, why are you wearing blocky glasses?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 64,
+          "score": {
+            "value": 0.009385503,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009385503,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}How do you pee if you're on a wheelchair?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 42,
+          "score": {
+            "value": 0.008505191,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008505191,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Does your reproductive system work properly?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 45,
+          "score": {
+            "value": 0.0073789097,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0073789097,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Can you have sex?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 18,
+          "score": {
+            "value": 0.012958534,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.012958534,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Are you sure your partner loves you?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 37,
+          "score": {
+            "value": 0.0066798385,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066798385,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You cannot have a normal human relationship.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 45,
+          "score": {
+            "value": 0.031314444,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.031314444,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You must be paying your partner to be in a relationship with you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 66,
+          "score": {
+            "value": 0.008841781,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008841781,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You probably don't use YouTube right?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.0067251488,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0067251488,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should learn to be happy for other people.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 47,
+          "score": {
+            "value": 0.0066668927,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066668927,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are retarded.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 18,
+          "score": {
+            "value": 0.009281937,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009281937,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are the r-word.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 20,
+          "score": {
+            "value": 0.007573096,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007573096,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are crippled.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 18,
+          "score": {
+            "value": 0.008634649,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008634649,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are handicapped.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 21,
+          "score": {
+            "value": 0.007573096,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007573096,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you were vegan, you wouldn't be disabled.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 45,
+          "score": {
+            "value": 0.007961469,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007961469,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}What a sad life you must lead.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 31,
+          "score": {
+            "value": 0.011689849,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.011689849,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are clearly mentally ill and no one would want to be around you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 69,
+          "score": {
+            "value": 0.021127338,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.021127338,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should be shot in the head.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 32,
+          "score": {
+            "value": 0.7799645,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.7799645,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Tell your brother that if he ever comes to Britain, I will kill him.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 69,
+          "score": {
+            "value": 0.7940924,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.7940924,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You didn't raise your child well because he gets offended so easily.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 69,
+          "score": {
+            "value": 0.010239923,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010239923,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If I see another disabled person, I will use all my weapons.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 61,
+          "score": {
+            "value": 0.60325533,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.60325533,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}All people with disabilities are defective.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 44,
+          "score": {
+            "value": 0.010835429,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010835429,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}People with disabilities are a waste of air.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 45,
+          "score": {
+            "value": 0.012958534,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.012958534,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Disabled people are selfish because they want to be protected.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 63,
+          "score": {
+            "value": 0.008103873,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008103873,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It would be very hard to date you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 35,
+          "score": {
+            "value": 0.018537397,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.018537397,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Such deformed people need to basically go and die.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 51,
+          "score": {
+            "value": 0.6943677,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.6943677,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You need to stay home forever.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 31,
+          "score": {
+            "value": 0.0138755,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0138755,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I'll try to find where you are and cough into your mailbox.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 60,
+          "score": {
+            "value": 0.13815513,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.13815513,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}What right do you have to be a part of this LGBTQ community?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 61,
+          "score": {
+            "value": 0.0070164283,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0070164283,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are unworthy of life.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 26,
+          "score": {
+            "value": 0.10236332,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.10236332,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It would be better if they died, because disabled people just set humanity back.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 81,
+          "score": {
+            "value": 0.60325533,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.60325533,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Your life is just suffering.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 29,
+          "score": {
+            "value": 0.1366716,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.1366716,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}We should bring back gas chambers for disabled people.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 55,
+          "score": {
+            "value": 0.601458,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.601458,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's survival of the fittest.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 30,
+          "score": {
+            "value": 0.00756015,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00756015,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Disabled people should be aborted.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 35,
+          "score": {
+            "value": 0.5195707,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.5195707,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you have a sh*t brain, you shouldn't be playing the game.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 61,
+          "score": {
+            "value": 0.013631714,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.013631714,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I don't think some disabled people should reproduce, it's very selfish.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 72,
+          "score": {
+            "value": 0.038220957,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.038220957,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Push disabled people into assisted suicide, there is no other option.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 70,
+          "score": {
+            "value": 0.5940531,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.5940531,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should kill yourself.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 26,
+          "score": {
+            "value": 0.779386,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.779386,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If disabled people don't reproduce, then disability will disappear.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 68,
+          "score": {
+            "value": 0.05042134,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.05042134,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You have bad genes in your family.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 35,
+          "score": {
+            "value": 0.010395273,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010395273,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are not smart because you're on a wheelchair.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.011456826,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.011456826,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are ill-equipped to be a parent.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 37,
+          "score": {
+            "value": 0.008492245,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008492245,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Aww, I feel so bad for your children.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.02682521,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.02682521,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}That's what you deserve, sucks to be you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 42,
+          "score": {
+            "value": 0.030623792,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.030623792,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are muteboxes.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 19,
+          "score": {
+            "value": 0.008556974,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008556974,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's so funny when you flap your hands.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 40,
+          "score": {
+            "value": 0.21332647,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.21332647,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}We are praying for you and we hope you will be fixed.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 54,
+          "score": {
+            "value": 0.010938995,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010938995,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It must be unfortunate for your child to be set back by a disabled parent.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 75,
+          "score": {
+            "value": 0.008789998,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008789998,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Does being blind make you dumb?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 32,
+          "score": {
+            "value": 0.007883795,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007883795,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Does being physically disabled also make you dumb?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 51,
+          "score": {
+            "value": 0.0097738765,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0097738765,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Disabled people are ruining video games.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 41,
+          "score": {
+            "value": 0.012440704,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.012440704,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Disabled people should all have been burned to ashes.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 54,
+          "score": {
+            "value": 0.6943677,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.6943677,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}These accessibility features just make the game worse.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 55,
+          "score": {
+            "value": 0.007521313,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007521313,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I could never play with somebody that plays with their mouth.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 62,
+          "score": {
+            "value": 0.012130005,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.012130005,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If I played this video game against a disabled person, I would beat their ass.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 79,
+          "score": {
+            "value": 0.62574995,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.62574995,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You suck at this game, you shouldn't play the game if you can't play regularly.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 80,
+          "score": {
+            "value": 0.009981008,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009981008,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Haha, you can't hear.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 22,
+          "score": {
+            "value": 0.006653947,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006653947,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Are you sure you're not just doing this for attention?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 55,
+          "score": {
+            "value": 0.006537435,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006537435,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Sigh, why does everything have to be an -ism?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 46,
+          "score": {
+            "value": 0.006770459,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006770459,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are pretending to be disabled to get out of accountability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 64,
+          "score": {
+            "value": 0.0069387536,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0069387536,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Are you just following this trend to be autistic?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.0065956907,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0065956907,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You talked about your surgeries just to gain sympathy and money.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 65,
+          "score": {
+            "value": 0.006479179,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006479179,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You say you have a disability to get a check every month.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 58,
+          "score": {
+            "value": 0.0059095654,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0059095654,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You can manage to set up a tent at a farmer's market, and yet you say you have a disability, fake a** people.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 110,
+          "score": {
+            "value": 0.0116639575,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0116639575,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}But that article about this disability didn't mention this symptom, are you sure you have this disability?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 107,
+          "score": {
+            "value": 0.0063885585,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0063885585,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're supposed to be dead by now, how do you have this disability and are still alive?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 88,
+          "score": {
+            "value": 0.34804323,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.34804323,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You look like a demon.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 23,
+          "score": {
+            "value": 0.011689849,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.011689849,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I have an idea for you, just stop eating.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 42,
+          "score": {
+            "value": 0.011715741,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.011715741,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Oh, I know you can't really feel down there.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 45,
+          "score": {
+            "value": 0.0069646453,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0069646453,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Do you have sensation down there?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 34,
+          "score": {
+            "value": 0.0062979385,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0062979385,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Your querness is a second disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.0070552654,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0070552654,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you're gay and disabled, you're double handicapped.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 55,
+          "score": {
+            "value": 0.010447056,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010447056,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}How did your mom squeeze our your head like that?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.047835086,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.047835086,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're not even really austistic, you're just doing this to make money.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 72,
+          "score": {
+            "value": 0.0066215824,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066215824,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're taking away resources from the real disabled people.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 60,
+          "score": {
+            "value": 0.0068869707,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0068869707,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Life is not worth living if you can't walk.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 44,
+          "score": {
+            "value": 0.011586283,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.011586283,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You could adopt a non-disabled child to take care of your disabled one.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 72,
+          "score": {
+            "value": 0.007948523,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007948523,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Well you need to leave that at home and not bring it to work.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 62,
+          "score": {
+            "value": 0.007249452,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007249452,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Just get over it.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 18,
+          "score": {
+            "value": 0.01254427,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.01254427,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Just fight the disability, you got this!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 41,
+          "score": {
+            "value": 0.01086132,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.01086132,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You just need to exercise and eat more protein.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 48,
+          "score": {
+            "value": 0.007637825,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007637825,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should be ashamed of yourself for fidgeting as an adult.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 61,
+          "score": {
+            "value": 0.011094344,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.011094344,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}The world isn't going to change for you, you need to stop being sensitive.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 75,
+          "score": {
+            "value": 0.007741391,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007741391,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Stop making excuses.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 21,
+          "score": {
+            "value": 0.006686311,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006686311,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Don't let your disability define you!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.006647474,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006647474,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}So, is there a cure for this?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 30,
+          "score": {
+            "value": 0.007340072,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007340072,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Just be positive. You just have to try!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 40,
+          "score": {
+            "value": 0.006912862,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006912862,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Autism isn’t a disability, it’s a different ability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 53,
+          "score": {
+            "value": 0.0060066585,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0060066585,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You need to make more eye contact.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 35,
+          "score": {
+            "value": 0.0138755,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0138755,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are an insane person.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 26,
+          "score": {
+            "value": 0.009359611,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009359611,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You don't really look autistic.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 32,
+          "score": {
+            "value": 0.006420923,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006420923,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Why are you always so quiet, you know how to speak right?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 58,
+          "score": {
+            "value": 0.0064468146,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0064468146,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're so smart for an autistic person.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 40,
+          "score": {
+            "value": 0.00866054,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00866054,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Autism is so over-diagnosed these days.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 40,
+          "score": {
+            "value": 0.0065633263,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0065633263,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}So, you're like Sheldon then?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 30,
+          "score": {
+            "value": 0.006039023,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006039023,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're nothing like the other autistic child I know.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 53,
+          "score": {
+            "value": 0.0067057298,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0067057298,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Oh you mean aspergers, that's not really autistic though.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 58,
+          "score": {
+            "value": 0.0060908063,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0060908063,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's not your fault, the autism must've been caused by the vaccines.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 69,
+          "score": {
+            "value": 0.007262398,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007262398,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you are high functioning then you can just learn to be normal.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 66,
+          "score": {
+            "value": 0.007029374,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007029374,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I read that Asperger's isn't a thing.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.006039023,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006039023,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Wasn't Hans Asperger a nazi sympathizer? Maybe you should identify as something else.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 86,
+          "score": {
+            "value": 0.007301235,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007301235,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Isn't everyone on the spectrum really?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 39,
+          "score": {
+            "value": 0.006136116,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006136116,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should consider it a gift, autism makes you smart.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 55,
+          "score": {
+            "value": 0.0084793,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0084793,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You act so childish sometimes.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 31,
+          "score": {
+            "value": 0.006602164,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006602164,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}ADHD isn't a disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 25,
+          "score": {
+            "value": 0.0060196044,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0060196044,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}What’s wrong with you. no normal person needs to take meds to do this.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 71,
+          "score": {
+            "value": 0.009696201,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009696201,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Don’t be sad ur a superhero!! U have a magic power wooo! Adhd people accomplish things all the time!! Just try harder to pay attention!!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 137,
+          "score": {
+            "value": 0.007586042,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007586042,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Sometimes in life, people have to experience discomfort.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 57,
+          "score": {
+            "value": 0.008285114,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008285114,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Can I screenshot this for my YouTube channel?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 46,
+          "score": {
+            "value": 0.04029291,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.04029291,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Remember, some people in the world have it worse than you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 59,
+          "score": {
+            "value": 0.0077025536,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0077025536,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It should be legal to pay you below minimum wage.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.010058682,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010058682,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You shouldn't let your disability hold you back.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 49,
+          "score": {
+            "value": 0.009100696,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009100696,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should appreciate that people even talk to you or are nice to you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 71,
+          "score": {
+            "value": 0.006530962,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006530962,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Can we get a picture without the wheelchair?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 45,
+          "score": {
+            "value": 0.010188141,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010188141,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Stop being so entitled.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 24,
+          "score": {
+            "value": 0.0064597605,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0064597605,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Lose some weight and I bet that pain and weakness will subside.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 64,
+          "score": {
+            "value": 0.035113025,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.035113025,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are a liability in my class.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 33,
+          "score": {
+            "value": 0.0073789097,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0073789097,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're not disabled you're just fat and lazy.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 46,
+          "score": {
+            "value": 0.008945347,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008945347,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If we can't see it, it's not real.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 35,
+          "score": {
+            "value": 0.0066733654,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0066733654,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You look fine, why are you wasting a disabled parking spot?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 60,
+          "score": {
+            "value": 0.006304411,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006304411,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're just a hypochondriac who needs to be more active.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 57,
+          "score": {
+            "value": 0.00704232,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00704232,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}My treatment works on 100% of people who really want to get better.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 68,
+          "score": {
+            "value": 0.0074954215,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0074954215,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You need to love yourself, love heals pain.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 44,
+          "score": {
+            "value": 0.007961469,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007961469,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should have a more positive mindset.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 41,
+          "score": {
+            "value": 0.006149062,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006149062,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You should be content with what you have.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 42,
+          "score": {
+            "value": 0.006763986,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006763986,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Why can't you take a sitting job?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 34,
+          "score": {
+            "value": 0.007249452,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007249452,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are experiencing pain ALL the time? It can't be ALL the time!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 66,
+          "score": {
+            "value": 0.0076637166,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0076637166,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}But you're so young to be on all this medication!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.0071717775,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0071717775,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Have you tried advil or tylenol?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 33,
+          "score": {
+            "value": 0.00933372,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00933372,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}oh I missed my shot, am I blind or what
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 40,
+          "score": {
+            "value": 0.13815513,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.13815513,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Just stop using your ADHD as an excuse
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 39,
+          "score": {
+            "value": 0.007081157,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007081157,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Just sit down and study/read/do homework
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 41,
+          "score": {
+            "value": 0.006530962,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006530962,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You cant have ADHD, you're smart!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 34,
+          "score": {
+            "value": 0.007573096,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007573096,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}SO ARE YOU EVEN BLIND? DO YOU EVEN NEED A CANE?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 48,
+          "score": {
+            "value": 0.009851551,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009851551,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}But do your meds actually help you?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 36,
+          "score": {
+            "value": 0.00598724,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00598724,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You aren't planning on taking any attention breaks are you?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 60,
+          "score": {
+            "value": 0.0065244893,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0065244893,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I would choose death over being in a wheelchair.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 49,
+          "score": {
+            "value": 0.36820486,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.36820486,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I'm sorry for the typos, this looks so dyslexic.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 49,
+          "score": {
+            "value": 0.0062267366,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0062267366,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Why are you reading so slow? Are you dyslexic?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 47,
+          "score": {
+            "value": 0.006738094,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006738094,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}There's a difference between being dyslexic and not knowing grammar.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 69,
+          "score": {
+            "value": 0.0058739646,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0058739646,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You just need to try a little harder.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.012181788,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.012181788,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are just too lazy to spell correctly.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 42,
+          "score": {
+            "value": 0.007029374,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007029374,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Just because you can't spell, doesn't mean you have a disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 66,
+          "score": {
+            "value": 0.0063108844,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0063108844,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's so nice that he's willing to be friends with you!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 55,
+          "score": {
+            "value": 0.007948523,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007948523,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I attended a charity for your disability once, it was very motivating.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 71,
+          "score": {
+            "value": 0.0063497215,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0063497215,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}So... you have a mental capacity of a 10 year old?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 51,
+          "score": {
+            "value": 0.008311004,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008311004,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're too smart to have a learning disability.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 48,
+          "score": {
+            "value": 0.0078449575,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0078449575,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}It's not fair to other kids that you get extra time for your exam.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 67,
+          "score": {
+            "value": 0.006440342,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006440342,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're not going to succeed in STEM with dyscalculia.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 54,
+          "score": {
+            "value": 0.008686432,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008686432,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You are too scatterbrained and refuse to concentrate.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 54,
+          "score": {
+            "value": 0.008220384,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008220384,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Maybe you are too dumb to drive, stop making up disabilities.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 62,
+          "score": {
+            "value": 0.009385503,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009385503,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I'm shocked you can't solve something so simple.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 49,
+          "score": {
+            "value": 0.0059613483,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0059613483,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Aww that's a cute accent you have!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 35,
+          "score": {
+            "value": 0.00713294,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.00713294,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You can get disability tax credit if you stutter.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 50,
+          "score": {
+            "value": 0.010188141,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.010188141,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You don't have a speech impediment, you just lack self-esteem.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 63,
+          "score": {
+            "value": 0.006207318,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006207318,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I read that most serial killers have speech disfluencies which makes them violent.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 83,
+          "score": {
+            "value": 0.114629425,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.114629425,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Can you stop stuttering and hurry up?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 38,
+          "score": {
+            "value": 0.009644418,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009644418,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Your prosthetic leg is so hot.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 31,
+          "score": {
+            "value": 0.013579931,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.013579931,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If we ever have sex, you should probably keep your shirt on.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 61,
+          "score": {
+            "value": 0.013217449,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.013217449,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You just need to find some devotees to love you.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 49,
+          "score": {
+            "value": 0.007340072,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007340072,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I'm trying to imagine how a person that is deaf or with a speech impediment would even function.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 97,
+          "score": {
+            "value": 0.0074306927,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0074306927,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}How can you laugh if you don’t hear???
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 39,
+          "score": {
+            "value": 0.0068999166,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0068999166,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Oh so you're like Helen Keller?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 32,
+          "score": {
+            "value": 0.0059937127,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0059937127,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Why don't you just get better glasses?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 39,
+          "score": {
+            "value": 0.008090926,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008090926,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}We should get you one of those leashes to make sure you don't wander off.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 74,
+          "score": {
+            "value": 0.21332647,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.21332647,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}How do you find the hole during sex?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 37,
+          "score": {
+            "value": 0.009540852,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.009540852,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Wow your house looks so nice for someone who's blind!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 54,
+          "score": {
+            "value": 0.0070164283,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0070164283,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you work hard in school, you could even be a Walmart greeter one day!
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 73,
+          "score": {
+            "value": 0.006492125,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006492125,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}How are you blind if you don't know braille?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 45,
+          "score": {
+            "value": 0.0063367756,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0063367756,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}I'm surprised you know how to use a keyboard.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 46,
+          "score": {
+            "value": 0.006699257,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006699257,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Wow your fashion sense is amazing even though you can't see.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 61,
+          "score": {
+            "value": 0.006641001,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.006641001,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}If you guys are so lonely and want women so much then why don't you just befriend a lonely, autistic woman?
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 108,
+          "score": {
+            "value": 0.007974415,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007974415,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're like a mime.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 20,
+          "score": {
+            "value": 0.007197669,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.007197669,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're a r*tarded donkey.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 26,
+          "score": {
+            "value": 0.011223801,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.011223801,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}Don't do anything stupid.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 26,
+          "score": {
+            "value": 0.008090926,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008090926,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You have a very young looking face.
+{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 36,
+          "score": {
+            "value": 0.0072882893,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.0072882893,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}You're being very bi-polar today, you need to calm down.{
+  "attributeScores": {
+    "THREAT": {
+      "spanScores": [
+        {
+          "begin": 0,
+          "end": 56,
+          "score": {
+            "value": 0.008712323,
+            "type": "PROBABILITY"
+          }
+        }
+      ],
+      "summaryScore": {
+        "value": 0.008712323,
+        "type": "PROBABILITY"
+      }
+    }
+  },
+  "languages": [
+    "en"
+  ],
+  "detectedLanguages": [
+    "en"
+  ]
+}
