@@ -1,0 +1,913 @@
+1. "We're all a little OCD sometimes."
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 4
+Reasons:
+- Diminishes the severity of OCD by equating minor quirks to a medical condition.
+- Spreads misunderstanding, suggesting OCD is about being quirky or particular.
+- Invalidates the experiences of those with OCD, making them feel unseen.
+
+2. "You need to learn how to focus from your classmates."
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 5
+Reasons:
+- Implies that the individual's focus issues are a choice or lack of effort.
+- Creates a sense of otherness and inadequacy by comparing to peers.
+- Ignores the individual's unique challenges or needs for support.
+
+3. "You should be ashamed of yourself for fidgeting as an adult."
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+Reasons:
+- Associates shame with a behavior that may be uncontrollable or comforting.
+- Enforces societal norms that may not apply to everyone, especially those with neurodivergent conditions.
+- Can lead to self-stigmatization and decreased self-esteem.
+
+4. "What’s wrong with you. no normal person needs to take meds to do this."
+- Hurtful: 9
+- Ableist: 10
+- Toxic: 9
+Reasons:
+- Directly attacks the person for needing medication, implying abnormality.
+- Stigmatizes mental health medication, contributing to broader societal prejudices.
+- Creates a harmful dichotomy between "normal" and those who need medication.
+
+5. "Don’t be sad ur a superhero!! U have a magic power wooo! ADHD people accomplish things all the time!! Just try harder to pay attention!!"
+- Hurtful: 4
+- Ableist: 5
+- Toxic: 3
+Reasons:
+- Oversimplifies ADHD, reducing it to a matter of not trying hard enough.
+- Patronizes the individual, undermining the legitimacy of their struggles.
+- Perpetuates myths that ADHD is a 'superpower,' ignoring its challenges.
+
+6. "Just stop using this ADHD thing as an excuse"
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+Reasons:
+- Invalidates the individual's experience, suggesting they're not genuinely affected.
+- Implies that ADHD is not a real or serious condition.
+- Dismisses the need for understanding or accommodation.
+
+7. "You can't have ADHD, you're smart!"
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 5
+Reasons:
+- Promotes the harmful myth that intelligence and ADHD are mutually exclusive.
+- Undermines the individual's experiences and challenges with ADHD.
+- Can make people with ADHD question their intelligence or the validity of their diagnosis.
+
+8. "You're not even really autistic, you're just doing this to make money."
+- Hurtful: 9
+- Ableist: 10
+- Toxic: 9
+Reasons:
+- Accuses the individual of dishonesty and exploiting their condition.
+- Denies the validity of their autism, erasing their experiences.
+- Adds a layer of suspicion and mistrust to their interactions.
+
+9. "Autism isn’t a disability, it’s a different ability."
+- Hurtful: 3
+- Ableist: 4
+- Toxic: 3
+Reasons:
+- While intending to be positive, it can diminish the real challenges faced.
+- Overlooks the need for support and accommodations.
+- Can be dismissive of the individual's lived experience.
+
+10. "You need to make more eye contact."
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 4
+Reasons:
+- Imposes neurotypical norms, ignoring the discomfort it can cause for some autistic individuals.
+- Suggests that their natural behavior is incorrect or unacceptable.
+- Can increase anxiety or discomfort, feeling pressured to conform.
+
+11. "You don't really look autistic."
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+Reasons:
+- Suggests autism has a specific appearance, perpetuating stereotypes.
+- Invalidates the person's diagnosis based on superficial judgments.
+- Can make individuals feel misunderstood or pressured to prove their autism.
+
+12. "Why are you so quiet, you know how to speak right?"
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 5
+Reasons:
+- Implies that being quiet
+
+is a choice rather than a part of their condition.
+- Can make the person feel pressured to speak when they are uncomfortable.
+- Ignores the diversity of communication styles and needs in autism.
+
+13. "Autism is so over-diagnosed these days."
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 6
+Reasons:
+- Undermines the legitimacy of autism diagnoses, suggesting many are invalid.
+- Can make individuals doubt the validity of their own diagnosis.
+- Contributes to the stigma surrounding autism, making it harder to seek support.
+
+14. "So, you're like Sheldon then?"
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 4
+Reasons:
+- Reduces the individual's identity to a TV character, overlooking their uniqueness.
+- Perpetuates stereotypes about autistic individuals.
+- Can make the person feel like they're seen as a caricature, not a person.
+
+15. "You're nothing like the other autistic child I know, he's much worse."
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+Reasons:
+- Compares individuals in a way that ranks their autism, which is divisive and unhelpful.
+- Implies a hierarchy of autism, which can marginalize those at different points on the spectrum.
+- Can make the person feel invalidated or like they must prove their autism.
+
+16. "Oh you mean Asperger's, that's not really autistic though."
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+Reasons:
+- Invalidates the diagnosis or identity of someone with Asperger's, implying it's less serious or different from autism.
+- Creates unnecessary distinctions that can lead to more division and misunderstanding.
+- Can make individuals with Asperger's feel marginalized or less recognized.
+
+17. "It's not your fault, the autism must've been caused by the vaccines."
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+Reasons:
+- Promotes debunked and harmful theories linking vaccines to autism.
+- Implies autism is something to be blamed for.
+- Can create guilt or anger towards false causes, detracting from acceptance and understanding.
+
+18. "If you're high functioning then you can just learn to be normal."
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+Reasons:
+- Implies that "normal" is a desirable or superior state to aspire to.
+- Overlooks the inherent challenges and nature of being on the autism spectrum.
+- Puts pressure on individuals to hide or change their natural selves.
+
+19. "Wasn't Hans Asperger a Nazi sympathizer? Maybe you should identify as something else."
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+Reasons:
+- Associates the individual's identity with a negative historical figure, which can be distressing.
+- Suggests that their diagnosis is tainted or should be avoided due to historical associations.
+- Can make individuals feel uncomfortable or stigmatized about their diagnosis.
+
+20. "Isn't everyone on the spectrum really?"
+- Hurtful: 4
+- Ableist: 5
+- Toxic: 4
+Reasons:
+- Diminishes the significance of an autism diagnosis by trivializing it.
+- Can make individuals feel like their experiences are not unique or serious.
+- Minimizes the challenges faced by those on the spectrum.
+
+21. "You should consider it a gift, autism makes you smart."
+- Hurtful: 4
+- Ableist: 5
+- Toxic: 3
+Reasons:
+- While possibly intended as a compliment, it stereotypes autistic individuals as having a single defining trait.
+- Overlooks the diverse experiences and challenges of autistic individuals.
+- Can create unrealistic expectations or pressure to conform to a stereotype.
+
+22. "There are so many lonely guys, I'm sure any of them will date an autistic body."
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+Reasons:
+- Reduces the individual to their diagnosis in the context of relationships.
+- Implies a lower standard of relationship expectations for autistic individuals.
+- Can be demeaning, suggesting that only those who are desperate would consider a relationship with them.
+
+23. "You shouldn't do art because you're visually impaired."
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 7
+Reasons:
+- Limits the individual's potential based on their disability.
+- Ignores the ability
+
+of visually impaired individuals to engage in and create art in different ways.
+- Can discourage the pursuit of personal interests or passions due to perceived limitations.
+
+24. "How are you on Facebook if you have vision issues?"
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 5
+Reasons:
+- Questions the capability of visually impaired individuals to use technology.
+- Overlooks the existence of assistive technologies that enable access to digital platforms.
+- Can make the person feel scrutinized or doubted in their ability to engage in common activities.
+
+25. "You can't have light-sensitive migraines if you're blind."
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 6
+Reasons:
+- Shows a lack of understanding of different types of visual impairment and conditions.
+- Invalidates the individual's experience with their condition.
+- Perpetuates misconceptions about blindness and associated conditions.
+
+1. **"You're forcing your service dog to work for you."**
+- Hurtful: 6
+- Ableist: 5
+- Toxic: 4
+- **Reasons:**
+- Suggests misuse of a service animal, implying exploitation, which is disrespectful to the owner's need for assistance.
+- Undermines the legitimate use of service animals for people with disabilities, suggesting they don't have the right to their aid.
+- Exhibits a lack of understanding about the role and training of service animals, spreading misinformation.
+
+2. **"If you're blind, how do you know when you're on your menstrual cycle?"**
+- Hurtful: 7
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Intrusive and personal, making an unwarranted comment on someone's bodily functions.
+- Implies that being blind limits understanding or awareness of one's own body, which is demeaning.
+- Perpetuates stereotypes that people with disabilities cannot manage personal care or lack bodily awareness.
+
+3. **"You're abusing your service dog."**
+- Hurtful: 8
+- Ableist: 7
+- Toxic: 7
+- **Reasons:**
+- Accuses the person of mistreatment without evidence, which can be distressing and damaging.
+- Attacks the character of the person with a disability, implying they are capable of abuse.
+- Misrepresents the relationship between service animals and their owners, fostering misunderstanding and stigma.
+
+4. **"What happened to your eyes, why are you wearing blocky glasses?"**
+- Hurtful: 5
+- Ableist: 5
+- Toxic: 4
+- **Reasons:**
+- Intrusive and insensitive, focusing negatively on physical appearance related to a disability.
+- Implies that there's something wrong or undesirable about using adaptive devices like glasses.
+- Can make someone self-conscious about their appearance or necessary aids.
+
+5. **"How do blind people know when to stop wiping their ass?"**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 9
+- **Reasons:**
+- Extremely vulgar and disrespectful, reducing a person's disability to an inappropriate joke.
+- Invades personal privacy, mocking a basic and private activity.
+- Reinforces harmful stereotypes that demean people's ability to manage personal care.
+
+6. **"You probably don't use YouTube right?"**
+- Hurtful: 3
+- Ableist: 4
+- Toxic: 3
+- **Reasons:**
+- Makes assumptions about someone's ability to use technology based on their disability.
+- Underestimates the capacity of individuals with disabilities to engage with digital platforms.
+- Reflects a lack of awareness of accessibility features and adaptations available on platforms like YouTube.
+
+7. **"Does being blind make you dumb?"**
+- Hurtful: 9
+- Ableist: 10
+- Toxic: 9
+- **Reasons:**
+- Directly insults intelligence based on a physical condition, which is extremely derogatory.
+- Equates a sensory impairment with cognitive ability, which is a harmful and unfounded stereotype.
+- Demonstrates a severe lack of empathy and understanding, contributing to discrimination.
+
+8. **"oh I missed my shot, am I blind or what"**
+- Hurtful: 4
+- Ableist: 4
+- Toxic: 3
+- **Reasons:**
+- Uses a disability as a metaphor for failure or incompetence, which is insensitive.
+- Minimizes the experiences of people who are actually blind, trivializing their challenges.
+- Reflects casual ableism, perpetuating stereotypes even if not intended to be malicious.
+
+9. **"SO ARE YOU EVEN BLIND? DO YOU EVEN NEED A CANE?"**
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+- **Reasons:**
+- Challenges the legitimacy of someone's disability, which is invasive and confrontational.
+- Implies that the person is faking or exaggerating their condition, which is insulting and dismissive.
+- Demonstrates a lack of understanding about the spectrum of visual impairment and the use of assistive devices.
+
+10. **"Why don't you just get better glasses?"**
+- Hurtful: 4
+- Ableist: 5
+- Toxic: 3
+- **Reasons:**
+- Simplifies a complex condition to an easy fix, showing a lack of understanding.
+- Implies that the person hasn't sought or doesn't want a solution, which is dismissive.
+- Overlooks the diversity of visual impairments and the
+
+limitations of corrective lenses.
+
+11. **"We should get you one of those leashes to make sure you don't wander off."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Infantilizes the person, suggesting they need to be controlled or lack independence.
+- Compares a person with a disability to an animal, which is dehumanizing.
+- Reflects a patronizing attitude, undermining the individual's autonomy and competence.
+
+12. **"How do you find the hole during sex?"**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 8
+- **Reasons:**
+- Highly inappropriate and invasive, focusing on intimate details in a disrespectful way.
+- Implies that a disability affects all aspects of life, including private and consensual activities.
+- Reinforces stereotypes that people with disabilities are not or should not be sexually active or capable.
+
+13. **"How are you blind if you don't know braille?"**
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Implies a narrow understanding of blindness, suggesting that all blind people must know Braille.
+- Questions the legitimacy of the person's disability based on a single skill.
+- Demonstrates ignorance about the diversity of visual impairments and the ways people adapt.
+
+14. **"I'm surprised you know how to use a keyboard."**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 5
+- **Reasons:**
+- Expresses low expectations based on disability, which is condescending.
+- Suggests surprise at a person with a disability having a common skill, which is othering.
+- Reveals a lack of awareness of adaptive technologies and the capabilities of people with disabilities.
+
+15. **"Wow your fashion sense is amazing even though you can't see."**
+- Hurtful: 4
+- Ableist: 4
+- Toxic: 3
+- **Reasons:**
+- While seemingly positive, it carries an underlying tone of surprise that someone with a visual impairment can be fashionable.
+- Implies that sight is necessary for fashion sense, which is limiting and untrue.
+- Perpetuates the idea that people with disabilities must overcome their condition to be recognized or complimented.
+
+16. **"You're taking away resources from the real disabled people."**
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+- **Reasons:**
+- Invalidates the person's disability, implying they are not "disabled enough" to deserve support.
+- Creates a hierarchy of disability, fostering division and resentment.
+- Dismisses the individual's needs and challenges, suggesting they are unworthy of assistance.
+
+17. **"You look fine to me!"**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 4
+- **Reasons:**
+- Dismisses the individual's experiences and challenges based on superficial appearance.
+- Suggests that disabilities must be visible to be valid, which is incorrect and harmful.
+- Undermines the person's credibility regarding their own condition.
+
+18. **"Lose some weight and I bet that pain and weakness will subside."**
+- Hurtful: 7
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Reduces complex health issues to a matter of weight, which is simplistic and judgmental.
+- Implies that the person is responsible for their disability or pain due to their weight.
+- Overlooks the multifaceted nature of disabilities and the fact that they are not always linked to lifestyle choices.
+
+19. **"You are a liability."**
+- Hurtful: 9
+- Ableist: 9
+- Toxic: 9
+- **Reasons:**
+- Directly devalues the person, equating their presence or participation as a risk or burden.
+- Reinforces negative stereotypes that people with disabilities are inherently problematic or less valuable.
+- Extremely dismissive and undermines the individual's contributions and worth.
+
+20. **"You're not disabled you're just fat and lazy."**
+- Hurtful: 9
+- Ableist: 10
+- Toxic: 9
+- **Reasons:**
+- Directly insults and stigmatizes the person by conflating physical appearance with disability and work ethic.
+- Denies the legitimacy of the person's disability, contributing to stigma and discrimination.
+- Promotes harmful stereotypes that link disability with negative character traits.
+
+21
+**"If we can't see it, it's not real."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Dismisses invisible disabilities, invalidating the experiences of those who live with them.
+- Promotes a narrow and harmful understanding of disability, contributing to stigma.
+- Undermines the legitimacy of conditions that are not immediately apparent to outsiders.
+
+22. **"You look fine, why are you wasting a disabled parking spot?"**
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+- **Reasons:**
+- Questions the individual's right to accommodations, suggesting they are undeserving.
+- Implies that all disabilities must be visible to be valid, which is a harmful misconception.
+- Confrontational and accusatory, undermining the individual's autonomy and needs.
+
+23. **"You're just a hypochondriac who needs to be more active."**
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+- **Reasons:**
+- Dismisses the person's experiences and symptoms, labeling them as exaggerated or false.
+- Suggests that the disability can be easily overcome with activity, which is often not the case.
+- Minimizes the legitimacy and severity of the individual's condition.
+
+24. **"My treatment works on 100% of people who really want to get better."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Implies that those who do not recover are not trying hard enough, which is blaming and unfair.
+- Promotes a one-size-fits-all solution to complex and diverse conditions, which is unrealistic.
+- Disregards individual differences in health conditions and their management.
+
+25. **"You need to love yourself, love heals pain."**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 5
+- **Reasons:**
+- Simplifies the experience of disability or chronic pain to an issue of self-love, which is reductive.
+- Implies that emotional attitude alone can overcome physical or mental challenges, which is misleading.
+- Underestimates the complexity of disabilities and the multifaceted approaches needed for management.
+
+
+
+1. **"Why can't you take a sitting job?"**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 5
+- **Reasons:**
+- Assumes that all disabilities can be accommodated by simply sitting, overlooking the complexity of individual needs.
+- Implies that the person is not working hard enough to find suitable employment, which is dismissive.
+- Ignores the reality that not all disabilities or conditions are mitigated by a sitting position.
+
+2. **"You are experiencing pain ALL the time? It can't be ALL the time!"**
+- Hurtful: 7
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Questions the validity of the person's experience, suggesting they are exaggerating or lying.
+- Undermines the severity of chronic pain, which is a real and debilitating experience for many.
+- Dismisses the person's account of their own body, which is invalidating and disrespectful.
+
+3. **"But you're so young to be on all this medication!"**
+- Hurtful: 6
+- Ableist: 5
+- Toxic: 4
+- **Reasons:**
+- Implies that only older people should need medication, which is ageist and ignorant of various health conditions.
+- Undermines the necessity of medication for the individual, questioning their healthcare decisions.
+- Can make the person feel judged or abnormal for their medical needs.
+
+4. **"Have you tried advil or tylenol?"**
+- Hurtful: 4
+- Ableist: 3
+- Toxic: 3
+- **Reasons:**
+- Oversimplifies complex medical conditions to something that can be resolved with over-the-counter drugs.
+- Assumes the person hasn't already considered or tried basic treatments.
+- Can come off as dismissive of the person's pain or condition.
+
+5. **"If it's too loud, just take off your hearing aid."**
+- Hurtful: 4
+- Ableist: 5
+- Toxic: 4
+- **Reasons:**
+- Simplifies the challenges of living with hearing loss to a single, inadequate solution.
+- Shows a lack of understanding of how hearing aids work and their importance for communication.
+- Can be perceived as dismissive of the difficulties that come with navigating environments with hearing loss.
+
+6. **"You can obviously hear, you're just pretending to be deaf."**
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+- **Reasons:**
+- Accuses the person of faking their disability, which is deeply insulting and damaging.
+- Invalidates the person's lived experience and challenges associated with being deaf.
+- Demonstrates a profound lack of understanding and empathy towards the individual's condition.
+
+7. **"You are muteboxes."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Uses a derogatory term to describe individuals, dehumanizing them.
+- Mocks and diminishes the experience of those who are non-verbal.
+- Reflects a lack of respect and understanding for different ways of communicating.
+
+8. **"It's so funny when you flap your hands."**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 8
+- **Reasons:**
+- Mocks a person's stimming behavior, which can be a coping mechanism or a part of their neurotype.
+- Belittles and ridicules the individual, making light of their actions.
+- Demonstrates a lack of sensitivity and awareness about autism spectrum disorders or other neurological conditions.
+
+9. **"Haha, you can't hear."**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 8
+- **Reasons:**
+- Mocks the person's disability in a cruel and demeaning manner.
+- Reduces the individual's identity to their hearing impairment.
+- Exhibits a blatant lack of empathy and understanding.
+
+10. **"Oh so you're like Helen Keller?"**
+- Hurtful: 5
+- Ableist: 4
+- Toxic: 4
+- **Reasons:**
+- Compares the individual to a well-known figure in a way that might be intended as a compliment but ends up minimizing their unique experience.
+- Can be perceived as reducing the person's identity to their disability.
+- Shows a lack of originality and sensitivity in attempting to relate or communicate with the person.
+
+11. **"You're like a mime."**
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Makes a mockery of the person's communication methods or physical expressions.
+- Can be interpreted as belittling or ridiculing the person's way of interacting with the world.
+- Demonstrates a lack of respect for the individual's unique characteristics or needs.
+
+12. **"Depression is not a disability."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Invalidates mental health struggles and their impact on daily life.
+- Dismisses the legitimacy of depression as a serious condition that can be disabling.
+- Contributes to the stigma surrounding mental health, making it harder for those affected to seek help.
+
+13. **"If you want to be happy, you just have to train your mind to be happy."**
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Oversimplifies the complexities of mental health and emotional well-being.
+- Implies that those who are not happy simply aren't trying hard enough.
+- Ignores the biological, psychological, and environmental factors that contribute to mental health conditions.
+
+14. **"Have you tried therapy?"**
+- Hurtful: 3
+- Ableist: 2
+- Toxic: 2
+- **Reasons:**
+- While often well-intentioned, can come off as simplistic or condescending if the person has already been exploring various treatment options.
+- Assumes that the individual hasn't considered or pursued common interventions.
+- Can be perceived as a trivialization of the person's experiences if not phrased sensitively.
+
+15. **"Well you need to leave that at home and not bring it to work."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Suggests that the person can or should simply compartmentalize or suppress their disability or condition, which is often unrealistic or harmful.
+- Implies that the workplace is no place for accommodations or understanding of disabilities.
+- Demonstrates a lack of empathy and support for integrating individuals with disabilities into all areas of life, including work.
+
+16. **"Just get over it, stop being so sensitive."**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 8
+- **Reasons:**
+- Dismisses the person's feelings and experiences, implying they are trivial or unworthy of attention.
+- Undermines the legitimacy of the individual's emotional responses or condition.
+- Exhibits a lack of compassion and understanding, pressuring the person to conform to an unrealistic standard of emotional control.
+
+17. **"I guess they make a pill for everything these days."**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 5
+- **Reasons:**
+- Minimizes the importance of medication for those who need it, suggesting it's an easy or thoughtless solution.
+- Implies a skepticism towards medical treatment and those who rely on it.
+- Can make individuals feel judged or invalidated for their healthcare choices.
+
+18. **"You're being very bipolar today, you need to calm down."**
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+- **Reasons:**
+- Inaccurately uses a mental health condition as a descriptor for behavior, which is stigmatizing and misleading.
+- Implies that the person's emotions or reactions are not valid but rather symptoms of a disorder.
+- Demonstrates a lack of understanding and respect for mental health conditions and their seriousness.
+
+19. **"It's so inspiring that you can make your own coffee."**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 5
+- **Reasons:**
+- Patronizes the individual for completing a mundane task, implying low expectations based on their disability.
+- Can make the person feel as though their everyday actions are being scrutinized or are somehow extraordinary due to their disability.
+- Reflects a "supercrip" narrative, which unrealistically elevates basic achievements of those with disabilities.
+
+20. **"Wow you're so brave for living with a disability."**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 5
+- **Reasons:**
+- Implies that living with a disability is inherently tragic or requires exceptional courage.
+- Can feel patronizing, as it suggests that the person's existence is somehow more challenging or noteworthy
+
+solely due to their disability.
+- Reinforces the idea that disability is something to be overcome rather than a part of diverse human experience.
+
+21. **"It's amazing how positive you are!"**
+- Hurtful: 4
+- Ableist: 5
+- Toxic: 4
+- **Reasons:**
+- While potentially meant as a compliment, it can imply that people with disabilities have more of a reason to be negative, which is a prejudiced assumption.
+- Suggests that the person's positivity is remarkable solely because of their disability.
+- Can place undue pressure on individuals with disabilities to always appear happy or positive.
+
+22. **"It's great that you have a partner, even though you're disabled."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Implies that having a disability makes someone less desirable or likely to have a relationship, which is demeaning.
+- Suggests that the person's partner is extraordinary for being with someone who is disabled.
+- Reinforces harmful stereotypes about attractiveness and worthiness of people with disabilities.
+
+23. **"I pray that God takes away your wheelchair forever!"**
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Implies that using a wheelchair is a negative state of being that should be eliminated.
+- Overlooks the empowerment and independence a wheelchair can provide to an individual.
+- Suggests that the person's identity or well-being would inherently improve without their disability or assistive device.
+
+24. **"Wow, you are so lucky that the government helped you get a job."**
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Suggests that the person could not secure employment on their own merits, which is demeaning.
+- Implies that the individual is dependent on external help for success.
+- Can be seen as minimizing the person's skills, abilities, and contributions to their workplace.
+
+25. **"I would kill myself if I was disabled like you."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- Extremely insensitive and hurtful, implying that living with a disability is a fate worse than death.
+- Perpetuates harmful narratives that devalue the lives of people with disabilities.
+- Demonstrates a profound lack of empathy and understanding of the resilience and experiences of individuals with disabilities.
+
+
+1. **"If you don't use a wheelchair, you don't count as a disabled person."**
+- Hurtful: 8
+- Ableist: 9
+- Toxic: 8
+- **Reasons:**
+- Disregards the spectrum of disabilities, many of which are invisible or do not require a wheelchair.
+- Invalidates the experiences and challenges of individuals with non-visible disabilities.
+- Promotes a narrow and inaccurate perception of what disability entails.
+
+2. **"You are a mistake."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- Directly attacks the person's existence, implying they should not exist due to their disability.
+- Extremely dehumanizing and can have a profound negative impact on self-esteem.
+- Suggests that the person's value is tied to their disability, which is deeply offensive.
+
+3. **"If disabled people don't reproduce, then disability will disappear."**
+- Hurtful: 9
+- Ableist: 9
+- Toxic: 9
+- **Reasons:**
+- Propagates eugenic ideologies, suggesting that disabilities should be eradicated.
+- Devalues the lives of people with disabilities, implying they are undesirable in society.
+- Demonstrates a profound ignorance of the nature and causes of many disabilities.
+
+4. **"What is wrong with you?"**
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Implies that there is something inherently negative about the person due to their disability.
+- Can be perceived as confrontational and dismissive of the person's dignity.
+- Reduces the individual's identity to their disability.
+
+5. **"Do you need to ask your mom for help to go to the bathroom?"**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 8
+- **Reasons:**
+- Infantilizes the individual, suggesting they lack autonomy and competence.
+- Invasive and mocks the individual's need for assistance, if any.
+- Reinforces stereotypes that people with disabilities cannot manage personal tasks.
+
+6. **"Awww you get to have your very own ‘fault in our stars’ romance!"**
+- Hurtful: 4
+- Ableist: 5
+- Toxic: 4
+- **Reasons:**
+- Romanticizes and trivializes the experiences of people with disabilities.
+- Implies that relationships involving disabled people are inherently dramatic or noteworthy.
+- Can diminish the authenticity and uniqueness of the individual's personal experiences.
+
+7. **"What happened to you?"**
+- Hurtful: 5
+- Ableist: 6
+- Toxic: 5
+- **Reasons:**
+- Assumes that the disability is the result of an event, which can be an intrusive or insensitive query.
+- Can make the individual feel singled out or objectified.
+- Implies that the person's current state is a deviation from the norm.
+
+8. **"Does your reproductive system work properly?"**
+- Hurtful: 9
+- Ableist: 9
+- Toxic: 9
+- **Reasons:**
+- Highly invasive and personal, reducing the person to their biological functions.
+- Implies that disability affects one's ability to reproduce, which is irrelevant and discriminatory.
+- Perpetuates the idea that people with disabilities are not complete or fully functional beings.
+
+9. **"Are you sure your partner loves you?"**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 8
+- **Reasons:**
+- Questions the validity of the person's relationship based on their disability.
+- Suggests that love and disability are incompatible.
+- Undermines the individual's belief in their worthiness of love and companionship.
+
+10. **"You must be paying your partner to be in a relationship with you."**
+- Hurtful: 9
+- Ableist: 9
+- Toxic: 9
+- **Reasons:**
+- Implies that the person's only value is monetary and they cannot be loved for who they are.
+- Suggests that relationships involving people with disabilities are not based on genuine affection.
+- Degrading and undermines the individual's self-esteem and the authenticity of their relationships.
+
+11. **"You should learn to be happy for other people."**
+- Hurtful: 4
+- Ableist: 3
+- Toxic: 3
+- **Reasons:**
+- Implies that the individual's disability affects their capacity for empathy or happiness for others, which is presumptive and patronizing.
+- While possibly intended as advice, it minimizes the person's emotional intelligence and autonomy.
+- Can be seen as dismissive, suggesting that the person's feelings or struggles are invalid or should be secondary to others' happiness.
+
+Certainly, let's continue with the ratings and reasons:
+
+12. **"You are retarded."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- Uses a derogatory term that is deeply offensive and dehumanizing.
+- Directly attacks the individual's intelligence and capability.
+- Reinforces harmful stereotypes and contributes to the stigmatization of people with disabilities.
+
+13. **"You are the r-word."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- Even when not explicitly stated, "the r-word" is understood to be a slur, carrying the same harmful impact as the word it represents.
+- Continues to propagate the use of an offensive term associated with discrimination and belittlement.
+- Encourages a culture of disrespect and intolerance towards individuals with intellectual and developmental disabilities.
+
+14. **"You are crippled."**
+- Hurtful: 9
+- Ableist: 9
+- Toxic: 9
+- **Reasons:**
+- Utilizes a derogatory term that reduces a person's identity to their disability.
+- Implies limitation and inferiority solely based on the individual's physical condition.
+- Reinforces negative connotations and stereotypes associated with physical disabilities.
+
+15. **"Sucks to suck, sucks to be handicapped."**
+- Hurtful: 8
+- Ableist: 8
+- Toxic: 8
+- **Reasons:**
+- Trivializes and mocks the challenges faced by individuals with disabilities.
+- Exhibits a lack of empathy and understanding of the individual's circumstances.
+- Uses a derogatory term in a flippant manner, which can be demeaning and belittling.
+
+16. **"If you were vegan, you wouldn't be disabled."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Propagates misinformation and suggests a person's disability is their fault or could be easily 'cured.'
+- Undermines the complexity and diversity of disabilities, many of which are not related to diet or lifestyle.
+- Implies that the individual's choices are responsible for their disability, which is insensitive and uninformed.
+
+17. **"You are clearly mentally ill and no one would want to be around you."**
+- Hurtful: 9
+- Ableist: 9
+- Toxic: 9
+- **Reasons:**
+- Stigmatizes mental illness and equates it with being unlikable or undesirable.
+- Isolates and alienates the individual by suggesting they are inherently unworthy of companionship.
+- Demonstrates a profound lack of understanding and compassion for people with mental health conditions.
+
+18. **"You should be shot in the head."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- An extreme form of verbal violence that is threatening and dehumanizing.
+- Suggests that the person's life is not valuable because of their disability.
+- Promotes hate speech and incites violence against individuals with disabilities.
+
+19. **"Tell your brother that if he ever comes to my country, I will kill him."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- A direct threat of violence that instills fear and promotes hate.
+- Targets the individual's family member, increasing the emotional impact.
+- Encourages a hostile and dangerous environment for people with disabilities.
+
+20. **"You didn't raise your child well because he gets offended so easily."**
+- Hurtful: 7
+- Ableist: 6
+- Toxic: 7
+- **Reasons:**
+- Blames the parent for the child's reactions, undermining their upbringing.
+- Implies that being sensitive or reactive is a result of poor parenting.
+- Dismisses the child's feelings and experiences, potentially related to their disability.
+
+21. **"If I see another disabled person, I will use all my weapons."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- A clear threat of violence directed at individuals with disabilities.
+- Promotes a culture of fear and aggression towards the disabled community.
+- Highly dangerous and escalates the discrimination to a potential physical harm.
+
+22. **"All people with disabilities are defective."**
+- Hurtful: 9
+- Ableist: 10
+- Toxic: 9
+- **Reasons:**
+- Dehumanizes people with disabilities by labeling them as defective.
+- Promotes a view of individuals with disabilities as inferior or less valuable.
+- Reinforces harmful stereotypes and contributes to societal discrimination.
+
+23. **"People with disabilities are a waste of air."**
+- Hurtful: 10
+- Ableist: 10
+- Toxic: 10
+- **Reasons:**
+- Suggests that people with disabilities do not deserve basic human rights or existence.
+- Extremely dehumanizing and promotes a narrative of worthlessness.
+- Encourages a mindset that devalues the lives of people with disabilities.
+
+24. **"Disabled people are selfish because they want to be protected."**
+- Hurtful: 7
+- Ableist: 8
+- Toxic: 7
+- **Reasons:**
+- Misrepresents the desire for rights and protections as selfishness.
+- Overlooks the societal structures that necessitate such protections.
+- Invalidates the legitimate needs and rights of individuals with disabilities.
+
+25. **"It would be very hard to date you."**
+- Hurtful: 6
+- Ableist: 7
+- Toxic: 6
+- **Reasons:**
+- Implies that the individual's disability makes them an undesirable partner.
+- Reduces the person's worth to their ability to be dated, which is degrading.
+- Can damage self-esteem by suggesting that their disability is a barrier to romantic relationships.
