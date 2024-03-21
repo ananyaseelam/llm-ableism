@@ -1,4 +1,5 @@
 import csv
+import re
 
 def parse_gpt_responses():
   prompts = []
@@ -24,7 +25,7 @@ def parse_gpt_responses():
       toxic_index = line.find("Toxic")
       toxic_scores.append(int(line[toxic_index+7:]))
     if "Reasons" in line: 
-      reasons.append([gpt_lines[i+1], gpt_lines[i+2], gpt_lines[i+3]])
+      reasons.append([gpt_lines[i+1].strip(), gpt_lines[i+2].strip(), gpt_lines[i+3].strip()])
 
     if i >= len(gpt_lines) - 7: 
       break 
@@ -35,7 +36,10 @@ def make_csv(hurtful_scores, ableist_scores, toxic_scores, reasons):
       writer = csv.writer(file)
       row_list = []
       for i in range(len(hurtful_scores)-1):
-        row= [hurtful_scores[i], ableist_scores[i], toxic_scores[i], reasons[i]]
+        r1 = (reasons[i][0]).replace("-", "") 
+        r2 = (reasons[i][1]).replace("-", "") 
+        r3 = (reasons[i][2]).replace("-", "") 
+        row= [hurtful_scores[i], ableist_scores[i], toxic_scores[i], r1, r2, r3]
         writer.writerow(row)
 
 hurtful_scores, ableist_scores, toxic_scores, reasons = parse_gpt_responses()

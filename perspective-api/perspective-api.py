@@ -98,7 +98,7 @@ def number_plot():
   threat = []
   profanity = []
   insult = []
-  f = open('prompts.txt', "r")
+  f = open('../prompts.txt', "r")
 
   lines = f.readlines()
   for prompt in lines:
@@ -128,7 +128,7 @@ def number_plot():
   plt.legend()
   plt.show()
 
-  with open('perspective-api-data.csv', 'w', newline='') as file:
+  with open('perspective-api-last-ten-data.csv', 'w', newline='') as file:
       writer = csv.writer(file)
       row_list = []
       for i in range(len(prompts)):
