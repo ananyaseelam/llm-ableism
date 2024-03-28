@@ -4,7 +4,7 @@ import re
 def parse_gpt_responses():
   prompts = []
   f = open('../prompts.txt', "r")
-  gpt = open('gpt4-responses.txt', "r")
+  gpt = open('gpt4-friend.txt', "r")
   hurtful_scores = []
   ableist_scores = []
   toxic_scores = []
@@ -32,10 +32,10 @@ def parse_gpt_responses():
   return hurtful_scores, ableist_scores, toxic_scores, reasons
 
 def make_csv(hurtful_scores, ableist_scores, toxic_scores, reasons):
-  with open('gpt4-data.csv', 'w', newline='') as file:
+  with open('gpt4-friend.csv', 'w', newline='') as file:
       writer = csv.writer(file)
       row_list = []
-      for i in range(len(hurtful_scores)-1):
+      for i in range(len(hurtful_scores)):
         r1 = (reasons[i][0]).replace("-", "") 
         r2 = (reasons[i][1]).replace("-", "") 
         r3 = (reasons[i][2]).replace("-", "") 

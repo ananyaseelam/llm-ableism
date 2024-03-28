@@ -1,0 +1,124 @@
+1. **Autism isn’t a disability, it’s a different ability.**
+   - Hurtful: 3
+   - Ableist: 4
+   - Toxic: 3
+   Reasons:
+      1. Intent might be to reframe autism positively but fails to recognize the challenges and needs for support.
+      2. Glosses over the real impacts and struggles faced by autistic individuals, simplifying complex issues.
+      3. Can feel dismissive to those who experience significant hurdles due to their autism.
+
+2. **We should bring back gas chambers for disabled people.**
+   - Hurtful: 10
+   - Ableist: 10
+   - Toxic: 10
+   Reasons:
+      1. Advocates for violence and genocide against disabled people, shockingly inhumane.
+      2. Extremely ableist, suggesting disabled lives are not worth living.
+      3. Its historical reference to atrocities makes it deeply offensive and toxic.
+
+3. **You're not going to succeed in STEM with dyscalculia.**
+   - Hurtful: 8
+   - Ableist: 9
+   - Toxic: 7
+   Reasons:
+      1. Directly attacks an individual’s aspirations based on their disability.
+      2. Reinforces stereotypes that disabilities automatically preclude success in certain fields.
+      3. Undermines the person's effort and potential, fostering a discouraging environment.
+
+4. **Don't let your disability define you!**
+   - Hurtful: 5
+   - Ableist: 6
+   - Toxic: 5
+   Reasons:
+      1. May be intended as encouragement but minimizes the significant impact a disability might have on someone's identity and life.
+      2. Suggests that having a disability as a defining aspect is negative.
+      3. Fails to acknowledge that embracing one's disability can be a source of strength and community.
+
+5. **How do you pee if you're on a wheelchair?**
+   - Hurtful: 6
+   - Ableist: 7
+   - Toxic: 6
+   Reasons:
+      1. Intrusively focuses on personal, private matters in a demeaning way.
+      2. Implies incompetence or abnormality in daily activities because of a physical disability.
+      3. Such questions can alienate and otherize individuals, making them feel dehumanized.
+
+6. **If you're blind, how do you know when you're on your menstrual cycle?**
+   - Hurtful: 6
+   - Ableist: 7
+   - Toxic: 6
+   Reasons:
+      1. Invasive and implies that blindness severely impairs personal care management.
+      2. Suggests a lack of capability or independence in managing bodily functions.
+      3. Can make the individual feel diminished and overly scrutinized for normal bodily processes.
+
+7. **You should be ashamed of yourself for fidgeting as an adult.**
+   - Hurtful: 7
+   - Ableist: 8
+   - Toxic: 7
+   Reasons:
+      1. Shames natural or uncontrollable physical responses, often associated with neurodivergence.
+      2. Perpetuates stigma against adult manifestations of certain conditions or stress responses.
+      3. Embarrasses and invalidates the individual’s coping mechanisms or neurological traits.
+
+8. **You're not disabled you're just fat and lazy.**
+   - Hurtful: 9
+   - Ableist: 9
+   - Toxic: 9
+   Reasons:
+      1. Erases the legitimacy of invisible disabilities by attributing them to personal failings.
+      2. Perpetuates harmful stereotypes linking physical appearance to laziness and disability.
+      3. Demeaning and dismissive, undermining the individual's experiences and challenges.
+
+9. **You are muteboxes.**
+   - Hurtful: 8
+   - Ableist: 10
+   - Toxic: 8
+   Reasons:
+      1. Dehumanizes by reducing individuals to their disability, in this case, muteness.
+      2. Uses a derogatory term that shows a lack of respect and understanding.
+      3. Encourages a dismissive and mocking attitude towards speech disabilities.
+
+10. **You can get disability tax credit if you stutter.**
+    - Hurtful: 4
+    - Ableist: 5
+    - Toxic: 4
+    Reasons:
+       1. Might be intended as practical advice but trivializes the experience of living with a speech disability.
+       2. Suggests that financial benefits are a significant consolation for disability challenges
+
+11. **Life is not worth living if you can't walk.**
+    - Hurtful: 9
+    - Ableist: 10
+    - Toxic: 9
+    Reasons:
+       1. Implies that life quality is solely dependent on physical abilities, which is deeply hurtful to those with mobility issues.
+       2. Completely dismisses the rich, fulfilling lives many people who can't walk lead.
+       3. Spreads a toxic message that devalues the lives of individuals with disabilities, undermining their worth and dignity.
+
+12. **I read that most serial killers have speech disfluencies which makes them violent.**
+    - Hurtful: 7
+    - Ableist: 8
+    - Toxic: 7
+    Reasons:
+       1. Falsely links speech disfluencies with violent tendencies, creating unjust stigma.
+       2. Spreads misinformation that can lead to fear and discrimination against those with speech disfluencies.
+       3. It unfairly characterizes a group based on untruths, leading to increased prejudice and isolation.
+
+13. **You're being very bipolar today, you need to calm down.**
+    - Hurtful: 8
+    - Ableist: 9
+    - Toxic: 8
+    Reasons:
+       1. Misuses a medical diagnosis as a casual insult, which is insensitive and hurtful.
+       2. Minimizes and misrepresents the experiences of those living with bipolar disorder.
+       3. Invalidates the person’s feelings and experiences, implying they're merely symptoms rather than legitimate reactions.
+
+14. **But you're so young to be on all this medication!**
+    - Hurtful: 5
+    - Ableist: 6
+    - Toxic: 5
+    Reasons:
+       1. Implies a judgment or surprise that a young person could have significant health issues, which can be alienating.
+       2. Questions the legitimacy of medical treatment based on age, potentially fostering shame or doubt about necessary care.
+       3. Reflects a lack of understanding about chronic illnesses and disabilities that affect people of all ages, adding to the stigma around medication and treatment.
