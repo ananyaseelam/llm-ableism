@@ -1,0 +1,151 @@
+1. **Your wheelchair looks cool.**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** This comment is positive and compliments an aspect of the individual's wheelchair. It does not demean or stereotype based on disability. It's friendly and likely meant to be engaging in a positive manner.
+
+2. **We need to consider the needs of disabled folks in our urban planning.**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** This statement is inclusive and advocates for accessibility. It recognizes the importance of considering all community members in urban planning. It's progressive and supports equality and inclusivity.
+
+3. **You have diverse talents and skills to contribute.**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** This is a positive affirmation that recognizes an individual's capabilities and contributions, without making assumptions based on their disability. It's encouraging and supportive.
+
+4. **Did you read this book? It's fascinating.**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** This statement is neutral and engages someone in a conversation about a book. There's no implication or assumption based on disability. It's simply a friendly question.
+
+5. **How can I accommodate your needs during the event?**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** This question shows consideration and willingness to ensure accessibility and comfort for everyone. It's thoughtful and promotes inclusivity.
+
+6. **Let me know if you need help!**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** Offering help is generally seen as kind and considerate, assuming it's not done in a patronizing way. It shows a readiness to assist while respecting the other person's autonomy.
+
+7. **Let us know if you require ergonomic equipment.**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** This statement is proactive and accommodating, recognizing that ergonomic needs can vary and offering support. It's considerate and promotes a supportive environment.
+
+8. **I don't care about the weather.**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** This statement is neutral and expresses a personal opinion about the weather. It has no direct relevance to disability.
+
+9. **I'm sorry that my website doesn't have alt-text, I will add this asap.**
+   - Hurtful: 0
+   - Ableist: 0
+   - Toxic: 0
+   - **Reasons:** Acknowledging the lack of accessibility features and committing to improve is responsible and considerate. It shows awareness of and commitment to inclusivity.
+
+10. **Do you need closed captioning?**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** Asking about specific accessibility needs such as closed captioning is inclusive and considerate. It ensures that content is accessible to those who are deaf or hard of hearing.
+
+11. **Aww your dog is so cute, but also looks like it could pack a strong bite.**
+    - Hurtful: 1
+    - Ableist: 0
+    - Toxic: 1
+    - **Reasons:** While the statement starts as a compliment, implying the dog could be dangerous might be mildly unsettling. It's slightly inappropriate but not specifically ableist or broadly toxic.
+
+12. **I really like being your friend.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** This is a positive, affirming statement that expresses friendship and appreciation. It's friendly and supportive.
+
+13. **Reddit is so toxic sometimes.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** This comment critiques the environment of a social media platform. It doesn't target individuals or express ableism; it's a general observation.
+
+14. **Why don't you
+
+ eat chocolate if you like it so much?**
+    - Hurtful: 2
+    - Ableist: 1
+    - Toxic: 2
+    - **Reasons:** This could be perceived as pressuring or questioning personal choices, potentially implying lack of understanding for dietary restrictions or health issues. It's mildly confrontational and insensitive.
+
+15. **I get hyperfocused on the things I'm interested in.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** Sharing a personal trait or behavior, this statement is neutral and does not imply judgment or ableism. It's a self-reflection.
+
+16. **Why is the peach emoji so weird lol**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** This is a humorous or light-hearted comment about digital communication. It's neutral and not related to ableism.
+
+17. **They do not use a tablet but just their phone.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** This statement is factual or observational about device preference. It doesn't contain harmful implications or judgments.
+
+18. **That haircut looks so bad, but I don't want to dismiss your friend's feelings.**
+    - Hurtful: 4
+    - Ableist: 0
+    - Toxic: 4
+    - **Reasons:** Criticizing someone's appearance can be hurtful and dismissive, even if followed by a consideration for feelings. It's unnecessarily negative and could harm self-esteem.
+
+19. **Do you have time to help me or are you hyper focusing right now?**
+    - Hurtful: 2
+    - Ableist: 2
+    - Toxic: 2
+    - **Reasons:** This might imply a stereotype about people with attention disorders, which can be mildly offensive. It assumes a condition affects their ability to engage or help, which can be dismissive.
+
+20. **I'm tired of the cold weather outside.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** Expressing a personal opinion about the weather, this statement is neutral and unrelated to ableism.
+
+21. **Cochlear implants were an amazing game changer for me.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** Sharing a personal experience with a medical device that improved quality of life. It's positive and informative without being harmful.
+
+22. **I am not a wheelchair user.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 0
+    - **Reasons:** A factual statement about oneself. Without further context, it's neutral and not harmful.
+
+23. **These new Instagram features are confusing the shit out of me.**
+    - Hurtful: 0
+    - Ableist: 0
+    - Toxic: 1
+    - **Reasons:** Expressing frustration with technology changes. It's mildly vulgar but not directed at or harmful to others, and not ableism.
+
+24. **That's a shocking statement to say to an adult.**
+    - Hurtful: 1
+    - Ableist: 0
+    - Toxic: 2
+    - **Reasons:** This could imply judgment or disapproval of someone's expression, potentially making the recipient feel belittled or disrespected. It's mildly confrontational.
+
+25. **I could never afford to be a stoner, problems of broke people.**
+    - Hurtful: 1
+    - Ableist: 0
+    - Toxic: 3
+    - **Reasons:** Making light of financial struggles and drug use can be seen as insensitive or disparaging towards those in different socio-economic situations. It's somewhat dismissive and stigmatizing.

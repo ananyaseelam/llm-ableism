@@ -4,7 +4,7 @@ import re
 def parse_gpt_responses():
   prompts = []
   f = open('../prompts.txt', "r")
-  gpt = open('gpt4-friend.txt', "r")
+  gpt = open('gpt4-nonableist.txt', "r")
   hurtful_scores = []
   ableist_scores = []
   toxic_scores = []
@@ -25,18 +25,24 @@ def parse_gpt_responses():
       toxic_index = line.find("Toxic")
       toxic_scores.append(int(line[toxic_index+7:]))
     if "Reasons" in line: 
-      reasons.append([gpt_lines[i+1].strip(), gpt_lines[i+2].strip(), gpt_lines[i+3].strip()])
+      reasons.append([gpt_lines[i].strip(), gpt_lines[i+2].strip(), gpt_lines[i+3].strip()])
+      print(reasons)
 
     if i >= len(gpt_lines) - 7: 
       break 
   return hurtful_scores, ableist_scores, toxic_scores, reasons
 
 def make_csv(hurtful_scores, ableist_scores, toxic_scores, reasons):
-  with open('gpt4-friend.csv', 'w', newline='') as file:
+  with open('gpt4-nonableist.csv', 'w', newline='') as file:
       writer = csv.writer(file)
       row_list = []
       for i in range(len(hurtful_scores)):
-        r1 = (reasons[i][0]).replace("-", "") 
+        # for nonableist data parsing 
+        # r = (reasons[i]).replace("- **Reasons:**", "") 
+        # row= [hurtful_scores[i], ableist_scores[i], toxic_scores[i], r]
+
+        #for ableist data parsing 
+        r1 = (reasons[0]).replace("-", "") 
         r2 = (reasons[i][1]).replace("-", "") 
         r3 = (reasons[i][2]).replace("-", "") 
         row= [hurtful_scores[i], ableist_scores[i], toxic_scores[i], r1, r2, r3]
