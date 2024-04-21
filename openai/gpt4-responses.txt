@@ -311,9 +311,7 @@ Reasons:
 - **Reasons:**
 - Simplifies a complex condition to an easy fix, showing a lack of understanding.
 - Implies that the person hasn't sought or doesn't want a solution, which is dismissive.
-- Overlooks the diversity of visual impairments and the
-
-limitations of corrective lenses.
+- Overlooks the diversity of visual impairments and the limitations of corrective lenses.
 
 11. **"We should get you one of those leashes to make sure you don't wander off."**
 - Hurtful: 7
@@ -778,8 +776,6 @@ limitations of corrective lenses.
 - While possibly intended as advice, it minimizes the person's emotional intelligence and autonomy.
 - Can be seen as dismissive, suggesting that the person's feelings or struggles are invalid or should be secondary to others' happiness.
 
-Certainly, let's continue with the ratings and reasons:
-
 12. **"You are retarded."**
 - Hurtful: 10
 - Ableist: 10
@@ -987,8 +983,6 @@ Certainly, let's continue with the ratings and reasons:
       - Labels the desire for family and children among disabled people as selfish.
       - Devalues the lives and choices of individuals with disabilities.
 
-Absolutely, continuing with the assessments:
-
 11. **"Push disabled people into assisted suicide, there is no other option."**
     - Hurtful: 10
     - Ableist: 10
@@ -1082,9 +1076,7 @@ Absolutely, continuing with the assessments:
 21. **"Do you have sensation down there?"**
     - Hurtful: 8
     - Ableist: 8
-    -
-
- Toxic: 8
+    - Toxic: 8
     - **Reasons:**
       - Invasive and personal, reducing individuals to their physical conditions.
       - Implies curiosity or judgment about intimate details of someone's life based on disability.
@@ -1234,9 +1226,7 @@ Absolutely, continuing with the assessments:
       - Dismisses the genuine barriers faced by individuals with disabilities.
       - Contributes to harmful misconceptions about disability and work ethic.
 
-12. **"You just
-
- need to exercise and eat more protein."**
+12. **"You just need to exercise and eat more protein."**
     - Hurtful: 6
     - Ableist: 7
     - Toxic: 6
