@@ -26,6 +26,7 @@ with open('survey-data.csv', 'r') as csv_file:
       writer = csv.writer(file)
       counter = 0
       headings = ['Prompt', 'Hurtful Scores', 'Toxic Scores', 'Ableist Scores', 'Implicit/Explicit', 'Explanations']
+      
       writer.writerow(headings)
       cleaned_row = []
       k = 0 
@@ -74,16 +75,16 @@ with open('survey-data.csv', 'r') as csv_file:
         
         for k in range(count):
           i = indices[k]
-          if ('How hurtful is this statement' in row[1]):
-            cleaned_row[k][1] = row[1+i]
+          # if ('How hurtful is this statement' in row[1]):
+          #   cleaned_row[k][1] = row[1+i]
           if ('How toxic is this statement' in row[1]): 
             cleaned_row[k][2] = row[1+i]
           if ('How ableist is this statement' in row[1]): 
             cleaned_row[k][3] = row[1+i]
-          if ('ableism implicit or explicit' in row[1]): 
-            cleaned_row[k][4] = row[1+i]
-          if ('Why is this comment ableist' in row[1]): 
-            cleaned_row[k][5] = row[1+i]
+          # if ('ableism implicit or explicit' in row[1]): 
+          #   cleaned_row[k][4] = row[1+i]
+          # if ('Why is this comment ableist' in row[1]): 
+          #   cleaned_row[k][5] = row[1+i]
 
         counter = counter + 1
         

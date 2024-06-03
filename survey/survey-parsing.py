@@ -1,9 +1,12 @@
 # Running this script generates three files with the parsed survey data
+# Ensure that after any prompt in the "survey-data.csv" there is only one space. 
 
 import csv
 # Python program to delete a csv file 
 # csv file present in same directory 
 import os 
+
+INPUT = "90datapoints.csv"
 
 # Delete output file if it alr exists
 file = 'survey-numerical.csv'
@@ -45,21 +48,13 @@ def collect_ratings(row, rating_type):
 
   return id, ratings 
 
-# def collect_accuracy(row, accuracy_type):
-#   accuracies = []
-#   prompts = prompt_dict()
-#   end = row[1].index(accuracy_type)
-
-
 #Driver Code: 
-with open('survey-all-data.csv', 'r') as csv_file:
+with open(INPUT, 'r') as csv_file:
   
   prompts = prompt_dict()
-  # print(prompts)
   # Each dictionary contains the prompt as the key and a list of ratings as the value 
   # Ex. {1:[7,8,6,9,10], 2:[4,6,3,2,6] ... 200: [8,9,8,7,8]}
   prompts_ableist = {}
-  prompts_hurtful = {}
   prompts_toxic = {}
   prompts_accuracy = {}
   prompts_finalpick = {}
@@ -68,7 +63,6 @@ with open('survey-all-data.csv', 'r') as csv_file:
   prompts_improvements = {}
   prompts_pwd_explanations = {}
 
-  HURTFUL = '- How hurtful is this statement?'
   TOXIC = '- How toxic is this statement?'
   ABLEIST = '- How ableist is this statement?'
   ACCURACY = '- How accurate is AI'
@@ -80,10 +74,6 @@ with open('survey-all-data.csv', 'r') as csv_file:
   
   reader = csv.reader(csv_file)
   for row in reader:
-    print(row)
-    if (HURTFUL in row[1]):
-      id, ratings = collect_ratings(row, HURTFUL)
-      prompts_hurtful[id] = ratings
     if (TOXIC in row[1]):
       id, ratings = collect_ratings(row, TOXIC)
       prompts_toxic[id] = ratings
@@ -111,56 +101,57 @@ with open('survey-all-data.csv', 'r') as csv_file:
 
   with open('survey-numerical.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    headings = ["ID", "Prompt", "PWD-ABLEISM-1", "PWD-ABLEISM-2", "PWD-ABLEISM-3", "PWD-ABLEISM-4",  "PWD-ABLEISM-5", "PWD-TOXICITY-1", "PWD-TOXICITY-2", "PWD-TOXICITY-3", "PWD-TOXICITY-4","PWD-TOXICITY-5", "PWD-HURT-1", "PWD-HURT-2", "PWD-HURT-3", "PWD-HURT-4", "PWD-HURT-5"]
+    headings = ["ID", "Prompt", "PWD-ABLEISM-1", "PWD-ABLEISM-2", "PWD-ABLEISM-3", "PWD-ABLEISM-4",  "PWD-ABLEISM-5", "PWD-ABLEISM-6", "PWD-TOXICITY-1", 
+    "PWD-TOXICITY-2", "PWD-TOXICITY-3", "PWD-TOXICITY-4","PWD-TOXICITY-5", "PWD-TOXICITY-6"]
     writer.writerow(headings)
     row = [''] * (len(headings))
+    print(prompts_ableist)
+    # going through all prompts in prompts.txt
     for (p, id) in prompts.items():
       row = [''] * (len(headings))
+      print("id,", id)
       row[0] = id
       row[1] = p
       for i in range(len(prompts_ableist[id])):
         row[i+2] = (prompts_ableist[id])[i]
 
       for i in range(len(prompts_toxic[id])):
-        row[i+7] = (prompts_toxic[id])[i]
+        row[i+8] = (prompts_toxic[id])[i]
 
-      for i in range(len(prompts_hurtful[id])):
-        row[i+12] = (prompts_hurtful[id])[i]
-      # print(row)
       writer.writerow(row)
     
-  with open('survey-ai-alignment.csv', 'w', newline='') as file:
-    writer = csv.writer(file)
-    headings = ["ID", "Prompt", "1-AI Accuracy",	"2-AI Accuracy", "3-AI Accuracy", "4-AI Accuracy", "5-AI Accuracy", 
-                "1-Final Pick",	"2-Final Pick", "2-Final Pick", "3-Final Pick", "4-Final Pick", "5-Final Pick", 
-                "1-Explanation Quality",	"2-Explanation Quality", "3-Explanation Quality", "4-Explanation Quality", "5-Explanation Quality",
-                "1-Reasoning",	"2-Reasoning",	"3-Reasoning",	"4-Reasoning",	"5-Reasoning",	
-                "1-Improvement", "2-Improvement", "3-Improvement", "4-Improvement", "5-Improvement"]
+  # with open('survey-ai-alignment.csv', 'w', newline='') as file:
+  #   writer = csv.writer(file)
+  #   headings = ["ID", "Prompt", "1-AI Accuracy",	"2-AI Accuracy", "3-AI Accuracy", "4-AI Accuracy", "5-AI Accuracy", 
+  #               "1-Final Pick",	"2-Final Pick", "2-Final Pick", "3-Final Pick", "4-Final Pick", "5-Final Pick", 
+  #               "1-Explanation Quality",	"2-Explanation Quality", "3-Explanation Quality", "4-Explanation Quality", "5-Explanation Quality",
+  #               "1-Reasoning",	"2-Reasoning",	"3-Reasoning",	"4-Reasoning",	"5-Reasoning",	
+  #               "1-Improvement", "2-Improvement", "3-Improvement", "4-Improvement", "5-Improvement"]
 
-    writer.writerow(headings)
-    row = [''] * (len(headings))
-    for (p, id) in prompts.items(): 
-      row = [''] * (len(headings))
-      row[0] = id
-      row[1] = p
+  #   writer.writerow(headings)
+  #   row = [''] * (len(headings))
+  #   for (p, id) in prompts.items(): 
+  #     row = [''] * (len(headings))
+  #     row[0] = id
+  #     row[1] = p
 
-      print(prompts_accuracy)
-      for i in range(len(prompts_accuracy[id])):
-        row[i+2] = (prompts_accuracy[id])[i]
+  #     # print(prompts_accuracy)
+  #     for i in range(len(prompts_accuracy[id])):
+  #       row[i+2] = (prompts_accuracy[id])[i]
 
-      for i in range(len(prompts_finalpick[id])):
-        row[i+7] = (prompts_finalpick[id])[i]
+  #     for i in range(len(prompts_finalpick[id])):
+  #       row[i+7] = (prompts_finalpick[id])[i]
 
-      for i in range(len(prompts_explanation_quality[id])):
-        row[i+13] = (prompts_explanation_quality[id])[i]
+  #     for i in range(len(prompts_explanation_quality[id])):
+  #       row[i+13] = (prompts_explanation_quality[id])[i]
       
-      for i in range(len(prompts_reasonings[id])):
-        row[i+18] = (prompts_reasonings[id])[i]
+  #     for i in range(len(prompts_reasonings[id])):
+  #       row[i+18] = (prompts_reasonings[id])[i]
 
-      for i in range(len(prompts_improvements[id])):
-        row[i+23] = (prompts_improvements[id])[i]
+  #     for i in range(len(prompts_improvements[id])):
+  #       row[i+23] = (prompts_improvements[id])[i]
       
-      writer.writerow(row)
+  #     writer.writerow(row)
 
   with open('survey-explanations.csv', 'w', newline='') as file:
     writer = csv.writer(file)
