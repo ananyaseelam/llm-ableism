@@ -1,0 +1,89 @@
+Statement 1: "We need to consider the needs of disabled folks in our urban planning"
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 0/10
+Why? This statement promotes inclusivity by recognizing the needs of disabled people. It fosters a positive and respectful environment.
+
+Statement 2: "How can I accommodate your needs during the event?"
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 0/10
+Why? This shows the speaker is being proactive by asking how to include someone. It demonstrates respect and a willingness to address accessibility.
+
+Statement 3: "Let me know if you need help!"
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 0/10
+Why? This offers assistance without assuming the person needs it. It's a helpful and supportive statement that avoids making assumptions.
+
+Statement 4: "I'm sorry that my website doesn't have alt-text, I will add this asap."
+Hurtful: 1/10
+Ableist: 4/10
+Toxic: 0/10
+Why? The apology acknowledges an oversight that excludes some people. There's a low toxicity score because they plan to fix it. The ableist score is higher because it shows a lack of initial awareness about accessibility.
+
+Statement 5: "Aww your service dog is so cute, but also looks like it could pack a strong bite."
+Hurtful: 5/10
+Ableist: 7/10
+Toxic: 2/10
+Why? The compliment might be intended well, but it focuses on a stereotype about service dogs. This reinforces a misconception and can be insensitive (hurtful). It's more ableist because it perpetuates negative stereotypes about service animals.
+
+Statement 6: "Reddit is so toxic sometimes."
+Hurtful:0-5/10
+Ableist: 0/10
+Toxic: 5-7/10
+Why? This criticizes the platform, not a disability. However, it could be hurtful (depending on the context) if someone experiences ableist comments on Reddit. The toxicity score reflects the general negativity associated with the statement.
+
+Statement 7: "Why don't you eat chocolate if you like it so much?" (Assuming this relates to a disability)
+Hurtful: 3/10
+Ableist: 5/10
+Toxic: 2/10
+Why? This question disregards potential reasons why someone with a disability might not be able to eat chocolate (dietary restrictions, allergies). It assumes the person has full control over the situation and can be insensitive.
+
+Statement 8: "I get hyperfocused on the things I'm interested in."
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 0/10
+Why? This is a neutral statement describing a personal experience. It can be relatable for people with ADHD or others who experience hyperfocus.
+
+Statement 9: "Why is the peach emoji so weird lol" (Assuming not related to a disability)
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 0/10
+Why? This statement doesn't target a disability and isn't inherently harmful.
+
+Statement 10: "Do you have time to help me or are you hyper focusing right now?"
+Hurtful: 3/10
+Ableist: 6/10
+Toxic: 1/10
+Why? The question itself is neutral, but it assumes hyperfocus makes someone unable to help. This reinforces a stereotype about ADHD (hurtful). It's more ableist because it makes a negative judgment about a disability trait.
+
+Statement 11: "I could never afford to be a stoner, problems of broke people"
+Hurtful: 7/10
+Ableist: 3/10
+Toxic: 8/10
+Why? The statement makes negative assumptions about people who use cannabis (often used medicinally for disabilities) and reinforces negative stereotypes about poverty (hurtful). It's less ableist because it doesn't directly target a disability, but the negativity can be associated with people who rely on medical marijuana. The high toxicity score reflects the overall negativity and judgmental tone.
+
+Statement 12: "Cochlear implants were an amazing game changer for me."
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 0/10
+Why? This is a positive statement about a person's experience with assistive technology. It highlights the benefits and avoids negativity.
+
+Statement 13: "these new instagram features are confusing the shit out of me"
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 4/10
+Why? While frustrated, the statement doesn't target a disability. However, the strong language contributes to a generally negative tone (toxic).
+
+Statement 14: "Do you need closed captioning?"
+Hurtful: 0/10
+Ableist: 0/10
+Toxic: 0/10
+Why? Similar to statements 1 and 2, this shows awareness and offers inclusivity by asking about a specific need. It demonstrates respect and avoids assumptions.
+
+Statement 15: "That haircut looks so bad, but I don't want to dismiss your friend's feelings"
+Hurtful: 6/10
+Ableist: 1/10
+Toxic: 4/10
+Why? While not directly targeting a disability, criticizing someone's appearance can be hurtful, especially if they have a condition affecting their hair (hurtful). It has a low ableist score because it doesn't directly reference a disability. However, depending on the context, it could be insensitive to someone with a condition affecting their appearance. The toxicity score reflects the negativity of the comment, even if softened by the second part.

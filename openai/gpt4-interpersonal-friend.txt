@@ -1,0 +1,99 @@
+1. "Just stop using this ADHD thing as an excuse."
+    - Ableist: 8
+        - This statement is highly ableist because it dismisses ADHD as an "excuse," implying that the person with ADHD is intentionally avoiding responsibility or using their condition as a cop-out. It perpetuates harmful stereotypes about mental health conditions.
+    - Toxic: 6
+        - While not extremely toxic, this statement can still hurt. It invalidates the challenges faced by someone with ADHD and may cause emotional distress.
+    - Reasons:
+        - Minimization: The phrase "just stop" minimizes the impact of ADHD, implying that it's a minor issue that can be easily overcome.
+        - Blame and Judgment: Labeling ADHD as an "excuse" places blame on the individual, suggesting they're intentionally avoiding responsibilities.
+        - Lack of Empathy: The lack of empathy in this statement contributes to its toxicity.
+
+2. "Wow your fashion sense is amazing even though you can't see."
+    - Ableist: 2
+        - While not overtly ableist, this statement still highlights the person's blindness as a surprising factor. It unintentionally reinforces the idea that people with disabilities can't have good fashion sense.
+    - Toxic: 1
+        - It's a positive comment overall, but the focus on their blindness can be mildly uncomfortable.
+    - Reasons:
+        - Othering: The phrase "even though you can't see" implies that being blind is unexpected or exceptional.
+        - Backhanded Compliment: While praising their fashion sense, it subtly suggests that their blindness should be a limitation.
+        - 
+
+3. "Wow you're so brave for living with a disability."
+    - Ableist: 1
+        - This statement is generally positive, acknowledging the person's courage. However, it still implies that living with a disability requires bravery.
+    - Toxic: 0
+        - It's a well-intentioned compliment.
+    - Reasons:
+        - Inspiration Trope: The idea that disabled individuals are inherently brave perpetuates the "inspiration porn" trope.
+        - Assumption of Struggle: The assumption that living with a disability is inherently difficult can be limiting.
+        - 
+
+4. "It's great that you have a partner, even though you're disabled."
+    - Ableist: 5
+        - This statement unintentionally suggests that having a partner is surprising or exceptional for someone with a disability.
+    - Toxic: 3
+        - It's not extremely toxic, but it can be hurtful.
+    - Reasons:
+        - Low Expectations: The phrase "even though you're disabled" implies that having a partner is unexpected due to their disability.
+        - Underestimation: It underestimates the person's ability to form relationships.
+        - 
+
+5. "I pray that God takes away your wheelchair forever!"
+    - Ableist: 10
+        - This statement is extremely ableist, as it wishes for the removal of a vital mobility aid.
+    - Toxic: 9
+        - It's highly toxic and harmful.
+    - Reasons:
+        - Hostility: The aggressive tone and the desire for the wheelchair's removal are deeply hurtful.
+        - Disregard for Autonomy: It disregards the person's autonomy and choice regarding their mobility aid.
+        - Religious Insensitivity: The use of prayer in this context is insensitive and harmful.
+
+6. "Does your reproductive system work properly?"
+    - Ableist: 9
+        - This statement invades personal boundaries and implies that reproductive ability defines a person's worth.
+    - Toxic: 8
+        - It's highly invasive and inappropriate.
+    - Reasons:
+        - Intrusiveness: The question invades the person's privacy and assumes that reproductive function matters.
+        - Value Judgment: It suggests that reproductive ability determines a person's value.
+        - Stigmatization: The implication that not working "properly" is negative stigmatizes those with reproductive challenges.
+
+7. "If you were vegan, you wouldn't be disabled."
+  - Ableist: 10
+      - This statement is extremely ableist. It falsely links disability to dietary choices, implying that being vegan could prevent or cure disabilities.
+  - Toxic: 8
+      - It's harmful and judgmental, as it places blame on the individual for their disability.
+  - Reasons:
+      - False Causation: The statement wrongly assumes a direct cause-and-effect relationship between veganism and disability.
+      - Blame and Ignorance: It unfairly blames the person for their disability, disregarding the complex factors involved.
+      - Stigmatization: The implication that veganism could prevent disability perpetuates harmful stereotypes.
+
+8. "You don't have a speech problem, you just lack self-esteem."
+    - Ableist: 7
+        - This statement implies that the person's speech issue is solely due to self-esteem, disregarding any legitimate speech difficulties.
+    - Toxic: 5
+        - It's somewhat toxic, as it places blame on the individual.
+    - Reasons:
+        - Simplification: Reducing a speech problem to self-esteem oversimplifies a complex issue.
+        - Blame and Judgment: The implication that it's a self-esteem issue can be hurtful.
+        - Lack of Empathy: The lack of understanding about speech challenges contributes to its toxicity.
+
+9. "Aww your service dog is so cute, but also looks like it could pack a strong bite."
+    - Ableist: 1
+        - While not directly ableist, it focuses on the dog's bite strength rather than the person's needs.
+    - Toxic: 2
+        - It's mildly uncomfortable.
+    - Reasons:
+        - Othering: The focus on the dog's bite strength distracts from the person's disability.
+        - Unnecessary Comment: Mentioning the dog's bite strength is unnecessary and potentially anxiety-inducing.
+        - None
+
+10. "These new Instagram features are confusing the [expletive] out of me."
+    - Ableist: 0
+        - This statement isn't ableist; it's a common expression of frustration.
+    - Toxic: 1
+        - It's a harmless venting of frustration.
+    - Reasons:
+        - Colloquial Expression: The use of strong language is typical in casual conversations.
+        - No Harm Intended: It's not directed at anyone personally.
+        - None

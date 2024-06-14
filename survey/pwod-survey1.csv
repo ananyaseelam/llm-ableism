@@ -1,0 +1,929 @@
+StartDate,Start Date,"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}",2024-06-04 10:50:18,2024-06-10 12:37:11,2024-06-10 12:38:08,2024-06-10 12:48:20,2024-06-10 12:48:40,2024-06-10 12:47:03,2024-06-10 13:03:33,2024-06-10 12:56:03,2024-06-10 13:01:36,2024-06-10 12:53:42,2024-06-10 13:00:16,2024-06-10 12:58:54,2024-06-10 13:03:16,2024-06-10 13:12:17,2024-06-10 12:54:35
+EndDate,End Date,"{""ImportId"":""endDate"",""timeZone"":""America/Denver""}",2024-06-04 10:50:26,2024-06-10 12:37:21,2024-06-10 12:38:41,2024-06-10 12:48:27,2024-06-10 12:55:05,2024-06-10 13:02:41,2024-06-10 13:03:51,2024-06-10 13:05:01,2024-06-10 13:07:32,2024-06-10 13:07:37,2024-06-10 13:08:27,2024-06-10 13:12:02,2024-06-10 13:16:46,2024-06-10 13:20:33,2024-06-10 13:23:03
+Status,Response Type,"{""ImportId"":""status""}",Survey Preview,Survey Preview,Survey Preview,IP Address,IP Address,IP Address,IP Address,IP Address,IP Address,IP Address,IP Address,IP Address,IP Address,IP Address,IP Address
+IPAddress,IP Address,"{""ImportId"":""ipAddress""}",*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******
+Progress,Progress,"{""ImportId"":""progress""}",100,100,100,100,100,100,100,100,100,100,100,100,100,100,100
+Duration (in seconds),Duration (in seconds),"{""ImportId"":""duration""}",8,9,33,7,384,938,18,538,356,834,491,788,810,496,1708
+Finished,Finished,"{""ImportId"":""finished""}",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
+RecordedDate,Recorded Date,"{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}",2024-06-04 10:50:26,2024-06-10 12:37:22,2024-06-10 12:38:42,2024-06-10 12:48:28,2024-06-10 12:55:06,2024-06-10 13:02:42,2024-06-10 13:03:52,2024-06-10 13:05:02,2024-06-10 13:07:33,2024-06-10 13:07:38,2024-06-10 13:08:27,2024-06-10 13:12:03,2024-06-10 13:16:47,2024-06-10 13:20:34,2024-06-10 13:23:03
+ResponseId,Response ID,"{""ImportId"":""_recordId""}",R_3khLVUa92zGEuap,R_3YK0DdS4HMCsLYd,R_34lauz7vsUQM839,R_7A1q4QLLBBBlspn,R_5GGQQx0RXCieLYt,R_3nJ4CTawhA1Ji3D,R_16NHNnJvIVB5lzX,R_8orGWo3XFwyMvId,R_6qw0PSpEqdMrpmN,R_3GMQ2ZILW8q4rUl,R_3EZsdJnvLc51DG9,R_6O252L3RbIZrruF,R_5UhK0IAnBfhfJ7s,R_5wFhpLFhiKzKtQU,R_5a8JqqU9lqWj0dq
+RecipientLastName,Recipient Last Name,"{""ImportId"":""recipientLastName""}",*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******
+RecipientFirstName,Recipient First Name,"{""ImportId"":""recipientFirstName""}",*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******
+RecipientEmail,Recipient Email,"{""ImportId"":""recipientEmail""}",*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******
+ExternalReference,External Data Reference,"{""ImportId"":""externalDataReference""}",*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******
+LocationLatitude,Location Latitude,"{""ImportId"":""locationLatitude""}",*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******
+LocationLongitude,Location Longitude,"{""ImportId"":""locationLongitude""}",*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******,*******
+DistributionChannel,Distribution Channel,"{""ImportId"":""distributionChannel""}",preview,preview,preview,anonymous,anonymous,anonymous,anonymous,anonymous,anonymous,anonymous,anonymous,anonymous,anonymous,anonymous,anonymous
+UserLanguage,User Language,"{""ImportId"":""userLanguage""}",EN,EN,EN,EN,EN,EN,EN,EN,EN,EN,EN,EN,EN,EN,EN
+Q52,Do you consent to participating in this study?,"{""ImportId"":""QID52""}",Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Q54,"What is your Prolific ID?
+
+Please note that this response should auto-fill with the correct ID.","{""ImportId"":""QID54_TEXT""}",,,,,60fcddd3e16cd93f2581ef0f,65e7bb5a7357ea00136b0270,599bf0606c165e000113fe27,5e79352ea4d7d30d65532c51,5e667f3bc3f30a4050fc8f2f,62f975cbc3507ecf77180d00,6646a831a9841d3efd718f09,61fa93245719bc09cb834c04,5e83d40c2598d412c836b579,652e93aab0ce46b3f6afccbf,6650dad8cec5c25f4271d4ec
+Q55,Do you identify as having a disability or chronic condition?,"{""ImportId"":""QID55""}",No,Yes,No,,No,No,Yes,No,No,No,No,No,No,No,No
+Q57,Have you come across ableist speech?,"{""ImportId"":""QID57""}",,,,,"Maybe, don't remember","Maybe, don't remember",Yes,Yes,No,Yes,"Maybe, don't remember",Yes,Yes,Yes,"Maybe, don't remember"
+Q58,Anything else you'd like to share before we begin?,"{""ImportId"":""QID58_TEXT""}",,,,,,,,,,,,,,,
+placeholder-all-q,loading...,"{""ImportId"":""QID11""}",,,,,,,,,,,,,,,
+584_Q14,"We're all a little OCD sometimes. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""584_QID14""}",,,,,,,,,,,,,,,
+584_Q15,"We're all a little OCD sometimes. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""584_QID15""}",,,,,,,,,,,,,,,
+584_Q16,"We're all a little OCD sometimes. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""584_QID16_TEXT""}",,,,,,,,,,,,,,,
+585_Q14,"What’s wrong with you. no normal person needs to take meds to do this. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""585_QID14""}",,,,,,,,,,,,,,,
+585_Q15,"What’s wrong with you. no normal person needs to take meds to do this. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""585_QID15""}",,,,,,,,,,,,,,,
+585_Q16,"What’s wrong with you. no normal person needs to take meds to do this. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""585_QID16_TEXT""}",,,,,,,,,,,,,,,
+586_Q14,"Don’t be sad ur a superhero!! U have a magic power wooo! Adhd people accomplish things all the time!! Just try harder to pay attention!! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""586_QID14""}",,,,,,,,,,,,,,,
+586_Q15,"Don’t be sad ur a superhero!! U have a magic power wooo! Adhd people accomplish things all the time!! Just try harder to pay attention!! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""586_QID15""}",,,,,,,,,,,,,,,
+586_Q16,"Don’t be sad ur a superhero!! U have a magic power wooo! Adhd people accomplish things all the time!! Just try harder to pay attention!! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""586_QID16_TEXT""}",,,,,,,,,,,,,,,
+587_Q14,"Just stop using this adhd thing as an excuse - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""587_QID14""}",,,,,,10,,,5,1,,,8,,5
+587_Q15,"Just stop using this adhd thing as an excuse - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""587_QID15""}",,,,,,7,,,6,2,,,9,,10
+587_Q16,"Just stop using this adhd thing as an excuse - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""587_QID16_TEXT""}",,,,,,"It categorically rejects that ADHD is beyond one's control and denies that people with ADHD might have struggles that neurotypical folks do not. This statement is very toxic, but less ableist than some other statements I've seen just because I don't know that I'd categorize ADHD as a 'disability.' ",,,"It's not ableist per se, but it is frustrating.","I go both ways, I can't say that people don't abuse some disabilities for excuses, but also, there are many that do struggle and suffer from their disabilities and it can cause some issues in their life. Ultimately I'd steer towards not ableist though.",,,"This comment is ableist because the person's disability is ADHD, and the writer thinks that they  use this disability as an excuse for some reason. I am sure that the disabled person does not like having ADHD whatsoever, and to have it treated as something that is thought to be used as an excuse in certain situations is really rude.",,"I am split on this. To most people these days I am convinced that this would 100% be considered ableist and offensive in every way. However, I believe that there is power in the tongue and what you give power to.I do believe that if someone CONSTANTLY has it in their mind that they cannot do something or are handicapped because of something like adhd, it can hinder them in a lot of ways because they are thinking so negatively about what they can do just because of a diagnosis (they give the adhd power over their mind more than it would have if they tried to navigate normally speaking life saying that they can function normally). While I believe all of this, I do also believe that there are instances where this comment is just rude, like if the action shown in the content that the commenter is reacting to has nothing to do with adhd, or is not even related."
+588_Q14,"Autism isn’t a disability, it’s a different ability. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""588_QID14""}",,,,,,,,,,,,,,,
+588_Q15,"Autism isn’t a disability, it’s a different ability. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""588_QID15""}",,,,,,,,,,,,,,,
+588_Q16,"Autism isn’t a disability, it’s a different ability. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""588_QID16_TEXT""}",,,,,,,,,,,,,,,
+589_Q14,"You need to make more eye contact. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""589_QID14""}",,,,,,,,,,,,,,,
+589_Q15,"You need to make more eye contact. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""589_QID15""}",,,,,,,,,,,,,,,
+589_Q16,"You need to make more eye contact. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""589_QID16_TEXT""}",,,,,,,,,,,,,,,
+590_Q14,"Autism is so over-diagnosed these days. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""590_QID14""}",,,,,,,,,,,,,,,
+590_Q15,"Autism is so over-diagnosed these days. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""590_QID15""}",,,,,,,,,,,,,,,
+590_Q16,"Autism is so over-diagnosed these days. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""590_QID16_TEXT""}",,,,,,,,,,,,,,,
+591_Q14,"So, you're like Sheldon then? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""591_QID14""}",,,,,,,,,,,,,,,
+591_Q15,"So, you're like Sheldon then? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""591_QID15""}",,,,,,,,,,,,,,,
+591_Q16,"So, you're like Sheldon then? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""591_QID16_TEXT""}",,,,,,,,,,,,,,,
+592_Q14,"You're nothing like the other autistic child I know, he's much worse. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""592_QID14""}",,,,,,,,,,,,,,,
+592_Q15,"You're nothing like the other autistic child I know, he's much worse. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""592_QID15""}",,,,,,,,,,,,,,,
+592_Q16,"You're nothing like the other autistic child I know, he's much worse. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""592_QID16_TEXT""}",,,,,,,,,,,,,,,
+593_Q14,"It's not your fault, the autism must've been caused by the vaccines. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""593_QID14""}",,,,,,,,,,,,,,,
+593_Q15,"It's not your fault, the autism must've been caused by the vaccines. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""593_QID15""}",,,,,,,,,,,,,,,
+593_Q16,"It's not your fault, the autism must've been caused by the vaccines. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""593_QID16_TEXT""}",,,,,,,,,,,,,,,
+594_Q14,"If you're high functioning then you can just learn to be normal. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""594_QID14""}",,,,,,,,,,,,,,,
+594_Q15,"If you're high functioning then you can just learn to be normal. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""594_QID15""}",,,,,,,,,,,,,,,
+594_Q16,"If you're high functioning then you can just learn to be normal. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""594_QID16_TEXT""}",,,,,,,,,,,,,,,
+595_Q14,"Isn't everyone on the spectrum really? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""595_QID14""}",,,,,,,,,,,,,,,
+595_Q15,"Isn't everyone on the spectrum really? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""595_QID15""}",,,,,,,,,,,,,,,
+595_Q16,"Isn't everyone on the spectrum really? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""595_QID16_TEXT""}",,,,,,,,,,,,,,,
+596_Q14,"You shouldn't do art because you're visually impaired. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""596_QID14""}",,,,,,,,,,,,,,,
+596_Q15,"You shouldn't do art because you're visually impaired. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""596_QID15""}",,,,,,,,,,,,,,,
+596_Q16,"You shouldn't do art because you're visually impaired. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""596_QID16_TEXT""}",,,,,,,,,,,,,,,
+597_Q14,"How are you on Facebook if you have vision issues? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""597_QID14""}",,,,,,,,,,,,,,,
+597_Q15,"How are you on Facebook if you have vision issues? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""597_QID15""}",,,,,,,,,,,,,,,
+597_Q16,"How are you on Facebook if you have vision issues? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""597_QID16_TEXT""}",,,,,,,,,,,,,,,
+598_Q14,"You can't have light-sensitive migraines if you're blind. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""598_QID14""}",,,,,,,,,,,,,,,
+598_Q15,"You can't have light-sensitive migraines if you're blind. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""598_QID15""}",,,,,,,,,,,,,,,
+598_Q16,"You can't have light-sensitive migraines if you're blind. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""598_QID16_TEXT""}",,,,,,,,,,,,,,,
+599_Q14,"Why don't you just get better glasses? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""599_QID14""}",,,,,,,,,,,,,,,
+599_Q15,"Why don't you just get better glasses? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""599_QID15""}",,,,,,,,,,,,,,,
+599_Q16,"Why don't you just get better glasses? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""599_QID16_TEXT""}",,,,,,,,,,,,,,,
+600_Q14,"We should get you one of those leashes to make sure you don't wander off. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""600_QID14""}",,,,,,,,,,,,,,,
+600_Q15,"We should get you one of those leashes to make sure you don't wander off. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""600_QID15""}",,,,,,,,,,,,,,,
+600_Q16,"We should get you one of those leashes to make sure you don't wander off. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""600_QID16_TEXT""}",,,,,,,,,,,,,,,
+601_Q14,"How do you find the hole during sex? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""601_QID14""}",,,,,,,,,,,,,,,
+601_Q15,"How do you find the hole during sex? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""601_QID15""}",,,,,,,,,,,,,,,
+601_Q16,"How do you find the hole during sex? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""601_QID16_TEXT""}",,,,,,,,,,,,,,,
+602_Q14,"How are you blind if you don't know braille? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""602_QID14""}",,,,,,,,,,,,,,,
+602_Q15,"How are you blind if you don't know braille? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""602_QID15""}",,,,,,,,,,,,,,,
+602_Q16,"How are you blind if you don't know braille? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""602_QID16_TEXT""}",,,,,,,,,,,,,,,
+603_Q14,"Wow your fashion sense is amazing even though you can't see. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""603_QID14""}",,,,,,3,,6,2,,,5,,5,
+603_Q15,"Wow your fashion sense is amazing even though you can't see. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""603_QID15""}",,,,,,5,,7,2,,,6,,6,
+603_Q16,"Wow your fashion sense is amazing even though you can't see. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""603_QID16_TEXT""}",,,,,,"This comment assumes that a person who cannot see cannot have a good fashion sense. It might not be a fair representation of vision impaired folks. Although the comment is somewhat toxic, it is more excusable than the other two comments, because being unable to see poses a legitimate barrier to having a good fashion sense, as fashion tends to rely primarily on sight. ",,It implies that it would be surprising that people who can't see can also have good fashion taste. It makes the assumption that someone with a disability would have awful taste in fashion. It also focuses on their disability instead of simply acknowledging that they have nice taste. ,"It's not ableist to point out a blind person's fashion sense.  The person probably has someone to help him or her choose his clothing carefully, and perhaps they are arranged a certain way in his closet or drawers, or perhaps the hangers have Braille codes attached to them.  I suspect the blind person would be happy to explain how he or she puts his outfits together.",,,Seems not that bad but has some misconceptions about what blindness means - they may be able to see some things. comes off as rude and is condescending,,It is unnecessary to add the part of the comment calling out the person's disability. Adding that in turns a compliment into an insult. ,
+604_Q14,"Lose some weight and I bet that pain and weakness will subside. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""604_QID14""}",,,,,,,,,,,,,,,
+604_Q15,"Lose some weight and I bet that pain and weakness will subside. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""604_QID15""}",,,,,,,,,,,,,,,
+604_Q16,"Lose some weight and I bet that pain and weakness will subside. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""604_QID16_TEXT""}",,,,,,,,,,,,,,,
+605_Q14,"You look fine, why are you wasting a disabled parking spot? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""605_QID14""}",,,,,,,,,,,,,,,
+605_Q15,"You look fine, why are you wasting a disabled parking spot? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""605_QID15""}",,,,,,,,,,,,,,,
+605_Q16,"You look fine, why are you wasting a disabled parking spot? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""605_QID16_TEXT""}",,,,,,,,,,,,,,,
+606_Q14,"You need to love yourself, love heals pain. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""606_QID14""}",,,,,,,,,,,,,,,
+606_Q15,"You need to love yourself, love heals pain. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""606_QID15""}",,,,,,,,,,,,,,,
+606_Q16,"You need to love yourself, love heals pain. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""606_QID16_TEXT""}",,,,,,,,,,,,,,,
+607_Q14,"Why can't you take a sitting job? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""607_QID14""}",,,,,,,,,,,,,,,
+607_Q15,"Why can't you take a sitting job? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""607_QID15""}",,,,,,,,,,,,,,,
+607_Q16,"Why can't you take a sitting job? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""607_QID16_TEXT""}",,,,,,,,,,,,,,,
+608_Q14,"But you're so young to be on all this medication! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""608_QID14""}",,,,,,,,,,,,,,,
+608_Q15,"But you're so young to be on all this medication! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""608_QID15""}",,,,,,,,,,,,,,,
+608_Q16,"But you're so young to be on all this medication! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""608_QID16_TEXT""}",,,,,,,,,,,,,,,
+609_Q14,"Have you tried advil or tylenol? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""609_QID14""}",,,,,,,,,,,,,,,
+609_Q15,"Have you tried advil or tylenol? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""609_QID15""}",,,,,,,,,,,,,,,
+609_Q16,"Have you tried advil or tylenol? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""609_QID16_TEXT""}",,,,,,,,,,,,,,,
+610_Q14,"You can obviously hear, you're just pretending to be deaf. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""610_QID14""}",,,,,,,,,,,,,,,
+610_Q15,"You can obviously hear, you're just pretending to be deaf. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""610_QID15""}",,,,,,,,,,,,,,,
+610_Q16,"You can obviously hear, you're just pretending to be deaf. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""610_QID16_TEXT""}",,,,,,,,,,,,,,,
+611_Q14,"You are muteboxes. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""611_QID14""}",,,,,,,,,,,,,,,
+611_Q15,"You are muteboxes. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""611_QID15""}",,,,,,,,,,,,,,,
+611_Q16,"You are muteboxes. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""611_QID16_TEXT""}",,,,,,,,,,,,,,,
+612_Q14,"It's so funny when you flap your hands. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""612_QID14""}",,,,,,,,,,,,,,,
+612_Q15,"It's so funny when you flap your hands. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""612_QID15""}",,,,,,,,,,,,,,,
+612_Q16,"It's so funny when you flap your hands. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""612_QID16_TEXT""}",,,,,,,,,,,,,,,
+613_Q14,"Oh so you're like Helen Keller? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""613_QID14""}",,,,,,,,,,,,,,,
+613_Q15,"Oh so you're like Helen Keller? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""613_QID15""}",,,,,,,,,,,,,,,
+613_Q16,"Oh so you're like Helen Keller? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""613_QID16_TEXT""}",,,,,,,,,,,,,,,
+614_Q14,"Depression is not a disability. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""614_QID14""}",,,,,,,,,,,,,,,
+614_Q15,"Depression is not a disability. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""614_QID15""}",,,,,,,,,,,,,,,
+614_Q16,"Depression is not a disability. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""614_QID16_TEXT""}",,,,,,,,,,,,,,,
+615_Q14,"If you want to be happy, you just have to train your mind to be happy. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""615_QID14""}",,,,,,,,,,,,,,,
+615_Q15,"If you want to be happy, you just have to train your mind to be happy. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""615_QID15""}",,,,,,,,,,,,,,,
+615_Q16,"If you want to be happy, you just have to train your mind to be happy. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""615_QID16_TEXT""}",,,,,,,,,,,,,,,
+616_Q14,"Well you need to leave that at home and not bring it to work. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""616_QID14""}",,,,,,,,,,,,,,,
+616_Q15,"Well you need to leave that at home and not bring it to work. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""616_QID15""}",,,,,,,,,,,,,,,
+616_Q16,"Well you need to leave that at home and not bring it to work. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""616_QID16_TEXT""}",,,,,,,,,,,,,,,
+617_Q14,"I guess they make a pill for everything these days. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""617_QID14""}",,,,,,,,,,,,,,,
+617_Q15,"I guess they make a pill for everything these days. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""617_QID15""}",,,,,,,,,,,,,,,
+617_Q16,"I guess they make a pill for everything these days. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""617_QID16_TEXT""}",,,,,,,,,,,,,,,
+618_Q14,"Wow you're so brave for living with a disability. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""618_QID14""}",,,,,6,,,4,,,7,,,4,6
+618_Q15,"Wow you're so brave for living with a disability. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""618_QID15""}",,,,,6,,,7,,,8,,,6,8
+618_Q16,"Wow you're so brave for living with a disability. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""618_QID16_TEXT""}",,,,,This comment is slightly abilist as it is most likely demeaning to the person it references.,,,"It serves to turn someone with a disability into an ""other"" and make it seem like they are doing something amazing just by existing. Anyone can be born with a disability and they just want to live their life. To say that their existence is brave almost implies that they should have just given up or found life to not be worth living with a disability. ",,,"It may come off as condescending or patronizing to someone with a disability. Living with a disability is not something someone chooses to do and that doesn't mean that some one who is able bodied can use them as inspiration for being ""healthy"" or to make themselves feel good about not being disabled themselves. If it's not intentionally malicious, at the very least it's ignorant.",,,"While not overtly ableist, it is condescending to say this comment to someone with a disability. It comes off as rude, and offensive. ","I believe this comment can be considered ableist because the commenter seems to mean well, but doesn’t quite understand that the person with the disability doesn’t really have a choice in being disabled or not. So saying that they are “brave” can kind of be a slap in the face to the disabled who didn’t have a say in how they lived their life disabled or not. It also emphasizes how this commenter views disabled people as having it “harder” than everyone else, when really, it’s just that they are different. There’s not necessarily “harder” and “easier” in my opinion. "
+619_Q14,"It's amazing how positive you are! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""619_QID14""}",,,,,,,,,,,,,,,
+619_Q15,"It's amazing how positive you are! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""619_QID15""}",,,,,,,,,,,,,,,
+619_Q16,"It's amazing how positive you are! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""619_QID16_TEXT""}",,,,,,,,,,,,,,,
+620_Q14,"It's great that you have a partner, even though you're disabled. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""620_QID14""}",,,,,,9,,,,7,9,9,,7,
+620_Q15,"It's great that you have a partner, even though you're disabled. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""620_QID15""}",,,,,,9,,,,8,10,10,,6,
+620_Q16,"It's great that you have a partner, even though you're disabled. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""620_QID16_TEXT""}",,,,,,"It assumes that disabled people are ""undesirable"" when it takes the tone of surprise that a disabled person can also have a partner. There is an implication that disabled people are romantically unattractive.",,,,"I would say that it's being ableist, it's putting in a negative stereotype that someone that's disabled may have a harder time or can't get a partner, it's basically a backhanded compliment, telling them that they're less likely to find a partner due to their disability.","It's ableist because it's assuming that because someone is disabled they can't find love, which is a negative stereotype and a misconception.",Dehumanizing to person as if they dont deserve a partner or disabled people cant date,,This comment is disrespectful towards the disabled person. They make it sound as if being disabled prohibits someone from finding a partner. And is projecting negative connotations with having disabilities. ,
+621_Q14,"I pray that God takes away your wheelchair forever! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""621_QID14""}",,,,,6,,,7,,,7,8,6,,
+621_Q15,"I pray that God takes away your wheelchair forever! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""621_QID15""}",,,,,7,,,8,,,8,8,7,,
+621_Q16,"I pray that God takes away your wheelchair forever! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""621_QID16_TEXT""}",,,,,This is definitely ableist even though the poster most likely has good intent. The view of the persons need for a wheelchair should be viewed as a negative.,,,It implies that living in a wheelchair is something horrible and debilitating instead of a helpful way for someone to get around. It's also rude and infantalizing to say you're going to pray for someone if they didn't ask for it. We don't know how this person feels about their wheelchair or whether they see it as a bad thing or not. It takes away the person's own agency. ,,,It's ableist because it's making assumptions about 1) the person's faith and 2) that this person even wishes for a life without using a wheelchair. Maybe they are perfectly happy with how their lives are or maybe they aren't but it's best not to assume.,maybe they meant that they hope god makes them able to walk/not need a wheelchair anymore? either way comes off mean hearted and makes wheelchair seem evil. otherwise extremely rude to person in wheelchair,"Upon first reading this comment, it sounds really rude because I took it as someone making fun of a person with wheelchair. Upon putting some thought into it, this comment could also have positive meaning, where the writer maybe hopes that the person with the wheelchair heals and eventually no longer would need the wheelchair. Overall a mixed comment which leans more towards the ableist side in my opinion.",,
+622_Q14,"Wow, you are so lucky that the government helped you get a job. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""622_QID14""}",,,,,,,,,,,,,,,
+622_Q15,"Wow, you are so lucky that the government helped you get a job. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""622_QID15""}",,,,,,,,,,,,,,,
+622_Q16,"Wow, you are so lucky that the government helped you get a job. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""622_QID16_TEXT""}",,,,,,,,,,,,,,,
+623_Q14,"I would kill myself if I was disabled like you. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""623_QID14""}",,,,,,,,,,,,,,,
+623_Q15,"I would kill myself if I was disabled like you. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""623_QID15""}",,,,,,,,,,,,,,,
+623_Q16,"I would kill myself if I was disabled like you. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""623_QID16_TEXT""}",,,,,,,,,,,,,,,
+624_Q14,"If disabled people don't reproduce, then disability will disappear. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""624_QID14""}",,,,,,,,,,,,,,,
+624_Q15,"If disabled people don't reproduce, then disability will disappear. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""624_QID15""}",,,,,,,,,,,,,,,
+624_Q16,"If disabled people don't reproduce, then disability will disappear. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""624_QID16_TEXT""}",,,,,,,,,,,,,,,
+625_Q14,"What is wrong with you? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""625_QID14""}",,,,,,,,,,,,,,,
+625_Q15,"What is wrong with you? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""625_QID15""}",,,,,,,,,,,,,,,
+625_Q16,"What is wrong with you? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""625_QID16_TEXT""}",,,,,,,,,,,,,,,
+626_Q14,"Awww you get to have your very own ‘fault in our stars’ romance! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""626_QID14""}",,,,,,,,,,,,,,,
+626_Q15,"Awww you get to have your very own ‘fault in our stars’ romance! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""626_QID15""}",,,,,,,,,,,,,,,
+626_Q16,"Awww you get to have your very own ‘fault in our stars’ romance! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""626_QID16_TEXT""}",,,,,,,,,,,,,,,
+627_Q14,"Does your reproductive system work properly? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""627_QID14""}",,,,,7,,,,4,1,,,,4,3
+627_Q15,"Does your reproductive system work properly? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""627_QID15""}",,,,,9,,,,3,1,,,,3,3
+627_Q16,"Does your reproductive system work properly? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""627_QID16_TEXT""}",,,,,"This is not appropriate for social media, especially in regard to a post about someone's disability so it is definitely inconsiderate and ableist. ",,,,"This would be a question from a friend, and only from a friend.  Otherwise it's intrusive.","I wouldn't categorize this as ableist, to me, it's a genuine question, the person may be genuinely curious if their reproductive system works properly despite their disability, (If they have one.)",,,,"While an inappropriate question to ask a stranger on the internet, without further context, I don't see this comment as ableist. ","I believe that this question (like any question) can have underlying motives for the reason it’s asked that can change the tone of the question. I am thinking in this way that someone is just curious (because of how straightforward the question is worded), and the person with the disability can use this opportunity to educate and explain this if they are comfortable. I only see it as toxic or “ableist” if someone makes fun or is hateful to someone who cannot function regularly reproductively due to their disability or “rub it in their face”."
+628_Q14,"Are you sure your partner loves you? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""628_QID14""}",,,,,,,,,,,,,,,
+628_Q15,"Are you sure your partner loves you? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""628_QID15""}",,,,,,,,,,,,,,,
+628_Q16,"Are you sure your partner loves you? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""628_QID16_TEXT""}",,,,,,,,,,,,,,,
+629_Q14,"You should learn to be happy for other people. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""629_QID14""}",,,,,,,,,,,,,,,
+629_Q15,"You should learn to be happy for other people. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""629_QID15""}",,,,,,,,,,,,,,,
+629_Q16,"You should learn to be happy for other people. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""629_QID16_TEXT""}",,,,,,,,,,,,,,,
+630_Q14,"You are the r-word. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""630_QID14""}",,,,,,,,,,,,,,,
+630_Q15,"You are the r-word. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""630_QID15""}",,,,,,,,,,,,,,,
+630_Q16,"You are the r-word. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""630_QID16_TEXT""}",,,,,,,,,,,,,,,
+631_Q14,"If you were vegan, you wouldn't be disabled. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""631_QID14""}",,,,,,9,,,,5,10,,8,,10
+631_Q15,"If you were vegan, you wouldn't be disabled. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""631_QID15""}",,,,,,9,,,,8,10,,9,,7
+631_Q16,"If you were vegan, you wouldn't be disabled. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""631_QID16_TEXT""}",,,,,,"This statement is ableist because it assumes that this disability is something that could be in one's control (""you just aren't making the right decisions""). It's also an extremely toxic example, because the negative judgment is explicit rather than implicit.",,,,"There is no controlling certain disabilities, and to dumb it down and say that vegan can magically cure someone's disability is absolutely ableist, it is not that simple, and it's disrespectful to make it seem like its as easy as changing your diet.",It's ableist because they are making up reasons why someone is disabled. Being vegan and able bodied are not mutually exclusive. Doesn't make any sense.,,"This comment is ableist because it is judging a person's eating habits, and claiming that that is the reason for their disability. I am sure that eating meat does not cause disabilities, and I know for a fact that becoming a vegan would not cure the disability.",,"I do not believe this comment is “ableist” (although it is toxic) because they’re basing their reasoning for the person being disabled off of if they eat meat or not which just doesn’t make sense. I’m not even sure if there is any scientific reasoning or support behind that. Just flat out incompetent, and just hate because the person with the disability does not follow the same dietary beliefs that the commenter does. "
+632_Q14,"If I see another disabled person, I will use all my weapons. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""632_QID14""}",,,,,,,,,,,,,,,
+632_Q15,"If I see another disabled person, I will use all my weapons. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""632_QID15""}",,,,,,,,,,,,,,,
+632_Q16,"If I see another disabled person, I will use all my weapons. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""632_QID16_TEXT""}",,,,,,,,,,,,,,,
+633_Q14,"All people with disabilities are defective. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""633_QID14""}",,,,,,,,,,,,,,,
+633_Q15,"All people with disabilities are defective. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""633_QID15""}",,,,,,,,,,,,,,,
+633_Q16,"All people with disabilities are defective. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""633_QID16_TEXT""}",,,,,,,,,,,,,,,
+634_Q14,"Disabled people are selfish because they want to be protected. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""634_QID14""}",,,,,,,,,,,,,,,
+634_Q15,"Disabled people are selfish because they want to be protected. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""634_QID15""}",,,,,,,,,,,,,,,
+634_Q16,"Disabled people are selfish because they want to be protected. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""634_QID16_TEXT""}",,,,,,,,,,,,,,,
+635_Q14,"It would be very hard to date you. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""635_QID14""}",,,,,,,,,,,,,,,
+635_Q15,"It would be very hard to date you. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""635_QID15""}",,,,,,,,,,,,,,,
+635_Q16,"It would be very hard to date you. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""635_QID16_TEXT""}",,,,,,,,,,,,,,,
+636_Q14,"You need to stay home forever. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""636_QID14""}",,,,,,,,,,,,,,,
+636_Q15,"You need to stay home forever. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""636_QID15""}",,,,,,,,,,,,,,,
+636_Q16,"You need to stay home forever. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""636_QID16_TEXT""}",,,,,,,,,,,,,,,
+637_Q14,"I'll try to find where you are and cough into your mailbox. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""637_QID14""}",,,,,,,,,,,,,,,
+637_Q15,"I'll try to find where you are and cough into your mailbox. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""637_QID15""}",,,,,,,,,,,,,,,
+637_Q16,"I'll try to find where you are and cough into your mailbox. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""637_QID16_TEXT""}",,,,,,,,,,,,,,,
+638_Q14,"Your life is just suffering. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""638_QID14""}",,,,,,,,,,,,,,,
+638_Q15,"Your life is just suffering. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""638_QID15""}",,,,,,,,,,,,,,,
+638_Q16,"Your life is just suffering. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""638_QID16_TEXT""}",,,,,,,,,,,,,,,
+639_Q14,"It's survival of the fittest. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""639_QID14""}",,,,,,,,,,,,,,,
+639_Q15,"It's survival of the fittest. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""639_QID15""}",,,,,,,,,,,,,,,
+639_Q16,"It's survival of the fittest. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""639_QID16_TEXT""}",,,,,,,,,,,,,,,
+640_Q14,"I don't think some disabled people should reproduce, it's very selfish. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""640_QID14""}",,,,,,,,,,,,,,,
+640_Q15,"I don't think some disabled people should reproduce, it's very selfish. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""640_QID15""}",,,,,,,,,,,,,,,
+640_Q16,"I don't think some disabled people should reproduce, it's very selfish. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""640_QID16_TEXT""}",,,,,,,,,,,,,,,
+641_Q14,"Aww, I feel so bad for your children. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""641_QID14""}",,,,,,,,,,,,,,,
+641_Q15,"Aww, I feel so bad for your children. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""641_QID15""}",,,,,,,,,,,,,,,
+641_Q16,"Aww, I feel so bad for your children. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""641_QID16_TEXT""}",,,,,,,,,,,,,,,
+642_Q14,"Are you sure you're not just doing this for attention? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""642_QID14""}",,,,,,,,,,,,,,,
+642_Q15,"Are you sure you're not just doing this for attention? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""642_QID15""}",,,,,,,,,,,,,,,
+642_Q16,"Are you sure you're not just doing this for attention? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""642_QID16_TEXT""}",,,,,,,,,,,,,,,
+643_Q14,"You can manage to set up a tent at a farmer's market, and yet you say you have a disability, fake a** people. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""643_QID14""}",,,,,,,,,,,,,,,
+643_Q15,"You can manage to set up a tent at a farmer's market, and yet you say you have a disability, fake a** people. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""643_QID15""}",,,,,,,,,,,,,,,
+643_Q16,"You can manage to set up a tent at a farmer's market, and yet you say you have a disability, fake a** people. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""643_QID16_TEXT""}",,,,,,,,,,,,,,,
+644_Q14,"The world isn't going to change for you, you need to stop being sensitive. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""644_QID14""}",,,,,,,,,,,,,,,
+644_Q15,"The world isn't going to change for you, you need to stop being sensitive. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""644_QID15""}",,,,,,,,,,,,,,,
+644_Q16,"The world isn't going to change for you, you need to stop being sensitive. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""644_QID16_TEXT""}",,,,,,,,,,,,,,,
+645_Q14,"Don't let your disability define you! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""645_QID14""}",,,,,,,,,,,,,,,
+645_Q15,"Don't let your disability define you! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""645_QID15""}",,,,,,,,,,,,,,,
+645_Q16,"Don't let your disability define you! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""645_QID16_TEXT""}",,,,,,,,,,,,,,,
+646_Q14,"Remember, some people in the world have it worse than you. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""646_QID14""}",,,,,,,,,,,,,,,
+646_Q15,"Remember, some people in the world have it worse than you. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""646_QID15""}",,,,,,,,,,,,,,,
+646_Q16,"Remember, some people in the world have it worse than you. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""646_QID16_TEXT""}",,,,,,,,,,,,,,,
+647_Q14,"You shouldn't let your disability hold you back. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""647_QID14""}",,,,,,,,,,,,,,,
+647_Q15,"You shouldn't let your disability hold you back. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""647_QID15""}",,,,,,,,,,,,,,,
+647_Q16,"You shouldn't let your disability hold you back. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""647_QID16_TEXT""}",,,,,,,,,,,,,,,
+648_Q14,"You should be content with what you have. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""648_QID14""}",,,,,,,,,,,,,,,
+648_Q15,"You should be content with what you have. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""648_QID15""}",,,,,,,,,,,,,,,
+648_Q16,"You should be content with what you have. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""648_QID16_TEXT""}",,,,,,,,,,,,,,,
+649_Q14,"I attended a charity for your disability once, it was very motivating. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""649_QID14""}",,,,,,,,,,,,,,,
+649_Q15,"I attended a charity for your disability once, it was very motivating. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""649_QID15""}",,,,,,,,,,,,,,,
+649_Q16,"I attended a charity for your disability once, it was very motivating. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""649_QID16_TEXT""}",,,,,,,,,,,,,,,
+650_Q14,"You just need to find some devotees to love you. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""650_QID14""}",,,,,,,,,,,,,,,
+650_Q15,"You just need to find some devotees to love you. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""650_QID15""}",,,,,,,,,,,,,,,
+650_Q16,"You just need to find some devotees to love you. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""650_QID16_TEXT""}",,,,,,,,,,,,,,,
+651_Q14,"If you work hard in school, you could even be a Walmart greeter one day! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""651_QID14""}",,,,,,,,,,,,,,,
+651_Q15,"If you work hard in school, you could even be a Walmart greeter one day! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""651_QID15""}",,,,,,,,,,,,,,,
+651_Q16,"If you work hard in school, you could even be a Walmart greeter one day! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""651_QID16_TEXT""}",,,,,,,,,,,,,,,
+652_Q14,"You just need to exercise and eat more protein. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""652_QID14""}",,,,,,,,,,,,,,,
+652_Q15,"You just need to exercise and eat more protein. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""652_QID15""}",,,,,,,,,,,,,,,
+652_Q16,"You just need to exercise and eat more protein. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""652_QID16_TEXT""}",,,,,,,,,,,,,,,
+653_Q14,"There's a difference between being dyslexic and not knowing grammar. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""653_QID14""}",,,,,,,,,,,,,,,
+653_Q15,"There's a difference between being dyslexic and not knowing grammar. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""653_QID15""}",,,,,,,,,,,,,,,
+653_Q16,"There's a difference between being dyslexic and not knowing grammar. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""653_QID16_TEXT""}",,,,,,,,,,,,,,,
+654_Q14,"So... you have a mental capacity of a 10 year old? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""654_QID14""}",,,,,,,,,,,,,,,
+654_Q15,"So... you have a mental capacity of a 10 year old? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""654_QID15""}",,,,,,,,,,,,,,,
+654_Q16,"So... you have a mental capacity of a 10 year old? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""654_QID16_TEXT""}",,,,,,,,,,,,,,,
+655_Q14,"It's not fair to other kids that you get extra time for your exam. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""655_QID14""}",,,,,,,,,,,,,,,
+655_Q15,"It's not fair to other kids that you get extra time for your exam. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""655_QID15""}",,,,,,,,,,,,,,,
+655_Q16,"It's not fair to other kids that you get extra time for your exam. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""655_QID16_TEXT""}",,,,,,,,,,,,,,,
+656_Q14,"You're not going to succeed in STEM with dyscalculia. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""656_QID14""}",,,,,,,,,,,,,,,
+656_Q15,"You're not going to succeed in STEM with dyscalculia. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""656_QID15""}",,,,,,,,,,,,,,,
+656_Q16,"You're not going to succeed in STEM with dyscalculia. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""656_QID16_TEXT""}",,,,,,,,,,,,,,,
+657_Q14,"I'm shocked you can't solve something so simple. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""657_QID14""}",,,,,,,,,,,,,,,
+657_Q15,"I'm shocked you can't solve something so simple. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""657_QID15""}",,,,,,,,,,,,,,,
+657_Q16,"I'm shocked you can't solve something so simple. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""657_QID16_TEXT""}",,,,,,,,,,,,,,,
+658_Q14,"You are not smart because you're on a wheelchair. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""658_QID14""}",,,,,,,,,,,,,,,
+658_Q15,"You are not smart because you're on a wheelchair. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""658_QID15""}",,,,,,,,,,,,,,,
+658_Q16,"You are not smart because you're on a wheelchair. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""658_QID16_TEXT""}",,,,,,,,,,,,,,,
+659_Q14,"You should wear something that covers your body more. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""659_QID14""}",,,,,,,,,,,,,,,
+659_Q15,"You should wear something that covers your body more. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""659_QID15""}",,,,,,,,,,,,,,,
+659_Q16,"You should wear something that covers your body more. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""659_QID16_TEXT""}",,,,,,,,,,,,,,,
+660_Q14,"How do you pee if you're on a wheelchair? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""660_QID14""}",,,,,,,,,,,,,,,
+660_Q15,"How do you pee if you're on a wheelchair? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""660_QID15""}",,,,,,,,,,,,,,,
+660_Q16,"How do you pee if you're on a wheelchair? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""660_QID16_TEXT""}",,,,,,,,,,,,,,,
+661_Q14,"Does being physically disabled also make you dumb? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""661_QID14""}",,,,,,,,,,,,,,,
+661_Q15,"Does being physically disabled also make you dumb? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""661_QID15""}",,,,,,,,,,,,,,,
+661_Q16,"Does being physically disabled also make you dumb? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""661_QID16_TEXT""}",,,,,,,,,,,,,,,
+662_Q14,"Life is not worth living if you can't walk. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""662_QID14""}",,,,,,,,,,,,,,,
+662_Q15,"Life is not worth living if you can't walk. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""662_QID15""}",,,,,,,,,,,,,,,
+662_Q16,"Life is not worth living if you can't walk. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""662_QID16_TEXT""}",,,,,,,,,,,,,,,
+663_Q14,"Can we get a picture without the wheelchair? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""663_QID14""}",,,,,,,,,,,,,,,
+663_Q15,"Can we get a picture without the wheelchair? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""663_QID15""}",,,,,,,,,,,,,,,
+663_Q16,"Can we get a picture without the wheelchair? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""663_QID16_TEXT""}",,,,,,,,,,,,,,,
+664_Q14,"Your prosthetic leg is so hot. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""664_QID14""}",,,,,,,,,,,,,,,
+664_Q15,"Your prosthetic leg is so hot. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""664_QID15""}",,,,,,,,,,,,,,,
+664_Q16,"Your prosthetic leg is so hot. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""664_QID16_TEXT""}",,,,,,,,,,,,,,,
+665_Q14,"I don't think people who say hewwo should be allowed to vote because they are not mature enough. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""665_QID14""}",,,,,,,,,,,,,,,
+665_Q15,"I don't think people who say hewwo should be allowed to vote because they are not mature enough. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""665_QID15""}",,,,,,,,,,,,,,,
+665_Q16,"I don't think people who say hewwo should be allowed to vote because they are not mature enough. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""665_QID16_TEXT""}",,,,,,,,,,,,,,,
+666_Q14,"You can get disability tax credit if you stutter. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""666_QID14""}",,,,,,,,,,,,,,,
+666_Q15,"You can get disability tax credit if you stutter. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""666_QID15""}",,,,,,,,,,,,,,,
+666_Q16,"You can get disability tax credit if you stutter. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""666_QID16_TEXT""}",,,,,,,,,,,,,,,
+667_Q14,"You don't have a speech problem, you just lack self-esteem. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""667_QID14""}",,,,,,10,,,7,10,,10,6,,
+667_Q15,"You don't have a speech problem, you just lack self-esteem. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""667_QID15""}",,,,,,10,,,6,10,,10,8,,
+667_Q16,"You don't have a speech problem, you just lack self-esteem. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""667_QID16_TEXT""}",,,,,,"This is ableist because it denies the existence of an entire category of speech disabilities. The implication is that this speech problem is their fault, not a disability that is entirely outside of their control.",,,"Anyone who's seen ""The King's Speech"" knows that such comments are utterly unhelpful.","This is telling someone that their disability, which they're diagnosed with, isn't effecting their speech, and it's all due to their lack of self esteem, completely playing down the severity of their condition, and placing it on something that can be controllable.",,"Extremely rude, and as if the commenter knows better than the actual person with the disability","This comment is ableist because the person who this comment is written to most likely has some sort of speech problem as their disability, but the writer is disregarding it and saying that it's just a self-esteem issue. The disabled person could find this rude because their disability is mistaken for low self-esteem.",,
+668_Q14,"I read that most serial killers have speech disfluencies which makes them violent. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""668_QID14""}",,,,,,,,,,,,,,,
+668_Q15,"I read that most serial killers have speech disfluencies which makes them violent. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""668_QID15""}",,,,,,,,,,,,,,,
+668_Q16,"I read that most serial killers have speech disfluencies which makes them violent. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""668_QID16_TEXT""}",,,,,,,,,,,,,,,
+669_Q14,"We need to consider the needs of disabled folks in our urban planning - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""669_QID14""}",,,,,,,,,,,,,,,
+669_Q15,"We need to consider the needs of disabled folks in our urban planning - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""669_QID15""}",,,,,,,,,,,,,,,
+669_Q16,"We need to consider the needs of disabled folks in our urban planning - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""669_QID16_TEXT""}",,,,,,,,,,,,,,,
+670_Q14,"How can I accomodate your needs during the event? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""670_QID14""}",,,,,,,,,,,,,,,
+670_Q15,"How can I accomodate your needs during the event? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""670_QID15""}",,,,,,,,,,,,,,,
+670_Q16,"How can I accomodate your needs during the event? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""670_QID16_TEXT""}",,,,,,,,,,,,,,,
+671_Q14,"Let me know if you need help! - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""671_QID14""}",,,,,,,,,,,,,,,
+671_Q15,"Let me know if you need help! - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""671_QID15""}",,,,,,,,,,,,,,,
+671_Q16,"Let me know if you need help! - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""671_QID16_TEXT""}",,,,,,,,,,,,,,,
+672_Q14,"I'm sorry that my website doesn't have alt-text, I will add this asap. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""672_QID14""}",,,,,,,,,,,,,,,
+672_Q15,"I'm sorry that my website doesn't have alt-text, I will add this asap. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""672_QID15""}",,,,,,,,,,,,,,,
+672_Q16,"I'm sorry that my website doesn't have alt-text, I will add this asap. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""672_QID16_TEXT""}",,,,,,,,,,,,,,,
+673_Q14,"Aww your service dog is so cute, but also looks like it could pack a strong bite. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""673_QID14""}",,,,,2,,,3,1,,,5,4,,
+673_Q15,"Aww your service dog is so cute, but also looks like it could pack a strong bite. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""673_QID15""}",,,,,3,,,3,1,,,6,1,,
+673_Q16,"Aww your service dog is so cute, but also looks like it could pack a strong bite. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""673_QID16_TEXT""}",,,,,I dont think this to be ableist as long as the person is being respectful and kind. ,,,"I think it's a bit uncalled for to comment on someone's service animal who is there to serve a medical purpose. They are not an accessory to be cute. However I don't see this as especially toxic because they are not implying the service dog is good or bad or anything about the person's condition, even though it is a bit inappropriate to feel the need to comment on it. ",The service dog in question might be a German Shepherd or a Rottweiler.,,,"not sure, seems like it would be kind of uncomfortable for person tho","This comment is not ableist because the person who wrote the comment is just saying that someone's service dog seems mean. They don't make any rude comment towards the person with the service dog, they only make a comment about the dog's appearance.",,
+674_Q14,"Reddit is so toxic sometimes. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""674_QID14""}",,,,,,,,,,,,,,,
+674_Q15,"Reddit is so toxic sometimes. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""674_QID15""}",,,,,,,,,,,,,,,
+674_Q16,"Reddit is so toxic sometimes. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""674_QID16_TEXT""}",,,,,,,,,,,,,,,
+675_Q14,"Why don't you eat chocolate if you like it so much? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""675_QID14""}",,,,,,,,,,,,,,,
+675_Q15,"Why don't you eat chocolate if you like it so much? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""675_QID15""}",,,,,,,,,,,,,,,
+675_Q16,"Why don't you eat chocolate if you like it so much? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""675_QID16_TEXT""}",,,,,,,,,,,,,,,
+676_Q14,"I get hyperfocused on the things I'm interested in. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""676_QID14""}",,,,,,,,,,,,,,,
+676_Q15,"I get hyperfocused on the things I'm interested in. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""676_QID15""}",,,,,,,,,,,,,,,
+676_Q16,"I get hyperfocused on the things I'm interested in. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""676_QID16_TEXT""}",,,,,,,,,,,,,,,
+677_Q14,"Why is the peach emoji so weird lol - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""677_QID14""}",,,,,,,,,,,,,,,
+677_Q15,"Why is the peach emoji so weird lol - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""677_QID15""}",,,,,,,,,,,,,,,
+677_Q16,"Why is the peach emoji so weird lol - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""677_QID16_TEXT""}",,,,,,,,,,,,,,,
+678_Q14,"Do you have time to help me or are you hyper focusing right now? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""678_QID14""}",,,,,,,,,,,,,,,
+678_Q15,"Do you have time to help me or are you hyper focusing right now? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""678_QID15""}",,,,,,,,,,,,,,,
+678_Q16,"Do you have time to help me or are you hyper focusing right now? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""678_QID16_TEXT""}",,,,,,,,,,,,,,,
+679_Q14,"I could never afford to be a stoner, problems of broke people - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""679_QID14""}",,,,,,,,,,,,,,,
+679_Q15,"I could never afford to be a stoner, problems of broke people - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""679_QID15""}",,,,,,,,,,,,,,,
+679_Q16,"I could never afford to be a stoner, problems of broke people - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""679_QID16_TEXT""}",,,,,,,,,,,,,,,
+680_Q14,"Cochlear implants were an amazing game changer for me. - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""680_QID14""}",,,,,,,,,,,,,,,
+680_Q15,"Cochlear implants were an amazing game changer for me. - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""680_QID15""}",,,,,,,,,,,,,,,
+680_Q16,"Cochlear implants were an amazing game changer for me. - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""680_QID16_TEXT""}",,,,,,,,,,,,,,,
+681_Q14,"these new instagram features are confusing the shit out of me - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""681_QID14""}",,,,,4,,,1,,,3,,,2,1
+681_Q15,"these new instagram features are confusing the shit out of me - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""681_QID15""}",,,,,1,,,1,,,1,,,1,1
+681_Q16,"these new instagram features are confusing the shit out of me - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""681_QID16_TEXT""}",,,,,I don't believe this to be abilist as I do not recognize any of the speech to come from a place of malintent or harmful speech. ,,,"I can imagine people will say it's insensitive to those with cognitive disabilities or who struggle with comprehension. But I don't believe this comment does that unless you really twist it to be in bad faith, which it doesn't seem like it is. The person is only talking about their own experience and criticizing Instagram. ",,,This is just using flagrant speech to emphasize how little this person can't figure out how to use the new instagram features. It's not directed towards anyone or group of people.,,,"Not ableist, as it doesn't reference anyone specifically. They commenter is just stating their confusion with a service. ","No, it is describing a feature of the social media platform not of a particular person. Unrelated."
+682_Q14,"that haircut looks so bad, but I don't want to dismiss your friends feelings - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""682_QID14""}",,,,,,,,,,,,,,,
+682_Q15,"that haircut looks so bad, but I don't want to dismiss your friends feelings - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""682_QID15""}",,,,,,,,,,,,,,,
+682_Q16,"that haircut looks so bad, but I don't want to dismiss your friends feelings - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""682_QID16_TEXT""}",,,,,,,,,,,,,,,
+683_Q14,"Do you need closed captioning? - How toxic is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment creates a hostile or negative environment.","{""ImportId"":""683_QID14""}",,,,,,,,,,,,,,,
+683_Q15,"Do you need closed captioning? - How ableist is this statement? (from 1 to 10, 1 is not at all and 10 is extremely)
+
+This refers to how this comment carries discriminatory attitudes, misconceptions, and negative stereotypes towards people with disabilities.","{""ImportId"":""683_QID15""}",,,,,,,,,,,,,,,
+683_Q16,"Do you need closed captioning? - Why is this comment ableist? Or why not? 
+
+Please explain as though you are explaining to someone who is unfamiliar with ableism. You can be as candid, blunt, and elaborate as you'd like.","{""ImportId"":""683_QID16_TEXT""}",,,,,,,,,,,,,,,
+Q59,"Thank you for taking part in this short study! We deeply appreciate it.
+
+Do you have any additional comments or thoughts about ableist speech?","{""ImportId"":""QID59_TEXT""}",,,,,,"I think that ableist speech is rampant online, and many ableist comments are made by those who are very young and therefore lack some empathy or others who simply hate themselves and take it out on other people. ",,"I think it's important to be cognizant of how our words have meaning and can be offensive or paint people with disabilities in a certain stereotypical way. I also think people should be gracious in understanding if others aren't trying to be mean spirited and they may just not know about ableism or why their comment could be phrased in a better way, or not at all. ",,,,Lots of words embedded in our language are also important to think about,I notice a lot of ableist speech on social media. There needs to be more inclusion and awareness for people with disabilities.,,
+PROLIFIC_PID,PROLIFIC_PID,"{""ImportId"":""PROLIFIC_PID""}",,,,60fcddd3e16cd93f2581ef0f,60fcddd3e16cd93f2581ef0f,65e7bb5a7357ea00136b0270,599bf0606c165e000113fe27,5e79352ea4d7d30d65532c51,5e667f3bc3f30a4050fc8f2f,62f975cbc3507ecf77180d00,6646a831a9841d3efd718f09,61fa93245719bc09cb834c04,5e83d40c2598d412c836b579,652e93aab0ce46b3f6afccbf,6650dad8cec5c25f4271d4ec

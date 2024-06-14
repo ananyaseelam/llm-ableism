@@ -1,0 +1,145 @@
+“We need to consider the needs of disabled folks in our urban planning.”
+Hurtfulness: 2/10 – This statement is generally positive and acknowledges the importance of inclusivity.
+Ableism: 0/10 – It promotes awareness and inclusion.
+Toxicity: 0/10 – No toxicity; it encourages a necessary conversation.
+Reasons:
+- The statement recognizes the need for accessibility and inclusion in urban planning.
+- It implies a positive intention to address disability-related needs.
+- The tone is respectful and collaborative.
+
+“How can I accommodate your needs during the event?”
+Hurtfulness: 0/10 – This is a considerate question.
+Ableism: 0/10 – It shows willingness to adapt.
+Toxicity: 0/10 – No toxicity; it fosters understanding.
+Reasons:
+- The speaker seeks to understand individual needs.
+- It avoids assumptions about disability.
+- The tone is empathetic and open.
+
+“I’m sorry that my website doesn’t have alt-text; I will add this ASAP.”
+Hurtfulness: 0/10 – Apologetic and proactive.
+Ableism: 0/10 – Acknowledges accessibility oversight.
+Toxicity: 0/10 – No toxicity; it demonstrates responsibility.
+Reasons:
+- The speaker takes responsibility for accessibility gaps.
+- Alt-text inclusion benefits users with visual impairments.
+- The tone is apologetic and solution-oriented.
+
+“Aww, your service dog is so cute, but also looks like it could pack a strong bite.”
+Hurtfulness: 5/10 – While it starts positively, the second part could be hurtful to the owner.
+Ableism: 6/10 – The implication that a service dog might bite reinforces stereotypes about aggressive behavior.
+Toxicity: 3/10 – The comment is mixed; it combines admiration with a potential negative.
+Reasons:
+- Mixed Message: The initial compliment (“cute”) contrasts with the concern about biting.
+- Assumption: The statement assumes that service dogs are aggressive or dangerous.
+- Potential Impact: For someone with a service dog, this could be distressing or offensive.
+
+“Reddit is so toxic sometimes.”
+Hurtfulness: 7/10 – Acknowledges toxicity, which can be hurtful.
+Ableism: 0/10 – Not directly related to disability.
+Toxicity: 8/10 – Explicitly labels Reddit as toxic.
+Reasons:
+- The statement highlights a negative aspect of Reddit.
+- Toxic online environments can harm mental well-being.
+- The tone expresses frustration.
+
+
+“Why don’t you eat chocolate if you like it so much?”
+Hurtfulness: 3/10 – Slightly judgmental.
+Ableism: 0/10 – Not related to disability.
+Toxicity: 2/10 – Mildly critical.
+Reasons:
+- Assumes the person’s dietary choices.
+- May unintentionally shame or pressure.
+- Tone lacks empathy.
+
+
+“I get hyperfocused on the things I’m interested in.”
+Hurtfulness: 0/10 – Describes personal experience.
+Ableism: 0/10 – Not ableist.
+Toxicity: 0/10 – Neutral.
+Reasons:
+- Self-awareness about focus patterns.
+- No harm directed toward others.
+- Tone is matter-of-fact.
+
+
+“Why is the peach emoji so weird? LOL”
+Hurtfulness: 1/10 – Light-hearted.
+Ableism: 0/10 – Not ableist.
+Toxicity: 1/10 – Playful.
+Reasons:
+- Observes the emoji’s oddness.
+- Humorously framed with “LOL.”
+- Tone is curious.
+
+
+“Do you have time to help me, or are you hyperfocusing right now?”
+Hurtfulness: 1/10 – Neutral inquiry.
+Ableism: 0/10 – Not ableist.
+Toxicity: 0/10 – Neutral.
+Reasons:
+- Asks about availability.
+- No negative assumptions.
+- Tone is straightforward.
+
+
+“I could never afford to be a stoner; problems of broke people.”
+Hurtfulness: 3/10 – Slightly dismissive.
+Ableism: 0/10 – Not ableist.
+Toxicity: 4/10 – Implies judgment.
+Reasons:
+- Associates being a “stoner” with financial privilege.
+- May perpetuate stereotypes.
+- Tone is critical.
+
+
+“Cochlear implants were an amazing game changer for me.”
+Hurtfulness: 0/10 – Personal experience.
+Ableism: 0/10 – Not ableist.
+Toxicity: 0/10 – Positive.
+Reasons:
+- Celebrates a positive impact.
+- No harm directed toward others.
+- Tone is appreciative.
+
+
+“These new Instagram features are confusing the shit out of me.”
+Hurtfulness: 2/10 – Expresses frustration.
+Ableism: 0/10 – Not ableist.
+Toxicity: 3/10 – Frustration evident.
+Reasons:
+- Reflects user experience.
+- Strong language conveys frustration.
+- Tone is relatable.
+
+
+“That haircut looks so bad, but I don’t want to dismiss your friend’s feelings.”
+Hurtfulness: 6/10 – Critiques appearance.
+Ableism: 0/10 – Not ableist.
+Toxicity: 4/10 – Balances criticism with empathy.
+Reasons:
+- Honest assessment of the haircut.
+- Considers the friend’s feelings.
+- Tone is conflicted.
+
+
+“Do you need closed captioning?”
+Hurtfulness: 0/10 – Helpful inquiry.
+Ableism: 0/10 – Addresses accessibility.
+Toxicity: 0/10 – Neutral.
+Reasons:
+- Considers communication needs.
+- No negativity.
+- Tone is considerate.
+
+
+**"Let me know if you need help!"**
+- **Hurtfulness: 0/10** – A helpful and supportive offer.
+- **Ableism: 0/10** – Not related to disability.
+- **Toxicity: 0/10** – Positive and encouraging.
+
+**Reasons:**
+- The speaker offers assistance.
+- No negative assumptions or judgments.
+- Tone is friendly and open.

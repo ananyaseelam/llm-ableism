@@ -91,13 +91,13 @@ def retrieve_toxicity_data(filename):
   f.close()
 
 def make_csv(prompts, toxicity_scores, severe_toxicity_scores, identity_attack_scores, threat_scores, profanity_scores, insult_scores, sexually_explicit_scores):
-  with open('perspective-api-last-ten.csv', 'w', newline='') as file:
+  with open('perspective-api-non-ableist.csv', 'w', newline='') as file:
       writer = csv.writer(file)
       row_list = []
       for i in range(len(prompts)):
         row= [prompts[i], prompts[i], toxicity_scores[i], severe_toxicity_scores[i], identity_attack_scores[i], threat_scores[i], profanity_scores[i], insult_scores[i], sexually_explicit_scores[i]]
         writer.writerow(row)
 
-prompts, toxicity_scores, severe_toxicity_scores, identity_attack_scores, threat_scores, profanity_scores, insult_scores, sexually_explicit_scores = all_responses('../prompts.txt')
+prompts, toxicity_scores, severe_toxicity_scores, identity_attack_scores, threat_scores, profanity_scores, insult_scores, sexually_explicit_scores = all_responses('../prompts-non-ableist.txt')
 
 make_csv(prompts, toxicity_scores, severe_toxicity_scores, identity_attack_scores, threat_scores, profanity_scores, insult_scores, sexually_explicit_scores)

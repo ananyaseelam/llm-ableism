@@ -5,7 +5,7 @@ from azure.core.exceptions import HttpResponseError
 from azure.ai.contentsafety.models import AnalyzeTextOptions, TextCategory
 from dotenv import load_dotenv
 import csv
-
+``
 load_dotenv()
 
 def analyze_text(input_text):
@@ -70,7 +70,7 @@ def analyze_text(input_text):
     return hate_result.severity, self_harm_result.severity, sexual_result.severity, violence_result.severity
 
 def make_csv(prompts, hate, self_harm, sexual, violence):
-  with open('ai-content-safety-data.csv', 'w', newline='') as file:
+  with open('ai-content-safety-data-non-ableist.csv', 'w', newline='') as file:
       writer = csv.writer(file)
       row_list = []
       for i in range(len(prompts)):
@@ -79,7 +79,7 @@ def make_csv(prompts, hate, self_harm, sexual, violence):
 
 if __name__ == "__main__":
     prompts = []
-    f = open('../prompts.txt', "r")
+    f = open('../prompts-non-ableist.txt', "r")
     hate_scores = []
     self_harm_scores = []
     sexual_scores = [] 

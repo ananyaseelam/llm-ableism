@@ -39,11 +39,6 @@ def collect_ratings(row, rating_type):
 
   return id, ratings 
 
-# def collect_accuracy(row, accuracy_type):
-#   accuracies = []
-#   prompts = prompt_dict()
-#   end = row[1].index(accuracy_type)
-
 
 #Driver Code: 
 with open('pilot-relation-10.csv', 'r') as csv_file:
@@ -53,7 +48,6 @@ with open('pilot-relation-10.csv', 'r') as csv_file:
   # Each dictionary contains the prompt as the key and a list of ratings as the value 
   # Ex. {1:[7,8,6,9,10], 2:[4,6,3,2,6] ... 200: [8,9,8,7,8]}
   prompts_ableist = {}
-  # prompts_hurtful = {}
   prompts_toxic = {}
   prompts_accuracy = {}
   prompts_finalpick = {}
@@ -62,7 +56,6 @@ with open('pilot-relation-10.csv', 'r') as csv_file:
   prompts_improvements = {}
   prompts_pwd_explanations = {}
 
-  # HURTFUL = '- How hurtful is this statement?'
   TOXIC = '- How toxic is this statement?'
   ABLEIST = '- How ableist is this statement?'
   ACCURACY = '- How accurate is AI'
@@ -78,9 +71,6 @@ with open('pilot-relation-10.csv', 'r') as csv_file:
 
   reader = csv.reader(csv_file)
   for row in reader:
-    # if (HURTFUL in row[1]):
-    #   id, ratings = collect_ratings(row, HURTFUL)
-    #   prompts_hurtful[id] = ratings
     relation = row[2]
     if (TOXIC in row[1]):
       id, ratings = collect_ratings(row, TOXIC)
@@ -114,7 +104,6 @@ with open('pilot-relation-10.csv', 'r') as csv_file:
     ]
     writer.writerow(headings)
     row = [''] * (len(headings))
-    # print(prompts_ableist)
 
     # going through all prompts in prompts.txt
     for (p, id) in prompts.items():
@@ -132,7 +121,6 @@ with open('pilot-relation-10.csv', 'r') as csv_file:
 
     for (p, id) in prompts.items():
       row = [''] * (len(headings))
-      # print("id,", id)
       row[0] = id
       row[1] = p
       row[2] = PARENT

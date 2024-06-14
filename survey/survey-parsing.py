@@ -6,7 +6,7 @@ import csv
 # csv file present in same directory 
 import os 
 
-INPUT = "90datapoints.csv"
+INPUT = "pwod-survey1.csv"
 
 # Delete output file if it alr exists
 file = 'survey-numerical.csv'
@@ -70,7 +70,7 @@ with open(INPUT, 'r') as csv_file:
   EXPLANATIONQUALITY = '- How well do these points explain and justify the ableism in the comment?'
   REASONING = '- Why? Please explain your choice in a few sentences.'
   IMPROVEMENT = '- How would you improve the explanation?'
-  PWDEXPLANATIONS = '- Why is this comment ableist? Please be as candid, blunt'
+  PWDEXPLANATIONS = '- Why is this comment ableist? Or why not?'
   
   reader = csv.reader(csv_file)
   for row in reader:
@@ -105,7 +105,6 @@ with open(INPUT, 'r') as csv_file:
     "PWD-TOXICITY-2", "PWD-TOXICITY-3", "PWD-TOXICITY-4","PWD-TOXICITY-5", "PWD-TOXICITY-6"]
     writer.writerow(headings)
     row = [''] * (len(headings))
-    print(prompts_ableist)
     # going through all prompts in prompts.txt
     for (p, id) in prompts.items():
       row = [''] * (len(headings))
@@ -155,7 +154,7 @@ with open(INPUT, 'r') as csv_file:
 
   with open('survey-explanations.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    headings = ["ID", "Prompt", "PWD-EXPLAIN-1", "PWD-EXPLAIN-2", "PWD-EXPLAIN-3", "PWD-EXPLAIN-4",  "PWD-EXPLAIN-5"]
+    headings = ["ID", "Prompt", "PWD-EXPLAIN-1", "PWD-EXPLAIN-2", "PWD-EXPLAIN-3", "PWD-EXPLAIN-4",  "PWD-EXPLAIN-5", "PWD-EXPLAIN-6"]
     writer.writerow(headings)
     row = [''] * (len(headings))
     for (p, id) in prompts.items():
