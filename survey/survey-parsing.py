@@ -8,17 +8,18 @@ import os
 
 INPUT = "pwod-survey1.csv"
 
+OUTPUT_NUMERICAL = 'survey-numerical.csv'
+OUTPUT_EXPLANATIONS = 'survey-explanations.csv'
+
 # Delete output file if it alr exists
-file = 'survey-numerical.csv'
-if(os.path.exists(file) and os.path.isfile(file)): 
-  os.remove(file) 
+if(os.path.exists(OUTPUT_NUMERICAL) and os.path.isfile(OUTPUT_NUMERICAL)): 
+  os.remove(OUTPUT_NUMERICAL) 
   print("file deleted") 
 else: 
   print("file not found") 
 
-file = 'survey-ai-alignment.csv'
-if(os.path.exists(file) and os.path.isfile(file)): 
-  os.remove(file) 
+if(os.path.exists(OUTPUT_EXPLANATIONS) and os.path.isfile(OUTPUT_EXPLANATIONS)): 
+  os.remove(OUTPUT_EXPLANATIONS) 
   print("file deleted") 
 else: 
   print("file not found") 
@@ -118,41 +119,8 @@ with open(INPUT, 'r') as csv_file:
         row[i+8] = (prompts_toxic[id])[i]
 
       writer.writerow(row)
-    
-  # with open('survey-ai-alignment.csv', 'w', newline='') as file:
-  #   writer = csv.writer(file)
-  #   headings = ["ID", "Prompt", "1-AI Accuracy",	"2-AI Accuracy", "3-AI Accuracy", "4-AI Accuracy", "5-AI Accuracy", 
-  #               "1-Final Pick",	"2-Final Pick", "2-Final Pick", "3-Final Pick", "4-Final Pick", "5-Final Pick", 
-  #               "1-Explanation Quality",	"2-Explanation Quality", "3-Explanation Quality", "4-Explanation Quality", "5-Explanation Quality",
-  #               "1-Reasoning",	"2-Reasoning",	"3-Reasoning",	"4-Reasoning",	"5-Reasoning",	
-  #               "1-Improvement", "2-Improvement", "3-Improvement", "4-Improvement", "5-Improvement"]
 
-  #   writer.writerow(headings)
-  #   row = [''] * (len(headings))
-  #   for (p, id) in prompts.items(): 
-  #     row = [''] * (len(headings))
-  #     row[0] = id
-  #     row[1] = p
-
-  #     # print(prompts_accuracy)
-  #     for i in range(len(prompts_accuracy[id])):
-  #       row[i+2] = (prompts_accuracy[id])[i]
-
-  #     for i in range(len(prompts_finalpick[id])):
-  #       row[i+7] = (prompts_finalpick[id])[i]
-
-  #     for i in range(len(prompts_explanation_quality[id])):
-  #       row[i+13] = (prompts_explanation_quality[id])[i]
-      
-  #     for i in range(len(prompts_reasonings[id])):
-  #       row[i+18] = (prompts_reasonings[id])[i]
-
-  #     for i in range(len(prompts_improvements[id])):
-  #       row[i+23] = (prompts_improvements[id])[i]
-      
-  #     writer.writerow(row)
-
-  with open('survey-explanations.csv', 'w', newline='') as file:
+  with open(OUTPUT_EXPLANATIONS, 'w', newline='') as file:
     writer = csv.writer(file)
     headings = ["ID", "Prompt", "PWD-EXPLAIN-1", "PWD-EXPLAIN-2", "PWD-EXPLAIN-3", "PWD-EXPLAIN-4",  "PWD-EXPLAIN-5", "PWD-EXPLAIN-6"]
     writer.writerow(headings)
